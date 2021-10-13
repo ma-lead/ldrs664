@@ -10,4 +10,3 @@ bookdown::gitbook:
         <li><a href="https://github.com/ma-lead/ldrs663" target="blank">Published with bookdown</a></li>
     download: ["epub"]
 bookdown::epub_book: default
-bookdown::bs4_book: default
