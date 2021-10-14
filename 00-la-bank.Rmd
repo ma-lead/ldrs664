@@ -2,9 +2,9 @@
 
 The following activities are recommended for each unit. There are instructions in the course commentary, and your instructor may provide further direction.
 
-## The Heart of a Teacher
+## The Heart of a Teacher{-}
 
-### Activity 1.1 
+### Activity 1.1 {-}
 
 **Reading and Reflective Learning Journal**
 
@@ -35,16 +35,18 @@ As you read, consider the following questions:
 
   - As you prepare your discussion post, refer to these notes.
 
-## Belonging to One’s Self
+## Belonging to One’s Self{-}
 
-### Activity 2.1: Who are you?
+### Activity 2.1: Who are you?{-}
 
 For this activity, you are asked to share a little more about yourself with your peers. First, find a quote about either identity or integrity. For example, you may want to perform a Google image search for “identity quote.” Find one that resonates with you, and then include a picture of something that tells us something about you. Post the quote and your image to the Unit 2 Discussion forum with a 1-2 sentence explanation. This is a non-graded activity, but may help you reflect on this topic and to prepare for the assignment in this unit.
 
 
-### Activity 2.2: View and Reflect View the following resources and reflect on your learning: - Read. Brown, B. (2017). Chapter 1: Everywhere and Nowhere. - Watch: Maya Angelou: <a href="http://billmoyers.com/content/conversation-maya-angelou/"><i>Interview with Bill Moyers</a> (7 minutes).
+### Activity 2.2 {-}
 
-### Activity 2.3: Vulnerability Video
+View and Reflect View the following resources and reflect on your learning: - Read. Brown, B. (2017). Chapter 1: Everywhere and Nowhere. - Watch: Maya Angelou: <a href="http://billmoyers.com/content/conversation-maya-angelou/"><i>Interview with Bill Moyers</a> (7 minutes).
+
+### Activity 2.3: Vulnerability Video{-}
 
 :fa-film: Watch the TedTalk by Brene Brown: (20 minutes)
 
@@ -59,13 +61,13 @@ As you watch, consider the following questions:
 
 :fa-pencil: You may want to answer these questions in your Reflective Learning Journal, and refer back to them as you complete the assessment for this unit.
 
-### Activity 2.4: Reading
+### Activity 2.4: Reading{-}
 
 Brown (2017) argues that authenticity is essential to belonging.
 
 ! "You will always belong anywhere you show up as yourself and talk about yourself and your work in a real way." ! -- Brene Brown (2017, p. 26)
 
-### Activity 2.6: Listen and Reflect
+### Activity 2.6: Listen and Reflect{-}
 
 Listen to “[Brave](https://www.youtube.com/watch?v=QUQsqBqxoR4),” sung by Sara Bareilles.
 
@@ -78,17 +80,19 @@ As you listen to this song, consider the following questions:
 3.  How will I create a learning community that allows learners to share their thoughts authentically?
 
 
-#### Activity 2.7: Self-Test
+#### Activity 2.7: Self-Test{-}
 
 Take the [Clance Imposter Phenomenon test](http://paulineroseclance.com/pdf/IPscoringtest.pdf). As you take the test, consider the areas in which you feel vulnerable in your work as a learner. How would you address these concerns for learners in courses you facilitate?
 
 
-### Activity 2.8: Readings Read: Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. The Leadership Quarterly 16, pp. 343–372.
+### Activity 2.8: {-}
+
+Readings Read: Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. The Leadership Quarterly 16, pp. 343–372.
 
 Optional Read: Cuddy, A. (2016). [I don’t deserve to be here: Presence and the imposter syndrome](https://leanin.org/news-inspiration/overcoming-imposter-syndrome-to-reveal-your-presence).
 
 
-### Activity 2.9: Connection Activities  & Discussion
+### Activity 2.9: Connection Activities  & Discussion{-}
 
 “Liberating Structures” (Lipmanowicz & McCandless, 2013) are used in collaborative learning and work environments to create space for all participants to engage in collaborative inquiry and unleash innovation. One of these “Liberating Structures” is the strategy of the “Nine Whys,” which allows participants to clarify what is important in their work. You may choose to use a strategy like this in your role as a facilitator and teacher. For this learning activity, however, you will use the strategy of the “Nine Whys” to consider your own identity as a teacher/facilitator.
 

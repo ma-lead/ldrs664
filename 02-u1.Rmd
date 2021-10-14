@@ -60,7 +60,7 @@ These learning activities will engage you in considering the guiding questions 
 </tbody>
 </table>
 
-## Authenticity in Teaching and Learning 
+## Authenticity in Teaching and Learning {-}
 
 Teaching and learning are deeply personal experiences. Learning is, by definition, a transformative experience; we change as a result of learning. Teaching is also a transformative experience; we change as a result of teaching.
 
@@ -74,7 +74,7 @@ In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's
 
 [Learning Activity](https://ma-lead.github.io/ldrs664/00-la-bank#activity-1-1)
 
-## Identity and Integrity as a Coach/Facilitator
+## Identity and Integrity as a Coach/Facilitator{-}
 
 Palmer (2017) argues that identity and integrity are foundational to good teaching. From Palmer’s perspective, this means we must endeavour to know ourselves and to create learning spaces that foster integrity in our students, allowing them to authentically engage with each other, with us, and with the discipline we are studying.
 
@@ -82,13 +82,13 @@ In order to have integrity, we must know our own values and strengths, our own b
 
 ! "If the work we do lacks integrity for us, then we, the work, and the people we do it with will suffer." -- Palmer (2017, p. 16)
 
-#### Learning Activity 1.2: Reflect and Respond
+#### Learning Activity 1.2: Reflect and Respond{-}
 
 As teachers, it’s important to identify and reflect on your own values. Consider why you are taking this course. Why do you want to coach/facilitate learning? What are your beliefs about learning? What are your values about learning? What are your strengths? Where do you need help?
 
 Take some time to answer the questions above in your Reflective Learning journal.
 
-## Creating Authentic Learning Spaces
+## Creating Authentic Learning Spaces{-}
 
 ! "For now we see in a mirror dimly, but then face to face; now I know in part, but then I will know fully just as **I also have been fully known**." 1 Corinthians 13:12 (ESV)
 
@@ -134,7 +134,7 @@ As you read the discussion of authentic learning environments in Herrington and 
 
 
 
-### Questions to Consider
+### Questions to Consider{-}
 
 After completing the activities above, consider the following questions:
 
@@ -145,13 +145,14 @@ After completing the activities above, consider the following questions:
 - What can I do to create hospitable learning spaces?
 
 
-## Unit 1 Summary
+## Unit 1 Summary{-}
 
 In this first unit, you have had the opportunity to think and learn about your identify and beliefs about your role as a facilitator/teacher, and consider key elements of authentic learning communities. The hunger for authentic human relationships and authentic learning can and should compel us to consider our own identity and integrity, both as teachers and learners. In our next unit, we will explore ideas related to vulnerability in leadership, and learning to be “at home” with ourselves so we can, in turn, lead and teach others.
 
-## Assessment
+## Assessment{-}
 
-### Unit 1 Discussion After completing this unit, including the learning activities, you are asked to write a discussion post on the following:
+### Unit 1 Discussion {-}
+ After completing this unit, including the learning activities, you are asked to write a discussion post on the following:
 
 ** Part 1** Incorporating the readings in this unit, write a 150-250 word discussion post that addresses the following:
 
@@ -163,11 +164,12 @@ In this first unit, you have had the opportunity to think and learn about your i
 
 Your instructor will provide direction about how to complete this activity.
 
-#### Grading Criteria See the following [rubric](LDRS664_DiscussionRubric.pdf) that explains how your discussion contributions will be evaluated.
+#### Grading Criteria {-}
+See the following [rubric](LDRS664_DiscussionRubric.pdf) that explains how your discussion contributions will be evaluated.
 
 
 
-## Checking your Learning
+## Checking your Learning{-}
 
 Before you move on to the next unit, you may want to check to make sure that you are able to: 
 - Describe your own personal identity as a facilitator/teacher. 

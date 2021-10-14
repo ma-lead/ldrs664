@@ -6,24 +6,19 @@ site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 url: https://ma-lead.github.io/ldrs664
-# cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
 biblio-style: apalike
 ---
 
-# Welcome to LDRS 664: Creating Authentic Learning Communities!
+# Welcome to LDRS 664: Creating Authentic Learning Communities!{-}
 
 Below is some key information about this course.   Also be sure to read the full syllabus [here](LDRS-664-Syllabus-Creating-Authentic-Learning-Communities81.pdf)
 
 
-## Course Description
+## Course Description{-}
 
 Learners explore theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.   Learners explore teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment. Learners explore themes such as identity, perception, interconnectedness and learning organizations. Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment. 
 
-## Course Learning Outcomes
+## Course Learning Outcomes{-}
 
 On successfully completing this course, students should be able to:
 
@@ -40,7 +35,7 @@ On successfully completing this course, students should be able to:
 6.  Analyze the effectiveness of training and employee development.
 
 
-## REQUIRED TEXT(S)
+## Required Text(S){-}
 
 1.  Brookfield, S. & Preskill, S. (2016). *The Discussion Book: 50 Great Ways to Get People Talking*. San Francisco: Jossey-Bass. \*This is an excellent resource book. There is no assigned reading. (also used in LDRS 627)
 
@@ -58,12 +53,12 @@ On successfully completing this course, students should be able to:
 
  
 
-## Course Activities/Requirements
+## Course Activities/Requirements{-}
 
 Activities include participation in discussions, assignments, and various ungraded learning activities designed to prepare students for assessments.  See course outline below for details on activities and assignments.
 
 
-## Determination Of Final Grade
+## Determination Of Final Grade{-}
 
 | **Assessment**                         | **Grade** | Learning Outcome|
 |----------------------------------------|-----------|-----------|
@@ -78,7 +73,7 @@ grading rubrics.
 
 
 
-## Course Topics
+## Course Topics{-}
 
  Unit 1: The Heart of a Teacher
 
@@ -108,6 +103,6 @@ grading rubrics.
 
 [button url="https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0" target="_blank" label="Academic Dishonesty Policy" type="danger" classes="external-link"]_
 
-## Graduate Level Writing Standards
+## Graduate Level Writing Standards{-}
 
 For students in 664, graduate level writing standards following APA 7 are expected. Please consult the [OWL Purdue website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html) for guidance and seek assistance from the TWU Writing Center and writing coaches as needed. Assignments have rubrics that attribute some marks to APA formatting and cannot be graded as fully meeting expectations if there are APA errors. That said, your conceptual understanding remains of primary importance. It is your responsibility to ensure polished work to the highest standard of which you are capable. This demands meticulous attention to detail, which will become more 'natural' with practice. Please seek any necessary clarification from your instructor.
