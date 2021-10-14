@@ -1,215 +1,177 @@
-# Unit 1{-}
+# The Heart of a Teacher
 
-## Learning in Community{-}
+Welcome to LDRS 664 Creating Authentic Learning Communities!
 
-#### ### Thursday, Sept. 9 - Wednesday, Sept. 15{-}
-###### Things to do this week...you will be directed when to complete these tasks as you read through the course materials.{-}
--  Meet in Zoom **Thursday Sept. 9 - 11:30 AM PDT**    
-- Download and review** the syllabus from the *Course Introduction* tab in Moodle.  
-- **Introduce** yourself in the *Unit 1 Forum* in Moodle.  
-- **Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.ezproxy.student.twu.ca/science/article/pii/S1096751600000166)  [![DOI:10.1016/S1096-7516(00)00016-6](https://zenodo.org/badge/DOI/10.1016/S1096-7516(00)00016-6.svg)](https://www-sciencedirect-com.ezproxy.student.twu.ca/science/article/pii/S1096751600000166) 
-- **Read** [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230) [![DOI:10.19173/irrodl.v4i2.149](https://zenodo.org/badge/DOI/10.19173/irrodl.v4i2.149.svg)](https://doi.org/10.19173/irrodl.v4i2.149)    
-- **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4) [![DOI:10.1007/s12528-011-9049-4](https://zenodo.org/badge/DOI/10.1007/s12528-011-9049-4.svg)](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)  
-- **Publish** your arguments for or against the *Interaction Equivalency Theorem* in the Moodle *Unit 1 Forum*.  
-- Please complete these tasks by**Wednesday, Sept. 15 @ 11:00 PM PDT**
+As humans, we long for authenticity in our relationships. We want to feel "at home" in the organizations that are part of our lives -- our families, schools, communities, places of worship. We seek connection. We search for a place where we are known.
 
+This sense of being"at home" is essential to our experience as learners. Deep, authentic learning happens in spaces where we feel connected with others -- places and spaces where we are known. Palmer (1998) refers to this as the "spiritual quest for connectedness" (p. 5).
 
-## Overview{-}
+In this course, we will explore together the theoretical foundations of learning communities, evaluating key elements essential to creating authentic learning communities, where learners are known and learning is authentic. In this unit, we will engage with the writings of Parker Palmer, a teacher and writer who has written several important works regarding the essential role of authenticity in teaching and learning.
 
-Welcome to LDRS 663 - _Coaching for Transformational Blended Learning_! In this first unit, we will begin by considering the nature of learning communities through the lens of a model called the _Community of Inquiry (CoI)_ ([Garrison et al., 2000](https://www.sciencedirect.com/science/article/pii/S1096751600000166?); [Vaughan et al., 2013](http://www.aupress.ca/index.php/books/120229)). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process ([Dewey, 1897](https://en.wikisource.org/wiki/My_Pedagogic_Creed); [Vygotsky, 1978](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.191437&site=eds-live)). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
+In addition to reading, throughout this course, we will also listen to music and view several short films that will allow us to more deeply engage with the concepts of belonging and authenticity within the teaching/learning experience.
 
-### Topics{-}
-This unit is divided into 3 topics:
+## Topics {-}
 
-1. Introduction to the Community of Inquiry Model
+Unit 1 focuses on two guiding questions:
 
-2. Modes of Interaction
+1.  What does it mean to be authentic in teaching and learning?
 
-3. Interaction Equivalency Theorem
+2.  What is the facilitator’s role in creating spaces for authentic learning?
 
+## Learning Outcomes {-}
 
-### Learning Outcomes{-}
 When you have completed this unit you should be able to:
 
-- Analyze the characteristics of the Community of Inquiry model.
-- Evaluate different modes of interaction.
-- Criticize the Interaction Equivalency Theorem.
+1.  Describe your own personal identity as a facilitator/teacher.
 
-### Resources{-}
-Here are the resources you will need to complete this unit:
+2.  Identify yourpersonal beliefs about your role as a facilitator/teacher.
 
-Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education*, 2, 87-105. doi:10.1016/S1096-7516(00)00016-6 - This article is accessible through the [TWU Library](http://www.twu.ca/library).
+3.  Discuss key elements of an authentic learning community.
 
-Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended learning environments: Creating and sustaining communities of inquiry._ Athabasca: AU Press. - This book is available for free at [AUPress](http://www.aupress.ca/index.php/books/120229).
+## Activity Checklist {-}
 
+These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities.
 
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><strong>Activities</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><strong>Activity 1.1:</strong> Read: Palmer, P. (2017): Introduction, Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching; Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning.</p>
+<p>As you read, consider the following questions, and make some notes in your Relfective Learning Journal. <em>When have you felt &quot;at home&quot; within a learning community? What elements made that learning space feel like &quot;home&quot;? What does it mean for you to be authentic as a teacher? How do we create authentic learning spaces?</em></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><strong>Activity 1.2:</strong> Reflect on your values. </a></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><strong>Activity 1.3: </strong> Rank the strategies listed to create an authentic learning space that is hospitable and open. Then, read: Herrington, J. &amp; Oliver, R. (2000). [An instructional design framework for authentic learning environments.](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers)<em>Educational Technology Research and Development</em>. 48(<em>3</em>), pp 23-48. </td>
+</tr>
+<tr class="even">
+<td></td>
+<td><strong>Assessment: Unit 1 Discussion</strong>: Incorporating the readings in this unit, you will write a 150-250 word discussion post that addresses your values related to teaching and learning and the key elements of authentic learning spaces. See the Assessments tab for full details.</td>
+</tr>
+</tbody>
+</table>
 
-## Introduction to the Community of Inquiry Model{-}
+## Authenticity in Teaching and Learning 
 
-### Introductions{-}
-Before we get going, please take a few moments to post an introduction to yourself in the 'Introductions' forum in Moodle. Add an image to the top of your post which communicates the idea of 'Community' and a short explanation for your choice.
+Teaching and learning are deeply personal experiences. Learning is, by definition, a transformative experience; we change as a result of learning. Teaching is also a transformative experience; we change as a result of teaching.
 
-Before you dive into the content of this first unit in LDRS 663, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and share them in your introduction. Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? Take a few moments to read some of your colleagues' posts as well.
+![Authentic Learners](assets/unit1/664-authentic-learners.png)
 
+Figure 1.1: Model designed by Penfold Navarro, C. (2018)
 
-### Social Constructivism{-}
+In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life*, Parker Palmer (2017) argues that the "inner landscape of teaching" is an essential foundation out of which authentic learning experiences emerge.
 
-There is a very good chance that the posts you read as part of the previous learning activity included a description of some sort of social interaction. This isn't always the case, but the idea that learning is a social process has a long history in education. Many theorists credit John Dewey for bringing this idea to the forefront of educators' minds. In his 1897 treatise *My Pedagogic Creed* he writes:
+! "Teachers possess the power to create conditions that can help students learn a great deal -- or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act." -- Palmer (2017, p. 7)
 
-> I believe that the school is primarily a social institution. Education being a social process, the school is simply that form of community life in which all those agencies are concentrated that will be most effective in bringing the child to share in the inherited resources of the race, and to use his own powers for social ends. (p. 7)
+[Learning Activity](https://ma-lead.github.io/ldrs664/00-la-bank#activity-1-1)
 
-The idea didn't originate with Dewey, though, as we know that in first-century Palestine there was a certain itinerant teacher whose lessons were profoundly impactful on a small group of young men and women who were called to live and learn in a deeply personal and social community.
+## Identity and Integrity as a Coach/Facilitator
 
-Following Dewey, many others, such as Jean Piaget, Jerome Bruner, and Lev Vygotsky (see [Driscoll, 2005)](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.1254633&site=eds-live) have written about what has now become known as the educational theory of *social constructivism*, or, more concisely, constructivism. Driscoll (2005) describes constructivism as a theory that
-> rests on the assumption that knowledge is constructed by learners as they attempt to make sense of their experiences. Learners, therefore are not empty vessels waiting to be filled, but rather active organisms seeking meaning. (p.387)
+Palmer (2017) argues that identity and integrity are foundational to good teaching. From Palmer’s perspective, this means we must endeavour to know ourselves and to create learning spaces that foster integrity in our students, allowing them to authentically engage with each other, with us, and with the discipline we are studying.
 
-This process of seeking meaning is an iterative process whereby the learner experiences some sort of cognitive dissonance, or a disconnect between what they previously knew and some new piece of evidence or experience that disconfirms that knowledge. The learner then seeks to resolve that dissonance by either incorporating the new experience into an older schema, or by disregarding one or the other. Most often, the resulting knowledge is constructed from portions of both the new and old idea.
+In order to have integrity, we must know our own values and strengths, our own beliefs about teaching and learning, and our own perspective on the work we are doing.
 
-### Community of Inquiry{-}
+! "If the work we do lacks integrity for us, then we, the work, and the people we do it with will suffer." -- Palmer (2017, p. 16)
 
-This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et al. theorize that there are three critical components, or "presences" that compose an interactive, online learning environment: Cognitive presence, social presence, and teaching presence. The intersection of these three presences is the heart of an educational experience.
+#### Learning Activity 1.2: Reflect and Respond
 
-![Community of Inquiry Model](assets/u1/CoI-Model.jpg)
+As teachers, it’s important to identify and reflect on your own values. Consider why you are taking this course. Why do you want to coach/facilitate learning? What are your beliefs about learning? What are your values about learning? What are your strengths? Where do you need help?
 
-#### Cognitive Presence{-}
-Cognitive presence, possibly the most foundational element, is the
-> extent to which the participants in any particular configuration of a community of inquiry are able to construct meaning through sustained communication (p. 89).
+Take some time to answer the questions above in your Reflective Learning journal.
 
-Recall that this cognitive process is at the heart of constructivist learning environments. It seems obvious (be careful when people say that) that this construction of meaning through communication is the entire point of higher education. Your task as a student is to change your own mind, and that is a very tall order as our beliefs about many things are remarkably resilient. The way we engage in this task will have a significant bearing on the outcomes of the task.
+## Creating Authentic Learning Spaces
 
-If we approach communication with too much confidence in our own views, we can shut out competing ideas to our own detriment, so it is important to bring a cautious intelligence, or, as I once heard a student describe it, epistemic humility. We all know that we are wrong about some things. The trouble is we don't know what we are wrong about and how we have misunderstood.
+! "For now we see in a mirror dimly, but then face to face; now I know in part, but then I will know fully just as **I also have been fully known**." 1 Corinthians 13:12 (ESV)
 
-Cognitive presence in a text-based environment (like an online course) carries with it some affordances, but also some disadvantages. It is a relatively common experience for people to type something in a text message or an email, only to have their intentions grossly misunderstood because there are fewer para-linguistic cues in text compared to verbal face-to-face communication. Recent developments in incorporating emojis have started to change this, but emojis are generally considered to be too informal for 'serious scholarly work' or written professional communication. So, the relatively lean environment of text can lead to significant misunderstandings.
+As we begin thinking about creating authentic learning spaces, consider a time when you have felt “at home” within a learning community, whether in formal education, your faith community, or your employment. What elements made that learning space feel like “home?”
 
-On the other hand, for learners like me who tend toward introversion, the asynchronous nature of text-based learning environments is a huge advantage. I couldn't count the number of times that I have wanted to contribute to an in-class discussion, but needed too much time to formulate a coherent response, and before I knew it, the conversation had moved on. My point was no longer relevant, having been resolved by those in the class who were more extroverted and ready with an answer. A text-based environment, however, gives me *time to think, write, revise, and then post* my response.
+In the song, *Home**, Phillip Phillips sings about the universal need we share as humans to “belong.” Take a moment now to listen to this song, considering what the lyrics say about what it means to belong. [LINK](https://www.youtube.com/watch?v=HoRkntoHkIE)
 
-#### Social Presence{-}
-Garrison, et.al. describe social presence as
->the ability of participants in the Community of Inquiry to project their personal characteristics into the community, thereby presenting themselves to the other participants as ‚Äúreal people.‚Äù (p. 89)
+!! "Just know you’re not alone 
+!! 'Cause I’m going to make this place your home." 
+!!-- Phillip Phillips,
 
-In any community, and especially the TWU community, the ability to *belong* and to be accepted as a whole and integrated person is critical to people feeling like they *actually do belong*. It is for this reason that many experienced online educators encourage a more colloquial style of writing in online forums or blogs. Strict adherence to APA or other style guides virtually eliminates self-referential language such as personal pronouns. It is hard to project your personal characteristics as a real person when you can only refer to yourself in the third person.
+In order for students to authentically learn, we must create learning spaces that are safe, where students know and feel that they belong. Palmer (1998) refers to this need for belonging as the "spiritual quest for connectedness" (p.5).
 
-By allowing a more personal style and the projection of self into the community, it is thought that students will build a sense of trust in the community and feel more empowered to participate in the difficult work of changing their minds. Social presence supports cognitive presence by allowing the learning environment to be safe and welcoming.
+If a sense of belonging provides a foundation for learning, then in our role as teachers, facilitators, or coaches, we must endeavour to create spaces where students know and feel that they belong.
 
-#### Teaching Presence{-}
-This final element of the CoI model is the design and facilitation of the learning experience
->to support and enhance social and cognitive presence for the purpose of realizing educational outcomes. (p. 90).
+!!! "Good teachers possess a capacity for connectedness. They are able to eave a complex web of connections among themselves, their subjects, and their students so that students can learn to weave a world for themselves." -- Palmer (2017, p. 11)
 
-Teaching presence can be a shared function between members of the community. Garrison, et al. point out that the design of the experience is typically performed by the teacher, and the facilitation is more often shared. In a connected course like this one, there is a greater emphasis on shared facilitation in a community of learners compared to what might be experienced in a f2f (face to face) course. It is in this shared discourse in a safe environment that allows learners to engage in the difficult cognitive work of learning.
+But how is this done?
 
+In “*To Know As We Are Known,*” Palmer (1993) suggests that learning spaces must include openness, boundaries, and an air of hospitality. These learning spaces, according to Palmer (1993) can be spaces “both to be and to become” (p. 71).
 
-### Learning Activity{-}
-Read [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www.sciencedirect.com/science/article/pii/S1096751600000166) (access through the TWU library).
+**Activity 1.3: Ranking**
 
-If you haven't done so previously, sign up for and activate hypothes.is and while you are reading the article, leave some annotations that connect what you are reading to your own experience.
+*Rank the following strategies according to your comfort level. For each strategy, list one practical action you can take in an online learning environment (as facilitator or learner) to create an authentic learning space that is hospitable and open.*
 
-Use the tag 'ldrs663' in any annotations you create so that we can all find each other.
+“To study with a teacher who not only **speaks** but l**istens**, who not **only gives answers** but **asks questions** and **welcomes our insights**, who **provides information and theories** that **do not close doors** but **open new ones**, who **encourages students** to help each other learn – to study with such a teacher is to know the power of a learning space” (Palmer, 1997, pp. 70-71)
 
-[Click here for assistance getting set up with hypothes.is.](http://create.twu.ca/help/other-web-tools/hypothesis)
+1.  Speaking
 
-As you read, consider a time where you experienced a learning environment where the three presences described in the CoI were apparent. Consider the following questions and consider writing your responses in a learning journal.
-  - Were all three presences demonstrated?
-  - Which of the three were most obvious? Least?
-  - Which presence is most important for you?
+2.  Listening
 
-Note that this is an ungraded activity, but is designed to help prepare you for the assessments in this course.  Throughout the course you are encouraged to take notes in a journal of some sort. Refer to these notes as you complete your assessments.
+3.  Giving answers
 
+4.  Asking questions
 
+5.  Providing information/theories that open doors
 
-## Topic 2: Modes of Interaction{-}
-For this next topic we will look at what we mean by 'interaction', a word which is thrown around a lot in educational technology, but...
+6.  Encouraging students to help each other learn
 
-[Watch](https://youtu.be/G2y8Sx4B2Sk)
+As you read the discussion of authentic learning environments in Herrington and Oliver (2000), consider how the elements they discuss align with or differ from Palmer’s (2017) description of learning communities.
 
-Before we get into the the topic of interaction, please take a few minutes to answer the following questions about scenarios that may or may not be considered 'interaction'.
-(Note that you can check your answer right away, and then click the arrow for the next example.)
+- Read Herrington, J. and Oliver, R. (2000). [An instructional design framework for authentic learning environments](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers).
 
-[h5p id="2"]
 
-What do you think? Do you agree with the 'correct' and 'incorrect' responses on the quiz?
 
+### Questions to Consider
 
-### Interaction{-}
-Anderson (2003) argues that, despite the lack of clarity around definitions of interaction, there seems to be a general understanding that interaction of some sort is a requirement for learning. He settles on the definition from Wagner (1994, p.8)
+After completing the activities above, consider the following questions:
 
-> reciprocal events that require at least two objects and two actions. Interactions occur when these objects and events mutually influence one another.
+- What are the important values that will guide my teaching/facilitation?
 
-He provides a model of interaction in learning environments that includes three main agents in the process: students, teachers, and content (Figure 1).
+- What elements matter most to me in a learning community?
 
-![alt-text](assets/u1/Modes-Interaction-Anderson.png "Modes of Interaction from Terry Anderson")
+- What can I do to create hospitable learning spaces?
 
-Figure 1. Modes of Interaction from Anderson (2003).
 
-At each point of the triangle are the agents in an educative process. The arrows between them indicate the two-way communication described by Wagner, and the recursive arrows above or below the agents are secondary forms of interaction.
+## Unit 1 Summary
 
-### Other Models of Interaction{-}
-Kanuka (2011) describes a modified model of interaction which presumes that all educational interactions occur in the context of some sort of content (Figure 2.).
+In this first unit, you have had the opportunity to think and learn about your identify and beliefs about your role as a facilitator/teacher, and consider key elements of authentic learning communities. The hunger for authentic human relationships and authentic learning can and should compel us to consider our own identity and integrity, both as teachers and learners. In our next unit, we will explore ideas related to vulnerability in leadership, and learning to be “at home” with ourselves so we can, in turn, lead and teach others.
 
-![alt-text](assets/u1/Kanuka-Modes-of-Interaction.png "Kanuka's Model of Interaction")
+## Assessment
 
-Figure 2. Modes of Interaction from Kanuka (2011).
+### Unit 1 Discussion After completing this unit, including the learning activities, you are asked to write a discussion post on the following:
 
-In Anderson's model, content is an agent in the process, but in Kanuka's model, content of some sort is assumed to be the foundation of learning environments and that interactions between and among learners and instructors happens in the context of making sense of the content. The content itself does not have agency.
+** Part 1** Incorporating the readings in this unit, write a 150-250 word discussion post that addresses the following:
 
-A combination of these two models was described by Madland (2014). Madland's model, shown in figure 3, is a return to Anderson's three-sided model except with the addition of peer interactions, and all interactions between agents occuring in the context of the content that is to be learned. Also added are the three sides of the model representing structured learning activities designed specifically to enhance the educative effects of the interactions.
+*List and describe three values you hold related to teaching and learning. Write a personal statement about your identity as a coach/facilitator.*
 
-![alt-text](assets/u1/Modes-of-Interaction-Madland.png "Madland's model of interaction")
+**Part 2**
 
-Figure 3. Modes of Interaction from Madland (2014).
+*Consider the key elements of authentic learning spaces, outlined by Palmer (2017) in Chapter 3. Select two of these elements that you consider to be important. Introduce the element and discuss some practical steps you could take to create an authentic learning space. Respond to at least two other learners, providing additional suggestions regarding the elements they have chosen. Be sure to cite Palmer (2017) and other authors in both your initial posting and your responses to other learner to demonstrate ways in which your thinking aligns with, contrasts with, or builds on the writing of the authors.*
 
-> Madland, C. (2014). *Structured student interactions in online distance learning: Exploring the study buddy activity* (Master‚Äôs thesis, Athabasca University). Retrieved from [http://hdl.handle.net/10791/47](http://hdl.handle.net/10791/47)
+Your instructor will provide direction about how to complete this activity.
 
-It is not enough to simply expect interactions between learners and instructors to be goal-oriented towards learning outcomes. Educators must design specific activities (teaching presence) to create the conditions (social presence) for learning to occur (cognitive presence). An example of this can be seen in the seemingly ubiquitous 'Group Project' assigned in so many undergraduate courses. Sometimes, groups are allowed to form themselves, other times, the instructor assigns groups, or there is some sort of random process to create groups. However they are formed, groups too often fall into a pattern of behaviour where one or two of the students do most of the work and the remaining group members engage in social loafing and benefit from their peers' work.
+#### Grading Criteria See the following [rubric](LDRS664_DiscussionRubric.pdf) that explains how your discussion contributions will be evaluated.
 
-An alternative practice is to engage groups in a specific structured process of cooperation where everybody must do their work, or else the entire group suffers. An example is to have students work in peer review partners where students submit their assignments to their peer review partner who then provides feedback based on specific questions and categories of comments. When the original students receives their partner's feedback, they may choose how to integrate the suggestions into the final assignment that they submit to their instructor. Each student is then graded on the quality of their finished assignment, the quality of the feedback that they provided, and on the rationale for how they incorporated the peer review into their own work.
 
-There are myriad structures that can be used to ensure that interactions are inclined towards producing student learning, and we will introduce you to some of those in unit 5.
 
+## Checking your Learning
 
-### Learning Activity{-}
+Before you move on to the next unit, you may want to check to make sure that you are able to: 
+- Describe your own personal identity as a facilitator/teacher. 
+- Identify your personal beliefs about your role as a facilitator/teacher. 
+- Discuss key elements of an authentic learning community.
 
-#### Read{-}
-Read the following article by Terry Anderson
-- [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)
 
-As you read, consider what interactions you have experiences in online or f2f courses.
-
-
-
-
-## Topic 3: Interaction Equivalency Theorem{-}
-For our last topic of this unit, we'll explore Anderson's (2003) *Interaction Equivalency Theorem*, stated as
-
-> Deep and meaningful formal learning is supported as long as one of the three forms of interaction (student‚Äìteacher; student-student; student-content) is at a high level. The other two may be offered at minimal levels, or even eliminated, without degrading the educational experience.
-> High levels of more than one of these three modes will likely provide a more satisfying educational experience, though these experiences may not be as cost or time effective as less interactive learning sequences. (p. 4)
-
-At TWU, there has always been a significant emphasis placed on student-teacher interactions. This can be seen in small class sizes and opportunities for students to be involved in faculty-led research projects and travel studies. Distance education, however, has long suffered from a distinct lack of student-teacher and student-student interactions. For many years, distance education was delivered either through the post or through one-way media such as radio or TV, virtually eliminating interactions. This led to a pervasive view that distance education courses and programs were second-rate at best.
-
-However, now that modern communication infrastructure has developed to the point that media-rich, synchronous, two-way communication is almost free, opportunities for distance learning environments to include high levels of student-student and student-teacher interaction are much more feasible.
-
-One problem remains, though, and that is that student-teacher interaction is a scarce commodity. It is costly to hire enough faculty to enable one-on-one or small-group interaction between students and faculty. The distance educator's response to this challenge is to front-load the faculty input (high-level disciplinary expertise or cognitive presence) into the course materials and to de-couple 'interaction' from both time and place.
-
-In an asynchronous, text-based environment, students and teachers do not need to be present in the same place at the same time in order to enjoy rich interactions.
-
-
-
-## Unit 1 Assessment{-}
-
-Please complete the assignment under 'Post 1' below. This will be your first of five draft posts during the course.
-
-[Blog Post 1](assessments/#blog)
-
-
-## References{-}
-
-Anderson, T. (2003). Getting the mix right again: An updated and theoretical rationale for interaction. *International Review of Research in Open and Distance Learning,* 4(2), 1‚Äì14.
-
-Dewey, J. (1897). *My pedagogic creed.* In M. S. Dworkin (Ed.), *Dewey on education.* NewYork, NY: Teachers College Press.
-
-Driscoll, M. P. (2005). *Psychology of learning for instruction* (3rd ed.). Boston: Pearson Education.
-
-Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*, 87‚Äì105. https://doi.org/10.1016/S1096-7516(00)00016-6
-
-Kanuka, H. (2011). Interaction and the online distance classroom: Do instructional methods effect the quality of interaction? *Journal of Computing in Higher Education,* 23(2), 143‚Äì156. https://doi.org/10.1007/s12528-011-9049-4
-
-Madland, C. (2014). *Structured student interactions in online distance learning: Exploring the study buddy activity* (Master‚Äôs thesis). Athabasca University. Retrieved from http://hdl.handle.net/10791/47

@@ -1,19 +1,113 @@
 ---
-title: "LDRS663"
+title: "LDRS664"
 author: "Colin Madland"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
+url: https://ma-lead.github.io/ldrs664
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::bs4_book,
+  The HTML output format for this example is bookdown::gitbook,
   set in the _output.yml file.
 biblio-style: apalike
 ---
 
-# Course Description {-}
+# Welcome to LDRS 664: Creating Authentic Learning Communities!
 
-Students will examine the theoretical foundations and professional practices of coaching learners in blended learning environments with an emphasis on facilitating transformational learning experiences. The intersection of adult education, educational technology, and international education thought is investigated in relation to the development of effective strategies for coaching learners within the emerging context of technologically distributed global higher education. Projects develop digital literacy skills, including the use of communication, collaboration and publishing tools; and media literacy, including knowledge of copyright, open licensing, and digital citizenship.
+Below is some key information about this course.   Also be sure to read the full syllabus [here](LDRS-664-Syllabus-Creating-Authentic-Learning-Communities81.pdf)
+
+
+## Course Description
+
+Learners explore theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.   Learners explore teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment. Learners explore themes such as identity, perception, interconnectedness and learning organizations. Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment. 
+
+## Course Learning Outcomes
+
+On successfully completing this course, students should be able to:
+
+1.  Interpret the influence of teacher authenticity on student learning.
+
+2.  Develop a personal philosophy of their role as facilitator in creating authentic learning communities.
+
+3.  Create a platform of beliefs regarding adult learning for a specific organization.
+
+4.  Evaluate strategies for developing learning connections with and between students.
+
+5.  Apply strategies for creating authentic learning communities that include indigenous ways of knowing.
+
+6.  Analyze the effectiveness of training and employee development.
+
+
+## REQUIRED TEXT(S)
+
+1.  Brookfield, S. & Preskill, S. (2016). *The Discussion Book: 50 Great Ways to Get People Talking*. San Francisco: Jossey-Bass. \*This is an excellent resource book. There is no assigned reading. (also used in LDRS 627)
+
+2.  Brown, B. (2017). *Braving the wilderness: The quest for true belonging and the courage to stand alone.* New York: Random House.
+
+3.  Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. *The Leadership Quarterly* 16, pp. 343–372.
+
+4.  Palmer, P.J. (2017). *The courage to teach: Exploring the inner landscape of a teacher's life*. Hoboken, NJ: Jossey-Bass.
+
+5.  Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley. (also used in LDRS 627)
+
+6.  Wheatley, M. (2017). *Who do we choose to be? Facing reality, claiming leadership, restoring sanity*. Oakland, CA: Berrett-Koehler Publishers.
+
+7.  Various articles will be provided online via Moodle.
+
+ 
+
+## Course Activities/Requirements
+
+Activities include participation in discussions, assignments, and various ungraded learning activities designed to prepare students for assessments.  See course outline below for details on activities and assignments.
+
+
+## Determination Of Final Grade
+
+| **Assessment**                         | **Grade** | Learning Outcome|
+|----------------------------------------|-----------|-----------|
+| Community of Inquiry (Discussions)     | 30%       | 1-7 |
+| Assignment 1: Identity as a Teacher    | 20%       | 2,4,5,6 |
+| Assignment 2: Company Website Analysis | 20%       | 2,3,4,5 |
+| Assignment 3: Platform Paper           | 30%       | 4-5 |
+
+
+See **Assessments** section in Moodle for specific assignment details, including
+grading rubrics.
+
+
+
+## Course Topics
+
+ Unit 1: The Heart of a Teacher
+
+ Unit 2: Belonging to One’s Self
+
+ Unit 3: Belonging to Others
+
+ Unit 4:  Creating A Sense of Belonging
+
+ Unit 5: Creating Space for All Learners
+
+ Unit 6: Authentic Learning and Identity
+
+ Unit 7: Information and Perception
+
+ Unit 8:  Interconnectedness and Integrity
+
+ Unit 9: Confidence and Humility
+
+ Unit 10: Conclusions
+
+
+
+
+!! It will be assumed that you have read, understand, and agree to the information provided at the 'Academic Dishonesty Policy' button below. If you have any questions at all please contact your instructor.
+
+
+[button url="https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0" target="_blank" label="Academic Dishonesty Policy" type="danger" classes="external-link"]_
+
+## Graduate Level Writing Standards
+
+For students in 664, graduate level writing standards following APA 7 are expected. Please consult the [OWL Purdue website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html) for guidance and seek assistance from the TWU Writing Center and writing coaches as needed. Assignments have rubrics that attribute some marks to APA formatting and cannot be graded as fully meeting expectations if there are APA errors. That said, your conceptual understanding remains of primary importance. It is your responsibility to ensure polished work to the highest standard of which you are capable. This demands meticulous attention to detail, which will become more 'natural' with practice. Please seek any necessary clarification from your instructor.

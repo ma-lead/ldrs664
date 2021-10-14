@@ -5,8 +5,8 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: true
       before: |
-        <li><a href="./">Leadership 663</a></li>
+        <li><a href="./">Leadership 664</a></li>
       after: |
-        <li><a href="https://github.com/ma-lead/ldrs663" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/ma-lead/ldrs664" target="blank">Published with bookdown</a></li>
     download: ["epub"]
 bookdown::epub_book: default
