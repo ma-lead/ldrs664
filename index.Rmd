@@ -9,10 +9,39 @@ url: https://ma-lead.github.io/ldrs664
 biblio-style: apalike
 ---
 
+
 # Welcome to LDRS 664: Creating Authentic Learning Communities!{-}
 
 Below is some key information about this course.   Also be sure to read the full syllabus [here](LDRS-664-Syllabus-Creating-Authentic-Learning-Communities81.pdf)
 
+```{block, type='reflect'}
+This box will prompt you to pause and reflect on your experience and/or learning. No feedback will be given, but this may be graded on completion.
+```
+
+```{block, type='assessment'}
+This box will signify a quiz or assignment which you will turn in for grading, on which the instructor will provide feedback.
+```
+
+```{block, type='progress'}
+This box is for checking your understanding, to make sure you are ready for what follows.
+```
+
+```{block, type='video'}
+This box is for displaying/linking to videos in order to help illustrate or communicate concepts.
+```
+
+```{block, type='caution'}
+This box will warn you of possible problems or pitfalls you may encounter! 
+```
+
+```{block, type='bonus'}
+This box is to provide material going beyond the main course content, or material which will be revisited later in more depth.
+```
+
+```{block, type='feedback'}
+This box will prompt for your feedback on the organization of the course, so we can improve the material for everyone!
+Any of the boxes may include hyperlinks like this: [I am a link](https://www.r-graph-gallery.com/) or code like this `This is code`.
+```
 
 ## Course Description{-}
 
