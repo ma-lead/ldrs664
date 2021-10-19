@@ -60,7 +60,7 @@ These learning activities will engage you in considering the guiding questions 
 </tbody>
 </table>
 
-## Authenticity in Teaching and Learning {-}
+## 1. Authenticity in Teaching and Learning {-}
 
 Teaching and learning are deeply personal experiences. Learning is, by definition, a transformative experience; we change as a result of learning. Teaching is also a transformative experience; we change as a result of teaching.
 
@@ -72,9 +72,18 @@ In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's
 
 ! "Teachers possess the power to create conditions that can help students learn a great deal -- or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act." -- Palmer (2017, p. 7)
 
-[Learning Activity](https://ma-lead.github.io/ldrs664/00-la-bank#activity-1-1)
+### Learning Activity 1.1: Reading
 
-## Identity and Integrity as a Coach/Facilitator{-}
+For this course, you will keep a Reflective Learning Journal, which will provide the basis for many of your blog posts. Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, organize, and integrate these new concepts with our prior understanding, as you prepare for your future teaching/coaching.
+
+Consider the following questions:
+•	In your Reflective Learning Journal, write a summary sentence for each major idea/concept that relates to your understanding of what it means to be a teacher/facilitator/coach.
+•	Choose the concept that most resonates with you and write a short paragraph summary of this concept, applied to your professional/personal context.
+•	Formulate one question that emerged from this reading that you will explore and consider in future course readings and blog posts.
+•	As you prepare your blog post, refer to these notes.
+
+
+## 2. Identity and Integrity as a Coach/Facilitator{-}
 
 Palmer (2017) argues that identity and integrity are foundational to good teaching. From Palmer’s perspective, this means we must endeavour to know ourselves and to create learning spaces that foster integrity in our students, allowing them to authentically engage with each other, with us, and with the discipline we are studying.
 
@@ -87,6 +96,7 @@ In order to have integrity, we must know our own values and strengths, our own b
 As teachers, it’s important to identify and reflect on your own values. Consider why you are taking this course. Why do you want to coach/facilitate learning? What are your beliefs about learning? What are your values about learning? What are your strengths? Where do you need help?
 
 Take some time to answer the questions above in your Reflective Learning journal.
+
 
 ## Creating Authentic Learning Spaces{-}
 
