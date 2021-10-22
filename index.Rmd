@@ -14,7 +14,8 @@ biblio-style: apalike
 
 Learners explore theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.   Learners explore teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment. Learners explore themes such as identity, perception, interconnectedness and learning organizations. Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment. 
 
-```{block, type='Note'}
+```
+{block, type='Note'}
 The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus located at the bottom of the page.
 ```
 
@@ -75,10 +76,10 @@ grading rubrics.
 
  Unit 9: Confidence and Humility
 
- Unit 10: Conclusions
+ Unit 10: Conclusions  
 
 
- ## Required Text(S){-}
+## Required Text(S){-}
  The following are resources used in LDRS 664.  Please confirm which of the following texts are required by checking your course syllabus.
 
  1.  Brookfield, S. & Preskill, S. (2016). *The Discussion Book: 50 Great Ways to Get People Talking*. San Francisco: Jossey-Bass. \*This is an excellent resource book. There is no assigned reading. (also used in LDRS 627)
@@ -96,8 +97,8 @@ grading rubrics.
  1.  Various articles will be provided online via Moodle.
 
 
- ## Course Navigation{-}
- ### Course Units{-}
+## Course Navigation{-}
+### Course Units{-}
  This course is organized into 10 units. Each unit of the course will provide you with the following information:
 
  - A general overview of the topic that will be addressed during the unit.
