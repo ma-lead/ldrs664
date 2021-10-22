@@ -37,7 +37,7 @@ These learning activities will engage you in considering the guiding questions 
 | Activity 5.4: Read Burwell & Huyser (2013). Practicing hospitality in the classroom. Respond in your Reflective Learning Journal.|
 | Activity 5.6: Student Interview and Unit 5 Discussion|
 
- 
+
 ## Creating Collaborative Learning in an Online Environment
 
 In our role as a teacher or facilitator, we are engaged in leading learners through a transformational educational process. “Collaborative Inquiry” is a process through which we, as educators, engage in learning about the practice of teaching through collaborative inquiry and reflection (Donohoo & Velasco, 2016).
@@ -68,7 +68,7 @@ These principles can serve as a guide for facilitating online discussions, desig
 
 Likewise, the “Free-Choice Principle” contends that “people perform better and are more committed when they have freedom to choose how and what they contribute” (Whitney & Trosten-Bloom, 2010, p. 52). Facilitating discussions that allow learners to engage in conversation (whether face-to-face or online), determine some aspects of their assignments, select topics, etc., can have a powerful influence on student engagement with learning.
 
-### Activity 5.1: Reading
+### Learning Activity
 
 ```{block, type='reflect'}
 
@@ -79,7 +79,7 @@ Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 5 Teaching in Community;
 ```
 
 
-### Activity 5.2: Unit 5 Discussion
+### Learning Activity
 
 ```{block, type='reflect'}
 Review the [“Principles of Appreciative Inquiry”](https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introduction/5-classic-principles-ai/) from the Appreciative Inquiry Commons at Champlain University, or in Whitney & Trosten-Bloom. (2010). *The power of appreciative inquiry: A practical guide to positive change.*
@@ -107,7 +107,7 @@ In this course, we are exploring concepts of education that include our emotiona
 
 Donohoo and Velasco (2016), in their work on Collaborative Inquiry, also underscore the importance of acknowledging the emotional experiences of student. “There is no doubt that learning is interrupted when negative emotions and attitudes surface, as such feelings hinder our ability to make sense of things” (Donohoo and Velasco, 2016, p. 36).
 
-### Activity 5.4: Personal Reflection
+### Learning Activity
 
 ```{block, type='reflect'}
 For this activity, you will spend some time reflecting on your own experience as a learner, in order to consider the needs of the students you lead in online and face-to-face learning environments. So pick up your Reflective Learning Journal, grab your laptop, and settle down into a comfy chair (or sit among some trees).
@@ -120,13 +120,13 @@ Jot down some of your notes describing your own identity as a student. List 2-3 
 ```
 
 
-### Activity 5.5: Read and Respond
+### Learning Activity
 
 ```{block, type='reflect'}
 Read Burwell & Huyser (2013). Practicing hospitality in the classroom (available through the [TWU Library](https://www.twu.ca/library)). In your Reflective Learning Journal, make a note of the “stances” described by the authors. For each Stance, list one strategy you can employ to practice hospitality in your classes. Be as specific as possible.
 ```
 
-### Activity 5.6: Peer Interview and Discussion
+### Learning Activity
 
 ```{block, type='reflect'}
 In this activity and discussion, you will interview another student in this class to explore strategies for creating inclusive, collaborative learning communities.
@@ -139,7 +139,7 @@ First, develop a minimum of five questions to guide the interview process. The q
 Then, contact the student assigned to you for this assignment and schedule a time to meet, preferably in real-time, through zoom, skype, some other form of video conferencing, or by phone.
 
 After you have completed the interview, reflect on your classmate’s responses and your own reading. Synthesizing your learning, prepare a 250-word discussion post, identifying at least three strategies you can use to help learners develop questions with each other. Be sure to reference the other learner for her/his original ideas.
-
+```
 
 ## Unit 5 Summary
 
