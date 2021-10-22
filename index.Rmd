@@ -14,7 +14,9 @@ biblio-style: apalike
 
 Learners explore theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.   Learners explore teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment. Learners explore themes such as identity, perception, interconnectedness and learning organizations. Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment. 
 
-!! The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus located at the bottom of the page.
+```{block, type='Note'}
+The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus located at the bottom of the page.
+```
 
 ## Course Learning Outcomes{-}
 
