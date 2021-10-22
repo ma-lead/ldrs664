@@ -1,29 +1,11 @@
-# Unit 3
+# Learning Facilitation
 
-##  Learning Facilitation
 
-### Unit 2 (Week 2){-}
-#### Thursday, Sept. 16 - Wednesday, Sept. 22{-}
-###### Things to do this week...{-}
-
-- Meet in Zoom [badge label="Thursday, September 16 - 11:30 AM PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20210916T1130&p1=1109&ah=1&am=30"" /]  
-- **Read** [**Facilitating Learning and Change in Groups**](https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/)  
-- **Read** [**What is a Group?**](https://infed.org/mobi/what-is-a-group/)  
-- **Read** [**Comfort Zone to Performance Management**](https://www.researchgate.net/publication/228957278_From_Comfort_Zone_to_Performance_Management)  
-- **Read** [**Core Competencies**](https://www.iaf-world.org/site/professional/core-competencies)  
-- **Watch** [Liberating Structures](https://player.vimeo.com/video/364868276)  
-- **Visit** [**What, So What, Now What? W³**](http://www.liberatingstructures.com/9-what-so-what-now-what-w/)  
-:fa-check: Please complete these items by [badge label="Wednesday, September 22" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20210916T1130&p1=1109&ah=1&am=30"" /]  
-
----
-
-- Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/assignments) is due [badge label="Monday, Oct. 4" /]. Please begin scheduling your facilitation sessions with your groups this week so you have enough time to complete the sessions and your reflections.
-
-### Overview{-}
+## Overview{-}
 
 Facilitation in education refers to the process of helping learners to explore, learn and change. A facilitator is expert on process and group interactions. In education, facilitation is rooted in understanding the nature of the social learning process and how to guide its direction and quality. As a social species, we learn a great deal from each other in both formal and informal contexts. Our earliest learning experiences are profoundly social and intimate interactions between mother and child, and the social aspect of learning never ceases to be important. During this unit, we will examine a short history of social theories of learning from John Dewey and Lev Vygotsky, then, we will experiment with the theory and practices of facilitating learning in group settings.
 
-### Topics{-}
+## Topics{-}
 
 This unit is divided into the following topics:
 
@@ -34,7 +16,7 @@ This unit is divided into the following topics:
 5. Core Facilitation Competencies
 6. Strategies for Learning Facilitation
 
-### Learning Outcomes{-}
+## Learning Outcomes{-}
 
 When you have completed this unit, you should be able to:
 
@@ -45,7 +27,7 @@ When you have completed this unit, you should be able to:
 - Apply knowledge of the Community of Inquiry model liberating structures to the facilitation of cooperative learning activities
 - Identify and explain core competencies for facilitating learning.
 
-### Resources{-}
+## Resources{-}
 Online resources will be provided in the unit.
 
 ## Topic 1 - Social theories of learning
@@ -86,6 +68,8 @@ We have all likely experienced less-than-ideal group projects where one or two p
 Contrary to this dysfunctional group learning model, cooperative learning is structured in a way that maximizes effort from all students and, ideally, leads to all group members attaining high-level learning outcomes. In order to ensure this, there are five characteristics of learning groups that must be present for cooperative learning to occur: *"positive interdependence, individual accountability, promotive interactions, appropriate use of social skills, and group processing"* (Johnson & Johnson, 2009, p. 366).
 
 #### More about cooperative learning...{-}
+
+```{block, type='bonus'}
 ##### Positive Interdependence{-}
 Positive interdependence, according to Johnson and Johnson is the idea that individuals in a learning environment are dependent upon each other for success. In other words, I cannot succeed unless you succeed and you cannot succeed unless I succeed. So, collectively, we are interdependent. Positive interdependence is the key that distinguishes cooperative learning from competitive learning, where students are graded on a curve and only the top 2-3% of students can earn 'A' grades.
 
@@ -108,6 +92,7 @@ Not only do members of the group need to learn the content of the lesson or proj
 
 ##### Group Processing{-}
 Finally, the group must be able to monitor their process with the goal of improving their work process and product. This metacognitive task is crucial to the long-term improvement and progress towards learning goals.
+```
 
 
 
@@ -115,14 +100,14 @@ Finally, the group must be able to monitor their process with the goal of improv
 
 
 ## Learning Activity {-}
-<br>
+
+```{block, type='reflect'}
 - ***Questions to Consider***  
 - After reading through the content in Topic 2, please consider the following questions:  
 -  How can coaching concepts be applied to helping learners learn?  
 -  What key characteristics define effective coaching for learning?  
 -  How can educators coach learners through the transition of making a change?
-
-
+```
 
 ## Topic 3 - Facilitating Transformational Learning in Group Environments
 <br>
@@ -143,7 +128,8 @@ The work of facilitating the learning process within a group setting begins with
 
 
 ## - Learning Activity
-<br>
+
+```{block, type='reflect'}
 
 ### - Read and Reflect{-}
 
@@ -159,7 +145,7 @@ Read the following article:
 -  What are the core values informing facilitation?  
 -  How can the EFFECT model help you to plan a facilitated learning session?  
 -  How does a facilitator effectively structure a facilitated learning session?  
-
+```
 
 ## Topic 4 - Navigating Group Dynamics
 <br>
@@ -203,7 +189,8 @@ It is important for facilitators to understand that groups change over time. One
 
 
 ## - Learning Activity
-<br>
+
+```{block, type='reflect'}
 
 ### - Read and Reflect{-}
 
@@ -216,10 +203,12 @@ Take a moment to read the following article:
 -  What are some of the key benefits and dangers of learning in group settings?  
 -  What are some key dimensions of groups?  
 -  What are the stages of group development?  
+```
+
 
 
 ## - Learning Activity
-<br>
+```{block, type='reflect'}
 
 ### - Read and Reflect{-}
 
@@ -232,7 +221,7 @@ Take a moment to read the following article:
 -  How is White’s Optimal Performance Zone similar Vygotsky’s ZPD?  
 -  How does White’s model help a facilitator determine how to adjust their facilitation strategies?  
 -  What insight does White’s model provide about how to sustain learning performance?  
-
+```
 
 ## Topic 5 - Core Facilitation Competencies
 <br>
@@ -248,13 +237,9 @@ The professionalization of learning facilitation within educational settings is 
 - Mediating exchange of coursework and feedback between students & instructor
 
 
----
-
 
 ## - Learning Activity
-<br>
-
-### - Read and Reflect{-}
+```{block, type='reflect'}
 
 Take some time to read the following article:
 
@@ -265,7 +250,7 @@ Take some time to read the following article:
 -  What general facilitation competencies apply to facilitating learning?  
 -  What competencies do you feel are strength areas? What areas do you need to develop?  
 -  How can facilitation skills help you support learner success in an educational setting?  
-
+```
 
 ## Topic 6 - Facilitation Strategies
 <br>
@@ -278,7 +263,8 @@ It can often be challenging to devise new ways of interacting in F2F learning en
 
 
 ## - Learning Activity 
-<br>
+
+```{block, type='reflect'}
 
 ### - Watch and Reflect{-}
 
@@ -291,10 +277,12 @@ Next, visit the *Liberating Structures* website and take a look at the following
 - [**What, So What, Now What? W³**](http://www.liberatingstructures.com/9-what-so-what-now-what-w/)
 
 -  Now, consider how could you use this Liberating Structure to guide a group discussion that would help learners learn a Unit?  
-
+```
 
 
 ## Unit 2 Assessment
+
+```{block, type='assessment'}
 Please see the details for Post 1 below for your first required reflective post.
 
 [plugin:content-inject](../assignments/_blog)
@@ -302,14 +290,15 @@ Please see the details for Post 1 below for your first required reflective post.
 In addition, you should be planning your *Curriculum analysis* assignment with your learning pod.
 
 [plugin:content-inject](../assignments/_curriculum-analysis)
+```
 
 ### Checking Your Learning{-}
 
 Before you move on to the next unit, you may want to check to make sure that you are able to:
 
-:fa-check: Explain how to design learning environments to maximize learning.  
-:fa-check: Plan appropriate group learning processes to support transformative learning.  
-:fa-check: Demonstrate how to facilitate a course of study.  
-:fa-check: Design cooperative activities to maximize student-student and student-content interactions.  
-:fa-check: Apply knowledge of the Community of Inquiry model and liberating structures to the facilitation of cooperative learning activities.  
-:fa-check: Identify and explain core competencies for facilitating learning.  
+- Explain how to design learning environments to maximize learning.  
+- Plan appropriate group learning processes to support transformative learning.  
+- Demonstrate how to facilitate a course of study.  
+- Design cooperative activities to maximize student-student and student-content interactions.  
+- Apply knowledge of the Community of Inquiry model and liberating structures to the facilitation of cooperative learning activities.  
+- Identify and explain core competencies for facilitating learning.  

@@ -4,7 +4,6 @@ paper-guidelines
 the-heart-of-a-teacher-1
 learning-activity-1.1-reading
 belonging-to-ones-self-1
-unit-3
 learning-facilitation
 topic-1---social-theories-of-learning
 questions-to-consider-1
@@ -37,10 +36,6 @@ grading-criteria-3
 checking-your-learning-3
 references-1
 creating-space-for-all-learners
-overview-3
-topics-4
-learning-outcomes-4
-activity-checklist-2
 creating-collaborative-learning-in-an-online-environment
 learning-activity-6
 learning-activity-7
@@ -52,4 +47,3 @@ unit-5-summary
 assessment-3
 unit-5-discussion
 checking-your-learning-4
-references-2
