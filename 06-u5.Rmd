@@ -1,6 +1,6 @@
 # Creating Space for All Learners
 
-## Overview
+## Overview {-}
 
 Building on our discussion of learning community models, in this unit we will explore specific strategies to engage students in collaborative learning, and support connections between learners.
 
@@ -11,13 +11,13 @@ Unit 5 focuses on two guiding questions:
 - What strategies can we use in online learning environments to support connections between students?
 
 
-## Topics
+## Topics {-}
 
 1. Creating Collaborative Learning in an Online Environment
 2. Supporting Connections Between Learners
 
 
-## Learning Outcomes
+## Learning Outcomes {-}
 
 When you have completed this unit you should be able to:
 
@@ -25,7 +25,7 @@ When you have completed this unit you should be able to:
 2.  Identify strategies in online learning environments that support connections between students.
 
 
-## Activity Checklist
+## Activity Checklist {-}
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities.
 
@@ -178,7 +178,7 @@ Use the learning outcomes for this unit as a checklist of understanding before y
   - Identify facilitator strategies that invite students to engage in collaborative learning?
   - Identify strategies in online learning environments that support connections between students?
 
-## References
+## References {-}
 
 Bell, T., Urhahne, D., Schanze, S., & Ploetzner, R. (2009). Collaborative inquiry learning: models, tools, and challenges. *International Journal of Science Education. (32)*3, 349-377.
 
