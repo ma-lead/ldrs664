@@ -1,7 +1,5 @@
 ---
-title: "LDRS664"
-author: "Colin Madland"
-date: "`r Sys.Date()`"
+title: "LDRS 664"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -12,40 +10,11 @@ biblio-style: apalike
 
 # Welcome to LDRS 664: Creating Authentic Learning Communities!{-}
 
-Below is some key information about this course.   Also be sure to read the full syllabus [here](LDRS-664-Syllabus-Creating-Authentic-Learning-Communities81.pdf)
-
-```{block, type='reflect'}
-This box will prompt you to pause and reflect on your experience and/or learning. No feedback will be given, but this may be graded on completion.
-```
-
-```{block, type='assessment'}
-This box will signify a quiz or assignment which you will turn in for grading, on which the instructor will provide feedback.
-```
-
-```{block, type='progress'}
-This box is for checking your understanding, to make sure you are ready for what follows.
-```
-
-```{block, type='video'}
-This box is for displaying/linking to videos in order to help illustrate or communicate concepts.
-```
-
-```{block, type='caution'}
-This box will warn you of possible problems or pitfalls you may encounter! 
-```
-
-```{block, type='bonus'}
-This box is to provide material going beyond the main course content, or material which will be revisited later in more depth.
-```
-
-```{block, type='feedback'}
-This box will prompt for your feedback on the organization of the course, so we can improve the material for everyone!
-Any of the boxes may include hyperlinks like this: [I am a link](https://www.r-graph-gallery.com/) or code like this `This is code`.
-```
-
 ## Course Description{-}
 
 Learners explore theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.   Learners explore teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment. Learners explore themes such as identity, perception, interconnectedness and learning organizations. Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment. 
+
+!! The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus located at the bottom of the page.
 
 ## Course Learning Outcomes{-}
 
@@ -62,23 +31,6 @@ On successfully completing this course, students should be able to:
 5.  Apply strategies for creating authentic learning communities that include indigenous ways of knowing.
 
 6.  Analyze the effectiveness of training and employee development.
-
-
-## Required Text(S){-}
-
-1.  Brookfield, S. & Preskill, S. (2016). *The Discussion Book: 50 Great Ways to Get People Talking*. San Francisco: Jossey-Bass. \*This is an excellent resource book. There is no assigned reading. (also used in LDRS 627)
-
-2.  Brown, B. (2017). *Braving the wilderness: The quest for true belonging and the courage to stand alone.* New York: Random House.
-
-3.  Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. *The Leadership Quarterly* 16, pp. 343–372.
-
-4.  Palmer, P.J. (2017). *The courage to teach: Exploring the inner landscape of a teacher's life*. Hoboken, NJ: Jossey-Bass.
-
-5.  Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley. (also used in LDRS 627)
-
-6.  Wheatley, M. (2017). *Who do we choose to be? Facing reality, claiming leadership, restoring sanity*. Oakland, CA: Berrett-Koehler Publishers.
-
-7.  Various articles will be provided online via Moodle.
 
  
 
@@ -99,7 +51,6 @@ Activities include participation in discussions, assignments, and various ungrad
 
 See **Assessments** section in Moodle for specific assignment details, including
 grading rubrics.
-
 
 
 ## Course Topics{-}
@@ -125,6 +76,65 @@ grading rubrics.
  Unit 10: Conclusions
 
 
+ ## Required Text(S){-}
+ The following are resources used in LDRS 664.  Please confirm which of the following texts are required by checking your course syllabus.
+
+ 1.  Brookfield, S. & Preskill, S. (2016). *The Discussion Book: 50 Great Ways to Get People Talking*. San Francisco: Jossey-Bass. \*This is an excellent resource book. There is no assigned reading. (also used in LDRS 627)
+
+ 1.  Brown, B. (2017). *Braving the wilderness: The quest for true belonging and the courage to stand alone.* New York: Random House.
+
+ 1.  Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. *The Leadership Quarterly* 16, pp. 343–372.
+
+ 1.  Palmer, P.J. (2017). *The courage to teach: Exploring the inner landscape of a teacher's life*. Hoboken, NJ: Jossey-Bass.
+
+ 1.  Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley. (also used in LDRS 627)
+
+ 1.  Wheatley, M. (2017). *Who do we choose to be? Facing reality, claiming leadership, restoring sanity*. Oakland, CA: Berrett-Koehler Publishers.
+
+ 1.  Various articles will be provided online via Moodle.
+
+
+ ## Course Navigation{-}
+ ### Course Units{-}
+ This course is organized into 10 units. Each unit of the course will provide you with the following information:
+
+ - A general overview of the topic that will be addressed during the unit.
+ - Specific learning outcomes and topics for the unit.
+ - Resources that you will need to engage the learning activities and complete assessments in the unit.
+ - Both graded and ungraded learning activities that you will need to complete each week.
+ - Assessments pages that will provide you with information about assignments that you will need to complete throughout the course.
+
+### Course Activities{-}
+ Below is some key information on features you will see throughout the course. 
+
+ ```{block, type='reflect'}
+ This box will prompt you to pause and reflect on your experience and/or learning. Most reflective activities are ungraded and are designed to help prepare you for the assessment in this course.
+ ```
+
+ ```{block, type='assessment'}
+ This box will signify a quiz or assignment which you will turn in for grading, on which the instructor will provide feedback.
+ ```
+
+ ```{block, type='progress'}
+ This box is for checking your understanding, to make sure you are ready for what follows.
+ ```
+
+ ```{block, type='video'}
+ This box is for displaying/linking to videos in order to help illustrate or communicate concepts.
+ ```
+
+ ```{block, type='caution'}
+ This box will warn you of possible problems or pitfalls you may encounter!
+ ```
+
+ ```{block, type='bonus'}
+ This box is to provide material going beyond the main course content, or material which will be revisited later in more depth.
+ ```
+
+ ```{block, type='feedback'}
+ This box will prompt for your feedback on the organization of the course, so we can improve the material for everyone!
+ Any of the boxes may include hyperlinks like this: [I am a link](https://www.r-graph-gallery.com/) or code like this `This is code`.
+ ```
 
 
 !! It will be assumed that you have read, understand, and agree to the information provided at the 'Academic Dishonesty Policy' button below. If you have any questions at all please contact your instructor.
