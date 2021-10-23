@@ -1,6 +1,7 @@
 platform-paper
 paper-outline
 paper-guidelines
+the-heart-of-a-teacher-1
 learning-activity-reading
 learning-activity-ranking-
 belonging-to-ones-self-1

@@ -18,7 +18,7 @@ Unit 1 focuses on two guiding questions:
 
 2.  What is the facilitator’s role in creating spaces for authentic learning?
 
-## Learning Outcomes {-}
+## 🎯 Learning Outcomes {-}
 
 When you have completed this unit you should be able to:
 
@@ -52,7 +52,7 @@ These learning activities will engage you in considering the guiding questions 
 </tr>
 <tr class="even">
 <td></td>
-<td><strong>Activity:</strong> Reflect on your values and respond in your Reflective Learning Journal. </a></td>
+<td><strong>Activity:</strong> 💭 Reflect on your values and respond in your Reflective Learning Journal. </a></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -83,7 +83,7 @@ In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's
 
 For this course, you will keep a Reflective Learning Journal, which will provide the basis for many of your blog posts. Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, organize, and integrate these new concepts with our prior understanding, as you prepare for your future teaching/coaching.
 
-💭 *Consider the following questions:*
+💭 ***Consider the following questions:***
 •	In your Reflective Learning Journal, write a summary sentence for each major idea/concept that relates to your understanding of what it means to be a teacher/facilitator/coach.
 •	Choose the concept that most resonates with you and write a short paragraph summary of this concept, applied to your professional/personal context.
 •	Formulate one question that emerged from this reading that you will explore and consider in future course readings and discussions.
@@ -151,7 +151,7 @@ As you read the discussion of authentic learning environments in Herrington and 
 
 
 
-💭 *Questions to Consider*
+💭 ***Questions to Consider***
 
 After completing the activities above, consider the following questions:
 
@@ -164,12 +164,13 @@ After completing the activities above, consider the following questions:
 
 In this first unit, you have had the opportunity to think and learn about your identify and beliefs about your role as a facilitator/teacher, and consider key elements of authentic learning communities. The hunger for authentic human relationships and authentic learning can and should compel us to consider our own identity and integrity, both as teachers and learners. In our next unit, we will explore ideas related to vulnerability in leadership, and learning to be “at home” with ourselves so we can, in turn, lead and teach others.
 
-## Assessment{-}
+## ✏️ Assessment{-}
 
 ### Unit 1 Discussion {-}
  After completing this unit, including the learning activities, you are asked to write a discussion post on the following:
 
-**Part 1** Incorporating the readings in this unit, write a 150-250 word discussion post that addresses the following:
+**Part 1**   
+Incorporating the readings in this unit, write a 150-250 word discussion post that addresses the following:
 
 *List and describe three values you hold related to teaching and learning. Write a personal statement about your identity as a coach/facilitator.*
 
@@ -184,9 +185,9 @@ See the following [rubric](LDRS664_DiscussionRubric.pdf) that explains how your 
 
 
 
-## Checking your Learning{-}
+## 🎯 Checking your Learning{-}
 
-Before you move on to the next unit, you may want to check to make sure that you are able to:
-- Describe your own personal identity as a facilitator/teacher.
-- Identify your personal beliefs about your role as a facilitator/teacher.
-- Discuss key elements of an authentic learning community.
+Before you move on to the next unit, you may want to check to make sure that you are able to:  
+- Describe your own personal identity as a facilitator/teacher.  
+- Identify your personal beliefs about your role as a facilitator/teacher.  
+- Discuss key elements of an authentic learning community.  
