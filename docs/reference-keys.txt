@@ -1,12 +1,12 @@
 platform-paper
 paper-outline
 paper-guidelines
-the-heart-of-a-teacher-1
-learning-activity-1.1-reading
+learning-activity-reading
+learning-activity-ranking-
 belonging-to-ones-self-1
 learning-facilitation
 topic-1---social-theories-of-learning
-questions-to-consider-1
+questions-to-consider
 topic-2---cooperative-learning
 topic-3---facilitating-transformational-learning-in-group-environments
 learning-activity-1
