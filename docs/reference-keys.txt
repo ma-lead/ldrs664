@@ -1,10 +1,9 @@
-platform-paper
-paper-outline
-paper-guidelines
-the-heart-of-a-teacher-1
+how-to-navigate-this-book
+communication-tools
+the-heart-of-a-teacher
 learning-activity-reading
 learning-activity-ranking-
-belonging-to-ones-self-1
+belonging-to-ones-self
 learning-facilitation
 topic-1---social-theories-of-learning
 questions-to-consider
@@ -33,7 +32,7 @@ activity-4.4-discussion-post
 unit-4-summary
 assessment-2
 unit-4-discussion
-grading-criteria-3
+grading-criteria-2
 checking-your-learning-3
 references-1
 creating-space-for-all-learners
@@ -64,3 +63,6 @@ section
 section-1
 section-2
 section-3
+platform-paper
+paper-outline
+paper-guidelines
