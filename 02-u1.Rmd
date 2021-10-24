@@ -1,5 +1,5 @@
 # The Heart of a Teacher
-
+![Hands and Hearts](assets/unit1/adult-1846428_1920.jpg)
 Welcome to LDRS 664 Creating Authentic Learning Communities!
 
 As humans, we long for authenticity in our relationships. We want to feel "at home" in the organizations that are part of our lives -- our families, schools, communities, places of worship. We seek connection. We search for a place where we are known.
@@ -18,7 +18,7 @@ Unit 1 focuses on two guiding questions:
 
 2.  What is the facilitator’s role in creating spaces for authentic learning?
 
-## Learning Outcomes {-}
+## 🎯 Learning Outcomes {-}
 
 When you have completed this unit you should be able to:
 
@@ -30,7 +30,7 @@ When you have completed this unit you should be able to:
 
 ## Activity Checklist {-}
 
-These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities.
+These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. Note that not all activities are required. Your instructor will provide guidance on key activities to complete.
 
 <table>
 <thead>
@@ -42,16 +42,21 @@ These learning activities will engage you in considering the guiding questions 
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><strong>Activity 1.1:</strong> Read: Goode, Joanna: If you Build Teachers, will students come?.</p>
-<p>As you read, consider the following questions, and make some notes in your Reflective Learning Journal. <em>When have you felt &quot;at home&quot; within a learning community? What elements made that learning space feel like &quot;home&quot;? What does it mean for you to be authentic as a teacher? How do we create authentic learning spaces?</em></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><strong>Activity 1.2:</strong> Reflect on your values. </a></td>
+<td><p><strong>Activity:</strong> 📘 Read: Goode, Joanna: If you Build Teachers, will students come?</p>
+</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><strong>Activity 1.3: </strong> Rank the strategies listed to create an authentic learning space that is hospitable and open. Then, read: Herrington, J. &amp; Oliver, R. (2000). [An instructional design framework for authentic learning environments.](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers)<em>Educational Technology Research and Development</em>. 48(<em>3</em>), pp 23-48. </td>
+<td><p><strong>Activity:</strong> 📘 Read: Palmer, P. (2017): Introduction, Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching; Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning.</p>
+</td>
+</tr>
+<tr class="even">
+<td></td>
+<td><strong>Activity:</strong> 💭 Reflect on your values and respond in your Reflective Learning Journal. </a></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><strong>Activity: </strong> Rank the strategies listed to create an authentic learning space that is hospitable and open. Then, read: Herrington, J. &amp; Oliver, R. (2000). [An instructional design framework for authentic learning environments.](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers)<em>Educational Technology Research and Development</em>. 48(<em>3</em>), pp 23-48. </td>
 </tr>
 <tr class="even">
 <td></td>
@@ -72,26 +77,28 @@ In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's
 
 ! "Teachers possess the power to create conditions that can help students learn a great deal -- or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act." -- Palmer (2017, p. 7)
 
-### Learning Activity 1.1: Reading
+### Learning Activity: Reading
+
+📘 As we explore the importance of the “inner life of the teacher” as a foundation for authentic learning, read Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching in The Courage to Teach (Palmer, 2017).
 
 For this course, you will keep a Reflective Learning Journal, which will provide the basis for many of your blog posts. Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, organize, and integrate these new concepts with our prior understanding, as you prepare for your future teaching/coaching.
 
-Consider the following questions:
+💭 ***Consider the following questions:***
 •	In your Reflective Learning Journal, write a summary sentence for each major idea/concept that relates to your understanding of what it means to be a teacher/facilitator/coach.
 •	Choose the concept that most resonates with you and write a short paragraph summary of this concept, applied to your professional/personal context.
-•	Formulate one question that emerged from this reading that you will explore and consider in future course readings and blog posts.
-•	As you prepare your blog post, refer to these notes.
+•	Formulate one question that emerged from this reading that you will explore and consider in future course readings and discussions.
+•	As you prepare your discussions, refer to these notes.
 
 
 ## 2. Identity and Integrity as a Coach/Facilitator{-}
 
-Palmer (2017) argues that identity and integrity are foundational to good teaching. From Palmer’s perspective, this means we must endeavour to know ourselves and to create learning spaces that foster integrity in our students, allowing them to authentically engage with each other, with us, and with the discipline we are studying.
+Identity and integrity are foundational to good teaching. This means we must endeavour to know ourselves and to create learning spaces that foster integrity in our students, allowing them to authentically engage with each other, with us, and with the discipline we are studying.
 
 In order to have integrity, we must know our own values and strengths, our own beliefs about teaching and learning, and our own perspective on the work we are doing.
 
 ! "If the work we do lacks integrity for us, then we, the work, and the people we do it with will suffer." -- Palmer (2017, p. 16)
 
-#### Learning Activity 1.2: Reflect and Respond{-}
+#### Learning Activity: Reflect and Respond{-}
 
 As teachers, it’s important to identify and reflect on your own values. Consider why you are taking this course. Why do you want to coach/facilitate learning? What are your beliefs about learning? What are your values about learning? What are your strengths? Where do you need help?
 
@@ -120,7 +127,7 @@ But how is this done?
 
 In “*To Know As We Are Known,*” Palmer (1993) suggests that learning spaces must include openness, boundaries, and an air of hospitality. These learning spaces, according to Palmer (1993) can be spaces “both to be and to become” (p. 71).
 
-**Activity 1.3: Ranking**
+#### Learning Activity: Ranking**{-}
 
 *Rank the following strategies according to your comfort level. For each strategy, list one practical action you can take in an online learning environment (as facilitator or learner) to create an authentic learning space that is hospitable and open.*
 
@@ -144,14 +151,12 @@ As you read the discussion of authentic learning environments in Herrington and 
 
 
 
-### Questions to Consider{-}
+💭 ***Questions to Consider***
 
 After completing the activities above, consider the following questions:
 
 - What are the important values that will guide my teaching/facilitation?
-
 - What elements matter most to me in a learning community?
-
 - What can I do to create hospitable learning spaces?
 
 
@@ -159,12 +164,13 @@ After completing the activities above, consider the following questions:
 
 In this first unit, you have had the opportunity to think and learn about your identify and beliefs about your role as a facilitator/teacher, and consider key elements of authentic learning communities. The hunger for authentic human relationships and authentic learning can and should compel us to consider our own identity and integrity, both as teachers and learners. In our next unit, we will explore ideas related to vulnerability in leadership, and learning to be “at home” with ourselves so we can, in turn, lead and teach others.
 
-## Assessment{-}
+## ✏️ Assessment{-}
 
 ### Unit 1 Discussion {-}
  After completing this unit, including the learning activities, you are asked to write a discussion post on the following:
 
-** Part 1** Incorporating the readings in this unit, write a 150-250 word discussion post that addresses the following:
+**Part 1**   
+Incorporating the readings in this unit, write a 150-250 word discussion post that addresses the following:
 
 *List and describe three values you hold related to teaching and learning. Write a personal statement about your identity as a coach/facilitator.*
 
@@ -179,9 +185,9 @@ See the following [rubric](LDRS664_DiscussionRubric.pdf) that explains how your 
 
 
 
-## Checking your Learning{-}
+## 🎯 Checking your Learning{-}
 
-Before you move on to the next unit, you may want to check to make sure that you are able to:
-- Describe your own personal identity as a facilitator/teacher.
-- Identify your personal beliefs about your role as a facilitator/teacher.
-- Discuss key elements of an authentic learning community.
+Before you move on to the next unit, you may want to check to make sure that you are able to:  
+- Describe your own personal identity as a facilitator/teacher.  
+- Identify your personal beliefs about your role as a facilitator/teacher.  
+- Discuss key elements of an authentic learning community.  

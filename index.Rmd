@@ -1,5 +1,5 @@
 ---
-title: "LDRS 664"
+title: "Welcome to LDRS 664: Creating Authentic Learning Communities!"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -7,8 +7,8 @@ url: https://ma-lead.github.io/ldrs664
 biblio-style: apalike
 ---
 
+![Graduates on mountaintop throwing hats](baim-hanif-pYWuOMhtc6k-unsplash.jpg)
 
-# Welcome to LDRS 664: Creating Authentic Learning Communities!{-}
 
 ## Course Description{-}
 
@@ -17,6 +17,8 @@ Learners explore theoretical foundations of learning communities, evaluate strat
 ```{block, type='Note'}
 The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus located at the bottom of the page in Moodle.
 ```
+This course is part of the *Graduate Certificate in Adult Learning: Coaching and Facilitation*. and qualifies as an elective in the MA Leadership program.
+
 
 ## Course Learning Outcomes{-}
 
@@ -78,8 +80,8 @@ grading rubrics.
  Unit 10: Conclusions  
 
 
-## Required Text(S){-}
- The following are resources used in LDRS 664.  Please confirm which of the following texts are required by checking your course syllabus.
+## Course Text(S){-}
+ The following are key resources used in LDRS 664.  ***Please confirm which of the following texts are required by checking your course syllabus.***
 
  1.  Brookfield, S. & Preskill, S. (2016). *The Discussion Book: 50 Great Ways to Get People Talking*. San Francisco: Jossey-Bass. \*This is an excellent resource book. There is no assigned reading. (also used in LDRS 627)
 
@@ -97,6 +99,8 @@ grading rubrics.
 
 
 ## Course Navigation{-}
+
+
 ### Course Units{-}
  This course is organized into 10 units. Each unit of the course will provide you with the following information:
 
@@ -139,7 +143,15 @@ grading rubrics.
  ```
 
 
-!! It will be assumed that you have read, understand, and agree to the information provided at the 'Academic Dishonesty Policy' button below. If you have any questions at all please contact your instructor.
+## How To Navigate This Book
+ To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, change font settings, download a pdf or ebook copy of this book, or get hints on various sections of the book. The faint left and right arrows at the sides of each page (or bottom of the page if it’s narrow enough) allow you to step to the next/previous section. Here’s what they look like:
+
+ Left and right navigation arrows Left and right navigation arrows
+ Figure 1.1: Left and right navigation arrows
+ (get image from https://csu-r.github.io/Module1/index.html)
+
+
+***It will be assumed that you have read, understand, and agree to the information provided at the 'Academic Dishonesty Policy' button below. If you have any questions at all please contact your instructor.***
 
 
 [button url="https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0" target="_blank" label="Academic Dishonesty Policy" type="danger" classes="external-link"]_
