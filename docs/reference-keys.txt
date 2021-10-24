@@ -66,3 +66,4 @@ section-3
 platform-paper
 paper-outline
 paper-guidelines
+references-4
