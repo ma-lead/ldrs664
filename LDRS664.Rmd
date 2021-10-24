@@ -1565,7 +1565,7 @@ This paper will be 12-15 pages long, and should include:
 |**SCHOLARLY INTEGRATION**|Does not integrate references to support claims and assertions made in the paper.| Integrates references to support some of the claims and assertions made in the paper.| Integrates references to support claims and assertions made in the paper.| Integrates references to support claims and assertions made in the paper, effectively synthesizing different perspectives and research results from scholarly sources. |
 |**TOTAL**|**0 = 0% (F)**|**10 = 50% (C)**|**15 = 75 (B)**|**20 = 100% (A+)**|
 
-<!--chapter:end:12-assessment-bank.Rmd-->
+<!--chapter:end:12-assessment.Rmd-->
 
 `r if (knitr::is_html_output()) '
 # References {-}
