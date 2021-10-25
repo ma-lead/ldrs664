@@ -78,7 +78,7 @@ div.feedback:before{
 
 
 /* Styling unique to each environment: */
-div.bonus{background: #81c9a8;}
+div.bonus{background: #000000;}
 div.bonus:before {content: url(images/sun-fill.svg) " Bonus";}
  
 div.reflect{background: #ffdb80;}
