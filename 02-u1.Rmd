@@ -1,6 +1,6 @@
 # The Heart of a Teacher
+
 ![Hands and Hearts](assets/unit1/adult-1846428_1920.jpg)
-Welcome to LDRS 664 Creating Authentic Learning Communities!
 
 As humans, we long for authenticity in our relationships. We want to feel "at home" in the organizations that are part of our lives -- our families, schools, communities, places of worship. We seek connection. We search for a place where we are known.
 
@@ -10,7 +10,7 @@ In this course, we will explore together the theoretical foundations of learnin
 
 In addition to reading, throughout this course, we will also listen to music and view several short films that will allow us to more deeply engage with the concepts of belonging and authenticity within the teaching/learning experience.
 
-## Topics {-}
+## 📖 Topics {-}
 
 Unit 1 focuses on two guiding questions:
 
@@ -28,7 +28,8 @@ When you have completed this unit you should be able to:
 
 3.  Discuss key elements of an authentic learning community.
 
-## Activity Checklist {-}
+
+## ✔️ Activity Checklist {-}
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. Note that not all activities are required. Your instructor will provide guidance on key activities to complete.
 
@@ -56,11 +57,11 @@ These learning activities will engage you in considering the guiding questions 
 </tr>
 <tr class="odd">
 <td></td>
-<td><strong>Activity: </strong> Rank the strategies listed to create an authentic learning space that is hospitable and open. Then, read: Herrington, J. &amp; Oliver, R. (2000). [An instructional design framework for authentic learning environments.](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers)<em>Educational Technology Research and Development</em>. 48(<em>3</em>), pp 23-48. </td>
+<td><strong>Activity: </strong>  ✏️ Rank the strategies listed to create an authentic learning space that is hospitable and open. Then, read: Herrington, J. &amp; Oliver, R. (2000). [An instructional design framework for authentic learning environments.](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers)<em>Educational Technology Research and Development</em>. 48(<em>3</em>), pp 23-48. </td>
 </tr>
 <tr class="even">
 <td></td>
-<td><strong>Assessment: Unit 1 Discussion</strong>: Incorporating the readings in this unit, you will write a 150-250 word discussion post that addresses your values related to teaching and learning and the key elements of authentic learning spaces. See the Assessments tab for full details.</td>
+<td><strong>Assessment:  ✏️ Unit 1 Discussion</strong>: Incorporating the readings in this unit, you will write a 150-250 word discussion post that addresses your values related to teaching and learning and the key elements of authentic learning spaces. See the Assessments tab for full details.</td>
 </tr>
 </tbody>
 </table>
@@ -75,11 +76,11 @@ Figure 1.1: Model designed by Penfold Navarro, C. (2018)
 
 In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life*, Parker Palmer (2017) argues that the "inner landscape of teaching" is an essential foundation out of which authentic learning experiences emerge.
 
-! "Teachers possess the power to create conditions that can help students learn a great deal -- or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act." -- Palmer (2017, p. 7)
+*"Teachers possess the power to create conditions that can help students learn a great deal -- or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act."* -- Palmer (2017, p. 7)
 
-### Learning Activity: Reading
+### 📘 Learning Activity: Reading{-}
 
-📘 As we explore the importance of the “inner life of the teacher” as a foundation for authentic learning, read Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching in The Courage to Teach (Palmer, 2017).
+As we explore the importance of the “inner life of the teacher” as a foundation for authentic learning, read Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching in The Courage to Teach (Palmer, 2017).
 
 For this course, you will keep a Reflective Learning Journal, which will provide the basis for many of your blog posts. Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, organize, and integrate these new concepts with our prior understanding, as you prepare for your future teaching/coaching.
 
@@ -98,7 +99,7 @@ In order to have integrity, we must know our own values and strengths, our own b
 
 ! "If the work we do lacks integrity for us, then we, the work, and the people we do it with will suffer." -- Palmer (2017, p. 16)
 
-#### Learning Activity: Reflect and Respond{-}
+### ✏️ Learning Activity: Reflect and Respond{-}
 
 As teachers, it’s important to identify and reflect on your own values. Consider why you are taking this course. Why do you want to coach/facilitate learning? What are your beliefs about learning? What are your values about learning? What are your strengths? Where do you need help?
 
@@ -107,29 +108,29 @@ Take some time to answer the questions above in your Reflective Learning journal
 
 ## Creating Authentic Learning Spaces{-}
 
-! "For now we see in a mirror dimly, but then face to face; now I know in part, but then I will know fully just as **I also have been fully known**." 1 Corinthians 13:12 (ESV)
+*"For now we see in a mirror dimly, but then face to face; now I know in part, but then I will know fully just as **I also have been fully known***." 1 Corinthians 13:12 (ESV)
 
 As we begin thinking about creating authentic learning spaces, consider a time when you have felt “at home” within a learning community, whether in formal education, your faith community, or your employment. What elements made that learning space feel like “home?”
 
 In the song, *Home**, Phillip Phillips sings about the universal need we share as humans to “belong.” Take a moment now to listen to this song, considering what the lyrics say about what it means to belong. [LINK](https://www.youtube.com/watch?v=HoRkntoHkIE)
 
-!! "Just know you’re not alone
-!! 'Cause I’m going to make this place your home."
-!!-- Phillip Phillips,
+> "Just know you’re not alone
+> 'Cause I’m going to make this place your home."
+> -- Phillip Phillips,
 
 In order for students to authentically learn, we must create learning spaces that are safe, where students know and feel that they belong. Palmer (1998) refers to this need for belonging as the "spiritual quest for connectedness" (p.5).
 
 If a sense of belonging provides a foundation for learning, then in our role as teachers, facilitators, or coaches, we must endeavour to create spaces where students know and feel that they belong.
 
-!!! "Good teachers possess a capacity for connectedness. They are able to eave a complex web of connections among themselves, their subjects, and their students so that students can learn to weave a world for themselves." -- Palmer (2017, p. 11)
+*"Good teachers possess a capacity for connectedness. They are able to eave a complex web of connections among themselves, their subjects, and their students so that students can learn to weave a world for themselves."* -- Palmer (2017, p. 11)
 
 But how is this done?
 
 In “*To Know As We Are Known,*” Palmer (1993) suggests that learning spaces must include openness, boundaries, and an air of hospitality. These learning spaces, according to Palmer (1993) can be spaces “both to be and to become” (p. 71).
 
-#### Learning Activity: Ranking**{-}
+### ✏️ Learning Activity: Ranking{-}
 
-*Rank the following strategies according to your comfort level. For each strategy, list one practical action you can take in an online learning environment (as facilitator or learner) to create an authentic learning space that is hospitable and open.*
+Rank the following strategies according to your comfort level. For each strategy, list one practical action you can take in an online learning environment (as facilitator or learner) to create an authentic learning space that is hospitable and open.*
 
 “To study with a teacher who not only **speaks** but l**istens**, who not **only gives answers** but **asks questions** and **welcomes our insights**, who **provides information and theories** that **do not close doors** but **open new ones**, who **encourages students** to help each other learn – to study with such a teacher is to know the power of a learning space” (Palmer, 1997, pp. 70-71)
 
