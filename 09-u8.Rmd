@@ -47,7 +47,7 @@ completing this unit. You may find it useful for planning your work.
 
  **Assignment 2:** Company Website Analysis (20%). Analyze the learning culture of an organization.
 
- ## Topic 1: Adult Education Methods to Teach from Depth
+## Topic 1: Adult Education Methods to Teach from Depth {-}
 
 What does it mean to teach from depth? It connects to the principle of
 adult learning that adults are internally motivated and build on prior
@@ -188,7 +188,7 @@ The paper should include:
 - Reference List
 ```
 
-## Topic 2: Web of Relationships and Impact on Values
+## Topic 2: Web of Relationships and Impact on Values {-}
 
 We are who we are partly because of who we associate with. Perhaps you
 remember your parents cautioning you to choose your friends wisely.
@@ -268,7 +268,7 @@ Web 2.0 tools such as [bubbl.us](https://bubbl.us/) or [popplet.com](http://popp
 paper, take a picture and include it in your post. Reflect on how this
 relates to your teaching/facilitating work.
 ```
-## Unit 8 Summary 
+## Unit 8 Summary {-}
 
 In this unit, you have had the opportunity to learn about teaching with
 depth and the importance and role of interconnectedness and integrity.
@@ -281,7 +281,7 @@ leading to growth and transformation. When we are intentional about
 doing this, we develop our web of interconnectedness and strengthen our
 personal and professional integrity. Powerful indeed\!
 
-# Assessment
+# Assessment {-}
 
 ## Unit 8 Discussion
 
@@ -304,6 +304,7 @@ relates to your teaching/facilitating work.
 
 Respond to at least two of your peers' posts.
 
+```{block, type='reflect'}
 
 ## Assignment 2: Company Website Analysis (20%)
 
@@ -353,6 +354,8 @@ The paper should include:
 #### Company Website Analysis Rubric
 The following grading [rubric](Company-Website-Analysis-RUBRIC.pdf) will be used to evaluate your work.
 
+```
+```{block, type='reflect'}
 
 
 ## Assignment 3: Platform Paper - DRAFT (30%) {-}
@@ -412,7 +415,7 @@ This paper will be 12-15 pages long, and should include:
 #### Platform Paper Rubric
 The following grading [rubric](Platform-Paper-RUBRIC.pdf) will be used to evaluate your work.
 
-
+```
 
 
 ## Checking your Learning
