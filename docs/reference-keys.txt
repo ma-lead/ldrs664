@@ -40,7 +40,7 @@ assessment-3
 unit-4-discussion
 grading-criteria-4
 checking-your-learning-3
-references-2
+references-1
 creating-space-for-all-learners
 creating-collaborative-learning-in-an-online-environment
 learning-activity
@@ -73,7 +73,7 @@ learning-activity-11
 teaching-from-depth-interconnectedness-and-integrity
 confidence-and-humility
 conclusions
-references-5
+references-4
 platform-paper
 paper-outline
 paper-guidelines

@@ -46,7 +46,7 @@ activities.
 
 |  | **Learning Activities**                                                                                                                                                                       |
 |  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  | **Activity 3.1:** Read: Brown (2017). Chapters 3-4.  Then, reflect on Rilke, R.M. *Ah, Not to be Cut Off* as reproduced in Palmer, P. (2017, p. 1).                                                                       |
+|  | **Activity 3.1:** Read: Brown (2017). Chapters 3-4.  Then, reflect on Rilke, R.M. *Ah, Not to be Cut Off*.                                                                       |
 |  | **Activity 3.2:** Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 2: A Culture of Fear
 |  | **Activity 3.3:** Unit 3 Discussion based on Reading: Brown , B. (2017) *Braving the Wilderness,* Chapters 5 and 6.                                                                    |
 |  | **Activity 3.4**: Listen and respond to Taylor Swift's *A Place in this World*.                                                                                          |
@@ -86,7 +86,7 @@ perspective are valued. These learning spaces must simultaneously allow
 us to be our authentic selves – and allow others to be authentic as
 well.
 
-Brown (2017) discusses key concepts of creating spaces that facilitate a
+Brene Brown (2017) discusses key concepts of creating spaces that facilitate a
 sense of belonging – including civility, inclusive language, truth, and
 respect. Often, the balance between truth and civility can be
 challenging – as we seek to authentically discuss new ideas – but in a
@@ -114,9 +114,7 @@ and goals, who purposefully come together and work together to reach
 these goals, then diversity is encouraged not just for ideological
 reasons but also because different perspectives, experiences, and
 backgrounds contribute to the collaborative efforts to achieve the
-community’s goals” (Brower & Dettinger, 1998, p. 16). In the next unit,
-we will learn more about Brower and Dettinger’s Learning Community
-Pyramid.
+community’s goals” (Brower & Dettinger, 1998, p. 16).
 
 ### Learning Activities
 
@@ -127,7 +125,7 @@ Read: Brown (2017). Chapters 3-4.
 Then, find a quiet space in your home or outdoors. Make your favourite
 beverage. With your iced coffee or hot tea with honey next to you,
 settle into a comfortable position. Read the poem by Rainer Maria Rilke
-“Ah, not to be cut off” reproduced in Palmer (2017, p. 1). Sit for a
+[“Ah, not to be cut off”](https://gladdestthing.com/poems/ah-not-to-be-cut-off). Sit for a
 moment with this poem. Re-read it. Consider the words and ideas
 expressed by Rilke. In your Reflective Journal, jot down your thoughts.
 Consider how you have, in your own learning experiences, experienced
@@ -218,15 +216,3 @@ before you move to the next unit. Can you:
 
   - Describe elements of a learning community that create a sense of
     belonging?
-
-## References {-}
-
-Brown , B. (2017) *Braving the Wilderness*
-
-Palmer, P. (2017). *The courage to teach: Exploring the inner landscape
-of a teacher’s life.* San Francisco: Wiley.
-
-Rilke, R.M. *Ah, Not to be Cut Off* as reproduced in Palmer, P. (2017,
-p. 1)
-
-Taylor Swift: *A Place in this World*
