@@ -39,6 +39,13 @@ These learning activities will engage you in considering the guiding questions 
 |  | Activity 4.3: Trinity Model of Collaborative Inquiry and respond in your Reflective Journal.                                          |
 |  | Activity 4.4: Complete your Discussion post and respond to two other peers.                                                                                                |
 
+| **Activities**|
+|----|
+| Activity 4.1: Read “What IS a Learning Community?” (Brower & Dettinger, 1998) and respond in your Reflective Journal.  |
+| Activity 4.2: Read: Palmer, P. (2017) *The Courage to Teach,*  Chapter 4 Knowing in Community and respond in your Reflective Journal.   |
+| Activity 4.3: Trinity Model of Collaborative Inquiry and respond in your Reflective Journal.             |
+| Activity 4.4: Complete your Discussion post and respond to two other peers.                    |
+
 ## Learning Community Pyramid
 
 The Learning Community Pyramid, developed by Brower & Dettinger (1998) includes academic, social, and physical components. They describe academic components as those that focus on the curriculum and learning that takes place. The social components are the elements of trust and inclusivity that create space for community. The physical component is the “place or facility where the community meets or resides” (Brower & Dettinger, 1998, p. 17). In the case of this course, that “place” is the course hub.
@@ -128,7 +135,7 @@ The learning community models we have considered in this unit share some similar
 Palmer (2017) puts it this way: “The reality we belong to, the reality we long to know, extends far beyond human beings interacting with one another… This is a community held together not only by our personal powers of thought and feeling but also by the power of ‘the grace of great things’” (p. 109). As Palmer (2017) points out, learning includes both thought (cognitive) and feeling (social), but also something beyond those – the overarching spiritual nature of life and learning.
 
 ## Assessment
-### Unit 4 Discussion 
+### Unit 4 Discussion
 
 ```{block, type='assessment'}
 After completing this unit, including the learning activities, you are asked to write a 250-word discussion post on the following:
