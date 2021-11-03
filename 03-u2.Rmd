@@ -2,6 +2,7 @@
 
 ![Woman with Painted Face](assets/unit2/girl-2696947_1920.jpg)
 
+## Overview {-}
 
 As we began to explore in Unit 1, creating authentic learning communities begins with personal authenticity -- with knowing one's self. Palmer (2017) argues that "good teaching comes from the *identity* and *integrity* of the teacher" (p. 13, italics added).
 
@@ -48,7 +49,7 @@ These learning activities will engage you in considering the guiding questions 
 |   | **Activity 2.9:** Participate in the exercise, “Nine Why’s”                                                                                                                                                                                                                                                                                                                                                                    |
 |   | **Assessment: Unit 2 Discussion**: Write a discussion post on belonging and the “Nine Why’s” activity. See the Assessments section for more details.                                                                                                                                                                                                                                                                       |
 
-## 📖 Belonging to Myself
+## Belonging to Myself
 
 In order to create authentic, safe learning spaces for others, we must first be comfortable with who we are.
 
@@ -72,16 +73,16 @@ As poet [Maya Angelou](http://billmoyers.com/content/conversation-maya-angelou/)
 !-- Maya Angelou, 1973
 
 
-### 🎯 Activity 2.1: Who are you?
+### Activity: Who are you?
 
 For this activity, you are asked to share a little more about yourself with your peers. First, find a quote about either identity or integrity. For example, you may want to perform a Google image search for “identity quote.” Find one that resonates with you, and then include a picture of something that tells us something about you. Post the quote and your image to the Unit 2 Discussion forum with a 1-2 sentence explanation. This is a non-graded activity, but may help you reflect on this topic and to prepare for the assignment in this unit.
 
 
-### 🎯 Activity 2.2:
+### Activity: View and Reflect
 
-View and Reflect View the following resources and reflect on your learning: - Read. Brown, B. (2017). Chapter 1: Everywhere and Nowhere. - Watch: Maya Angelou: <a href="http://billmoyers.com/content/conversation-maya-angelou/"><i>Interview with Bill Moyers</a> (7 minutes).
+View the following resources and reflect on your learning: - Read. Brown, B. (2017). Chapter 1: Everywhere and Nowhere. - Watch: Maya Angelou: <a href="http://billmoyers.com/content/conversation-maya-angelou/"><i>Interview with Bill Moyers</a> (7 minutes).
 
-## 📖 Vulnerability in Learning Communities
+## Vulnerability in Learning Communities
 
 Learning to be vulnerable enough to share our authentic selves can be challenging – and knowing how much to be vulnerable (and when\!) also poses a challenge, both in teaching and leadership. Students also wrestle with similar questions – How much of myself should I share in this class? This paper? This blog? Is this a safe space to express my own feelings of vulnerability?
 
@@ -89,16 +90,17 @@ Authenticity is built on trust
 – spaces in which you are comfortable enough to share your true self
 – your identity. Brown (2017) argues that “self-trust” provides a foundation for belonging.
 
-“Authenticity involves both owning one’s personal experiences (values, thoughts, emotions and beliefs) and acting in accordance with one’s true self (expressing what you really think and believe and behaving accordingly) (Harter, 2002, as cited in Gardner, Avolio, Luthans, May, and Walumbwa, 2005, pp. 344-5).
+> “Authenticity involves both owning one’s personal experiences (values, thoughts, emotions and beliefs) and acting in accordance with one’s true self (expressing what you really think and believe and behaving accordingly) (Harter, 2002, as cited in Gardner, Avolio, Luthans, May, and Walumbwa, 2005, pp. 344-5).
 
 Gardner et al. (2005) describe authentic leadership is demonstrated when “relationships are characterized by: a) transparency, openness, and trust, b) guidance toward worthy objectives, and c) an emphasis on follower development” (p. 345).
+
 If effective relationships include these characteristics, then authentic teachers and leaders must consider what it means to be transparent and open, as well as what it means to extend trust.
 
-### 🎯 Activity 2.3: Vulnerability Video
+### Activity: 📺 Vulnerability Video
 
-:fa-film: Watch the TedTalk by Brene Brown: (20 minutes)
+Watch the TedTalk by Brene Brown: (20 minutes)
 
-[LINK](https://www.youtube.com/watch?v=iCvmsMzlF7o) 
+[plugin:youtube](https://www.youtube.com/watch?v=iCvmsMzlF7o) 
 
 
 As you watch, consider the following questions:
@@ -109,11 +111,11 @@ As you watch, consider the following questions:
 
 :fa-pencil: You may want to answer these questions in your Reflective Learning Journal, and refer back to them as you complete the assessment for this unit.
 
-### 🎯 Activity 2.4: Reading
+### Activity: Brown Reading & Reflection
 
 Brown (2017) argues that authenticity is essential to belonging.
 
-! "You will always belong anywhere you show up as yourself and talk about yourself and your work in a real way." ! -- Brene Brown (2017, p. 26)
+> You will always belong anywhere you show up as yourself and talk about yourself and your work in a real way. -- Brene Brown (2017, p. 26)
 
 As you read Brown (2017) Chapter 2, answer the following questions in your Reflective Learning Journal:
 
@@ -125,11 +127,11 @@ As you read Brown (2017) Chapter 2, answer the following questions in your Refle
 
 - As you prepare your discussion post, refer to these notes.
 
-### 🎯 Activity 2.5 Sharing your Identity
+### Activity: Sharing your Identity
 
 Being vulnerable involves sharing something of our true selves, which we might not always be comfortable doing in certain environments. In your Reflective Learning Journal, consider a time when you were your “true self” in a professional or personal setting in which you wondered if you really “belonged.” Perhaps this is a time when shared your spoke up about an issue that was important to you, lead a team in a new direction, or created a process that felt more authentic to you. What part of yourself did you share? How did this make you feel vulnerable? What were the results?
 
-## 📖 Creating Connections with Learners
+## Creating Connections with Learners
 
 In our role as teachers, we are asked to connect students with new ways of thinking and knowing, as well as new knowledge. But the first (and perhaps most important) connections we make (and the connections on which all learning is built) are connections between students, and between students and teachers.
 
@@ -140,9 +142,11 @@ Leadership, like teaching, relies not just on the relationships that teachers fo
 
 These relationships will form the basis for learning in the classroom. Learning is, at its heart, a personal activity. Learners often experience vulnerability as they enter into (and continue through) the learning experience, wondering if they belong, if they are up to the challenge, and if they will succeed.
 
-### 🎯 Activity 2.6: Listen and Reflect
+### Activity: Listen and Reflect
 
-Listen to “[Brave](https://www.youtube.com/watch?v=QUQsqBqxoR4),” sung by Sara Bareilles.
+Listen to “Brave” sung by Sara Bareilles.
+
+[plugin:youtube](https://www.youtube.com/watch?v=QUQsqBqxoR4)
 
 As you listen to this song, consider the following questions:
 
@@ -152,16 +156,17 @@ As you listen to this song, consider the following questions:
 
 3.  How will I create a learning community that allows learners to share their thoughts authentically?
 
-### 🎯 Activity 2.7: Self-Test
+### Activity: Self-Test
 
 Take the [Clance Imposter Phenomenon test](http://paulineroseclance.com/pdf/IPscoringtest.pdf). As you take the test, consider the areas in which you feel vulnerable in your work as a learner. How would you address these concerns for learners in courses you facilitate?
 
-### 🎯 Activity 2.8:
-Readings Read: Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. The Leadership Quarterly 16, pp. 343–372.
+###  Activity: Readings
+
+Read: Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. The Leadership Quarterly 16, pp. 343–372.
+
 Optional Read: Cuddy, A. (2016). [I don’t deserve to be here: Presence and the imposter syndrome](https://leanin.org/news-inspiration/overcoming-imposter-syndrome-to-reveal-your-presence).
 
-### 🎯 Activity 2.9:
-Connection Activities  & Discussion
+### Activity 2.9: Connection Activities  & Discussion
 
 “Liberating Structures” (Lipmanowicz & McCandless, 2013) are used in collaborative learning and work environments to create space for all participants to engage in collaborative inquiry and unleash innovation. One of these “Liberating Structures” is the strategy of the “Nine Whys,” which allows participants to clarify what is important in their work. You may choose to use a strategy like this in your role as a facilitator and teacher. For this learning activity, however, you will use the strategy of the “Nine Whys” to consider your own identity as a teacher/facilitator.
 Identify someone in your life who knows you well, with whom you have a history of talking about your goals or dreams. Ask them to participate in this exercise with you.
