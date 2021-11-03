@@ -23,7 +23,7 @@ unit-3-discussion
 part-a-braving
 part-b-belonging-learning-activity
 assignment-1-identity-as-a-teacher-paper-20
-grading-criteria-3
+grading-criteria-2
 learning-communities
 topics-3
 learning-outcomes-3
@@ -38,7 +38,7 @@ activity-4.4-discussion-post
 unit-4-summary
 assessment-3
 unit-4-discussion
-grading-criteria-4
+grading-criteria-3
 checking-your-learning-3
 references-1
 creating-space-for-all-learners

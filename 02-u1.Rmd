@@ -88,10 +88,11 @@ As we explore the importance of the “inner life of the teacher” as a foundat
 
 For this course, you will keep a Reflective Learning Journal, which will provide the basis for many of your blog posts. Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, organize, and integrate these new concepts with our prior understanding, as you prepare for your future teaching/coaching.
 
-💭 ***Consider the following questions:***
-•	In your Reflective Learning Journal, write a summary sentence for each major idea/concept that relates to your understanding of what it means to be a teacher/facilitator/coach.
-•	Choose the concept that most resonates with you and write a short paragraph summary of this concept, applied to your professional/personal context.
-•	Formulate one question that emerged from this reading that you will explore and consider in future course readings and discussions.
+💭 ***Consider the following questions:***  
+
+•	In your Reflective Learning Journal, write a summary sentence for each major idea/concept that relates to your understanding of what it means to be a teacher/facilitator/coach.  
+•	Choose the concept that most resonates with you and write a short paragraph summary of this concept, applied to your professional/personal context.  
+•	Formulate one question that emerged from this reading that you will explore and consider in future course readings and discussions.  
 •	As you prepare your discussions, refer to these notes.
 
 ```
@@ -171,7 +172,7 @@ After completing the activities above, consider the following questions:
 In this first unit, you have had the opportunity to think and learn about your identify and beliefs about your role as a facilitator/teacher, and consider key elements of authentic learning communities. The hunger for authentic human relationships and authentic learning can and should compel us to consider our own identity and integrity, both as teachers and learners. In our next unit, we will explore ideas related to vulnerability in leadership, and learning to be “at home” with ourselves so we can, in turn, lead and teach others.
 
 ## ✏️ Assessment{-}
-
+```{block, type='assessment'}
 ### Unit 1 Discussion {-}
  After completing this unit, including the learning activities, you are asked to write a discussion post on the following:
 
@@ -188,11 +189,12 @@ Your instructor will provide direction about how to complete this activity.
 
 #### Grading Criteria {-}
 See the following [rubric](LDRS664_DiscussionRubric.pdf) that explains how your discussion contributions will be evaluated.
-
+```
 
 ## 🎯 Checking your Learning{-}
-
+```{block, type='Checking Your Learning'}
 Before you move on to the next unit, you may want to check to make sure that you are able to:  
 - Describe your own personal identity as a facilitator/teacher.  
 - Identify your personal beliefs about your role as a facilitator/teacher.  
 - Discuss key elements of an authentic learning community.  
+```
