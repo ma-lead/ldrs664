@@ -45,25 +45,25 @@ These learning activities will engage you in considering the guiding questions 
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><strong>Activity:</strong> 📘 Read: Goode, Joanna: If you Build Teachers, will students come?</p>
+<td><p><strong>Activity:</strong> Read: Goode, Joanna: If you Build Teachers, will students come?</p>
 </td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><strong>Activity:</strong> 📘 Read: Palmer, P. (2017): Introduction, Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching; Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning.</p>
+<td><p><strong>Activity:</strong> Read: Palmer, P. (2017): Introduction, Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching; Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning.</p>
 </td>
 </tr>
 <tr class="even">
 <td></td>
-<td><strong>Activity:</strong> 💭 Reflect on your values and respond in your Reflective Learning Journal. </a></td>
+<td><strong>Activity:</strong> Reflect on your values and respond in your Reflective Learning Journal. </a></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><strong>Activity: </strong>  ✏️ Rank the strategies listed to create an authentic learning space that is hospitable and open. Then, read: Herrington, J. &amp; Oliver, R. (2000). [An instructional design framework for authentic learning environments.](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers)<em>Educational Technology Research and Development</em>. 48(<em>3</em>), pp 23-48. </td>
+<td><strong>Activity: </strong>  Rank the strategies listed to create an authentic learning space that is hospitable and open. Then, read: Herrington, J. &amp; Oliver, R. (2000). [An instructional design framework for authentic learning environments.](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers)<em>Educational Technology Research and Development</em>. 48(<em>3</em>), pp 23-48. </td>
 </tr>
 <tr class="even">
 <td></td>
-<td><strong>Assessment:  ✏️ Unit 1 Discussion</strong>: Incorporating the readings in this unit, you will write a 150-250 word discussion post that addresses your values related to teaching and learning and the key elements of authentic learning spaces. See the Assessments tab for full details.</td>
+<td><strong>Assessment:  Unit 1 Discussion</strong>: Incorporating the readings in this unit, you will write a 150-250 word discussion post that addresses your values related to teaching and learning and the key elements of authentic learning spaces. See the Assessments tab for full details.</td>
 </tr>
 </tbody>
 </table>
@@ -114,7 +114,7 @@ Take some time to answer the questions above in your Reflective Learning journal
 
 ## 3. Creating Authentic Learning Spaces{-}
 
-*"For now we see in a mirror dimly, but then face to face; now I know in part, but then I will know fully just as **I also have been fully known***." 1 Corinthians 13:12 (ESV)
+> *For now we see in a mirror dimly, but then face to face; now I know in part, but then I will know fully just as **I also have been fully known***. -- 1 Corinthians 13:12 (ESV)
 
 As we begin thinking about creating authentic learning spaces, consider a time when you have felt “at home” within a learning community, whether in formal education, your faith community, or your employment. What elements made that learning space feel like “home?”
 
@@ -128,7 +128,7 @@ In order for students to authentically learn, we must create learning spaces tha
 
 If a sense of belonging provides a foundation for learning, then in our role as teachers, facilitators, or coaches, we must endeavour to create spaces where students know and feel that they belong.
 
-*"Good teachers possess a capacity for connectedness. They are able to eave a complex web of connections among themselves, their subjects, and their students so that students can learn to weave a world for themselves."* -- Palmer (2017, p. 11)
+> *Good teachers possess a capacity for connectedness. They are able to eave a complex web of connections among themselves, their subjects, and their students so that students can learn to weave a world for themselves.* -- Palmer (2017, p. 11)
 
 But how is this done?
 
@@ -152,11 +152,11 @@ Rank the following strategies according to your comfort level. For each strategy
 
 6.  Encouraging students to help each other learn
 
-As you read the discussion of authentic learning environments in Herrington and Oliver (2000), consider how the elements they discuss align with or differ from Palmer’s (2017) description of learning communities.
+---
 
-- Read Herrington, J. and Oliver, R. (2000). [An instructional design framework for authentic learning environments](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers).
+Next, read the discussion of authentic learning environments in Herrington and Oliver (2000), consider how the elements they discuss align with or differ from Palmer’s (2017) description of learning communities.
 
-
+📘 Herrington, J. and Oliver, R. (2000). [An instructional design framework for authentic learning environments](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers).
 
 💭 ***Questions to Consider***
 
