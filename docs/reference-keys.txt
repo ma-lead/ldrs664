@@ -1,6 +1,11 @@
 communication-tools
 the-heart-of-a-teacher
 belonging-to-ones-self
+belonging-to-myself
+activity-2.1-who-are-you
+activity-2.2
+vulnerability-in-learning-communities
+activity-2.3-vulnerability-video
 learning-facilitation
 topic-1---social-theories-of-learning
 questions-to-consider

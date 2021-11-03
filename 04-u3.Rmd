@@ -1,304 +1,232 @@
-# Learning Facilitation
+# Belonging to Others
 
 
-## Overview{-}
+## Overview
 
-Facilitation in education refers to the process of helping learners to explore, learn and change. A facilitator is expert on process and group interactions. In education, facilitation is rooted in understanding the nature of the social learning process and how to guide its direction and quality. As a social species, we learn a great deal from each other in both formal and informal contexts. Our earliest learning experiences are profoundly social and intimate interactions between mother and child, and the social aspect of learning never ceases to be important. During this unit, we will examine a short history of social theories of learning from John Dewey and Lev Vygotsky, then, we will experiment with the theory and practices of facilitating learning in group settings.
+Building on our discussion of “belonging to ourselves” in the previous
+unit, in this unit we will explore the concept of “belonging to others.”
+This key concept is foundational to the creation of authentic learning
+communities – spaces where students experience genuine connection with
+other learners, with the facilitator, and with the discipline they are
+studying.
 
-## Topics{-}
+Unit 3 focuses on two guiding questions:
 
-This unit is divided into the following topics:
+- What is a learning community?
 
-1. Social Theories of Learning
-2. Cooperative Learning
-3. Facilitating Transformational Learning in Group Settings
-4. Navigating Group Dynamics
-5. Core Facilitation Competencies
-6. Strategies for Learning Facilitation
+- How do we create learning communities where students experience a
+sense of belonging?
 
-## Learning Outcomes{-}
 
-When you have completed this unit, you should be able to:
+## Topics
+1. Belonging to Others
+2. Creating Learning Spaces Where Students Belong
 
-- Explain how to design learning environments to maximize learning
-- Plan appropriate group learning processes to support transformative learning.
-- Demonstrate how to facilitate a course of study.
-- Design cooperative activities to maximize student-student and student-content interactions
-- Apply knowledge of the Community of Inquiry model liberating structures to the facilitation of cooperative learning activities
-- Identify and explain core competencies for facilitating learning.
 
-## Resources{-}
-Online resources will be provided in the unit.
+## Learning Outcomes
 
-## Topic 1 - Social theories of learning
-The idea that learning is a social process can be traced way back in time, but formal descriptions of social constructivism, as it has been called, are often traced to John Dewey, Jean Piaget, and Lev Vygotsky. Albert Bandura also contributed via social learning theory. *What is social constructivism?*
+When you have completed this unit you should be able to:
 
-Vygotsky (1978) argues that “every function in the child’s cultural development appears twice: first, on the social level, and later on the individual level; first *between* people (*interpsychologically*), and then inside the child (*intrapsychologically*) (p. 57). That is, humans learn first through social observations and interactions, which they later internalize as their own thinking. The significance of Vygotsky’s insight is that, “instead of focusing on the study of psychological entities such as skills, concepts, information-processing units, reflexes, or mental functions, it assumes that we must begin with a unit of *activity”* (Wertsch, 1985). This idea of *activity,* or to be more precise the active participation of the learner, is central to our emerging understanding of learning as a process of socially constructing knowledge.
+- Describe a learning community.
 
-Central to this progress is language, which we first learn in the context of social interactions, then, we adopt as self-talk for self-direction and self-regulation, and ultimately internalized as our own inner speech (Vygotsky & Kozulin, 1986, p. 228). Similarly, Bandura (1977) argues social role modeling is central to how most behaviors are learned, “from observing others one forms an idea of how new behaviors are performed, and on later occasions this coded information serves as a guide for action”.
+- Describe elements of a learning community that create a sense of
+    belonging.
 
-In sum, we may conclude that knowledge is *constructed* first socially, then, personally, by learners as they encounter new information, compare it to old models that they may have, and develop new understandings of how the world works. It is not the case that new knowledge is simply copied intact from one mind to another, rather new information is integrated into old understandings, bringing about a hybrid of the two. This is essentially what we understand as a *constructivist* model of learning.
+- Identify problems that affect learning communities.
 
-### Zone of Proximal Development {-}
-Social constructivism builds on the constructivist model, adding the idea that this process of integrating new understandings with old understandings is best understood as a *social* process. Vygotsky (1978) introduced the idea that people with a greater capacity to understand the world and cope with its challenges act as supportive structures, which enable others to *construct* and *internalize* the knowledge these people have. This new construction occurs within what Vygotsky refers to as an individual’s ***zone of proximal development,*** which he differentiated from their ***zone of actual development.*** The ZPD is the 'sweet spot' in education where a student is optimally challenged to learn. If the task is too easy for the student, and they have already mastered it, then learning activities will not result in learning. Conversely, if a task is so difficult that the student cannot complete it, even with assistance, learning activities will not result in learning. In the middle are tasks that a student is able to complete, but only with the assistance of a more capable peer or expert. This is the Zone of Proximal Development:
+- Plan a learning activity that builds community.
 
-![alt-text](ZPD_Image.png "Zone of Proximal Development")
 
+## Activity Checklist
 
-### Scaffolding{-}
+These learning activities will engage you in considering the guiding
+questions for this unit. As you plan your week, be sure to include time
+for these important learning
+activities.
 
-A metaphor that has been used to describe one such supportive mechanism is *scaffolding.* A scaffold is a way for educators to support the construction of new knowledge, beginning from a person’s existing repertoire of knowledge and then preceding into new heights of understanding. The scaffold is the environment an educator creates, the support of learning facilitation, and the processes and language that are lent to the learner in the context of approaching an adaptive task and developing new abilities to meet it (Wilhelm, Baker, & Dube, 2001). Furthermore, scaffolding implies not only a person’s specific relation to the modeled behavior of others; it implies a person’s relation to social communities, and “it implies becoming a full participant, a member, a kind of person” (Lave & Wenger, 1996).
+|  | **Learning Activities**                                                                                                                                                                       |
+|  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  | **Activity 3.1:** Read: Brown (2017). Chapters 3-4.  Then, reflect on Rilke, R.M. *Ah, Not to be Cut Off* as reproduced in Palmer, P. (2017, p. 1).                                                                       |
+|  | **Activity 3.2:** Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 2: A Culture of Fear
+|  | **Activity 3.3:** Unit 3 Discussion based on Reading: Brown , B. (2017) *Braving the Wilderness,* Chapters 5 and 6.                                                                    |
+|  | **Activity 3.4**: Listen and respond to Taylor Swift's *A Place in this World*.                                                                                          |
+|  | **Assessment: Unit 3 Discussion**: Write a post in response to the BRAVING checklist (Brown, 2017, p. 114). Then, create a learning activity you would use in a course that incorporates elements of belonging.                                                                                           |
+|  | **Assignment 1: Identity as a Teacher Paper (20%)**: Write a 3-4 page paper in which you describe your identity as a teacher/facilitator.                                                                                           |
+ 
+## Topic 1: Belonging to Others
 
-The task of facilitating learning with the ZPD in mind assumes that you, as the facilitator, know what knowledge and skills your students are starting with. It is likely that the competencies your students display fall along a bell curve. While most students will be learning within a similar ZPD, there will be outliers at both ends of the curve. One strategy can be to pair students whose skills and knowledge are below the curve with those above the curve. In doing this, students who are above the curve, who may not be challenged with the content or skill, have to engage in greater levels of cognitive complexity in order to concisely explain to their peer and help them to meet the objective. For example, Madland and Richards (2016) describes a cooperative peer review activity, where the authors asked a group of learners how they thought cooperative learning activities supported learning. In this study, the learners’ responses indicated that the two most important factors were *social cohesion* and *developmentally appropriate challenges,* indicating that learners recognized the importance of the ZPD in learning.
+In *Braving the Wilderness: The Quest for True Belonging and the Courage
+to Stand Alone,* Brene Brown (2017) discusses the universal human need
+for belonging -- and the importance of belonging authentically. She
+contrasts a true sense of "belonging" to "fitting in" which she
+describes as a sense of being accepted, but not as one's true self.
 
-### ***Questions to Consider***  
-- After reading the topic above, consider the following question:  
-- How does the idea of the zone of proximal development help you support learning?
+! "We want to be part of something, but we need it to be real -- not conditional or fake or constantly up for negotiation. We need true belonging." -- Brene Brown (2017, p. 31)
 
+According to Brown (2017), belonging involves a certain level of
+vulnerability, because it means we are must show up as our true selves –
+and those selves often include some level of doubt or weakness or
+insecurity.
 
+She defines “belonging” this way:
 
-## Topic 2 - Cooperative Learning 
+! “Belonging is the innate human desire to be part of something larger than us. Because this yearning is so primal, we often try to acquire it by fitting in and by seeking approval, which are not only hollow substitutes for belonging, but often barriers to it. Because **true belonging** only happens when we present our authentic, imperfect selves to the world, our sense of belonging can never be greater than our level of self-acceptance” (Brown, 2017, p. 32).
 
-Cooperative learning is a set of learning facilitation strategies that are focused on encouraging educative social interactions between learners. It is important to not conflate *cooperative learning* with *group projects* as you might remember them from your previous experiences as a university student. Group projects are often assigned because faculty seem to have a sense that *working together* is a good thing for students, along with a vague sense that modern jobs all require teamwork. Too often, they amount to repurposing an individual assignment (such as, a research paper) into the same task, but with multiple people handing in one item instead of three to four. When these tasks are not well structured, the process becomes problematic.
+Part of our role as teachers and facilitates or to foster learning
+communities where students can truly belong.
 
-![](U5_T2_Image.jpg)
+## Topic 2: Creating Learning Spaces Where Students Belong
 
-We have all likely experienced less-than-ideal group projects where one or two people do most of the work, one member is seemingly absent altogether, and another's work is of poor quality. This is not the kind of learning activity that inspires highly engaged learners.
+Learning, by its nature, requires us to wrestle with ideas and facts and
+theoretical perspectives that are new or contradict our current
+knowledge or beliefs. Therefore, learning spaces must serve as spaces
+where we can be challenged by new ideas and challenge our current
+thinking, while at the same time feel confident that our thoughts and
+perspective are valued. These learning spaces must simultaneously allow
+us to be our authentic selves – and allow others to be authentic as
+well.
 
-Contrary to this dysfunctional group learning model, cooperative learning is structured in a way that maximizes effort from all students and, ideally, leads to all group members attaining high-level learning outcomes. In order to ensure this, there are five characteristics of learning groups that must be present for cooperative learning to occur: *"positive interdependence, individual accountability, promotive interactions, appropriate use of social skills, and group processing"* (Johnson & Johnson, 2009, p. 366).
+Brown (2017) discusses key concepts of creating spaces that facilitate a
+sense of belonging – including civility, inclusive language, truth, and
+respect. Often, the balance between truth and civility can be
+challenging – as we seek to authentically discuss new ideas – but in a
+manner that is both civil and respectful of others.
 
-#### More about cooperative learning...{-}
+Trust is at the heart of authentic learning communities. Brown (2017)
+uses the acronym “BRAVING” to describe key elements of trust. These
+elements include Boundaries, Reliability, Accountability, Vault,
+Integrity, Non-Judgement, and Generosity (p. 114).
 
-```{block, type='bonus'}
-##### Positive Interdependence{-}
-Positive interdependence, according to Johnson and Johnson is the idea that individuals in a learning environment are dependent upon each other for success. In other words, I cannot succeed unless you succeed and you cannot succeed unless I succeed. So, collectively, we are interdependent. Positive interdependence is the key that distinguishes cooperative learning from competitive learning, where students are graded on a curve and only the top 2-3% of students can earn 'A' grades.
+Palmer (2017) also argues that spaces free of fear are necessary for
+authentic learning. He describes a “shutdown” that occurs as we seek to
+protect ourselves – both teachers and students – and as we think about
+learning and knowing in from an either-or perspective, failing to
+acknowledge the great vastness of truth.
 
+Learning communities, then, must be places of trust, with a focus on
+learning that incorporates both “profound truth” and “paradox” (Palmer,
+2017, p. 65).
 
-##### Individual and Group Accountability{-}
+Brower and Dettinger (1998) contend that diversity of thought and
+perspective is an essential element of a learning community. “When we
+define a community as a group of individuals committed to shared values
+and goals, who purposefully come together and work together to reach
+these goals, then diversity is encouraged not just for ideological
+reasons but also because different perspectives, experiences, and
+backgrounds contribute to the collaborative efforts to achieve the
+community’s goals” (Brower & Dettinger, 1998, p. 16). In the next unit,
+we will learn more about Brower and Dettinger’s Learning Community
+Pyramid.
 
-In cooperative learning environments, each individual in the group is held accountable for their contributions to the final product, and feedback is provided to both the individual and the group. This helps to ensure that students who need more assistance are identified and can be supported as needed, and it also prevents the 'social loafing' that is common in typical 'group projects.'
+### Learning Activities
 
+#### Activity 3.1: Read and Reflect
 
+Read: Brown (2017). Chapters 3-4.
 
+Then, find a quiet space in your home or outdoors. Make your favourite
+beverage. With your iced coffee or hot tea with honey next to you,
+settle into a comfortable position. Read the poem by Rainer Maria Rilke
+“Ah, not to be cut off” reproduced in Palmer (2017, p. 1). Sit for a
+moment with this poem. Re-read it. Consider the words and ideas
+expressed by Rilke. In your Reflective Journal, jot down your thoughts.
+Consider how you have, in your own learning experiences, experienced
+“the winds of homecoming” or the desire “not to be cut off.”
 
+![coffee, flower, laptop](coffee-2242212_1920.jpg)
+*Image by <a href="https://pixabay.com/users/engin_akyurt-3656355/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2242212">Engin Akyurt</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2242212">Pixabay</a>*
 
-##### Promotive Interaction{-}
+#### Activity 3.2: Read and Reflect
 
-Promotive interaction is the logistics of working and learning together as a cooperative group. The essence is that group members each need to work to promote the learning of each other member of the group. Since each person will be held accountable for their work and the entire group will only succeed if each member succeeds, there is a natural social pressure on more experienced members of the group to assist those with less experience or knowledge.
+Read Palmer (2017) Chapter 2. As you read, consider these
+questions:
 
+1.  How am I “at home in a universe that embraces both the smallness of
+    ‘I’ and the vastness of all that is ‘not I,’”? (Palmer, 2017, p.
+    59).
 
-##### Interpersonal Skills{-}
-Not only do members of the group need to learn the content of the lesson or project, but they must also learn the process of working well as a cooperative group. Sometimes, these processes need to be taught directly, other times (like in graduate studies) it is reasonable to presume that group members will already possess and be willing to utilize effective social skills.
+2.  What fears do I need to overcome as a teacher so I can create space
+    for students to express their fears?
 
-##### Group Processing{-}
-Finally, the group must be able to monitor their process with the goal of improving their work process and product. This metacognitive task is crucial to the long-term improvement and progress towards learning goals.
-```
 
+#### Activity 3.3: Listen and Reflect
+Listen to *A Place in this World*, sung by Taylor Swift.
 
+[plugin:youtube](https://www.youtube.com/watch?v=DscfyMJP7U4)
 
-![](Image3.png)
+Consider the following scenario:
+Imagine a student in a course you are facilitating. A young student submits a poorly written assignment and then does not complete the next week’s assignment. When you ask the student to meet with you, she shares this song with you and shares that she feels all alone, she doesn’t feel confident writing at an academic level, and she didn’t do this week’s assignment because she’s afraid she will fail. She thinks she probably shouldn’t have been admitted to this program.
 
+In your Reflective Journal, compose an email or talking points for a conversation with the student, specifically describing why she belongs in this course.
 
-## Learning Activity {-}
 
-```{block, type='reflect'}
-- ***Questions to Consider***  
-- After reading through the content in Topic 2, please consider the following questions:  
--  How can coaching concepts be applied to helping learners learn?  
--  What key characteristics define effective coaching for learning?  
--  How can educators coach learners through the transition of making a change?
-```
 
-## Topic 3 - Facilitating Transformational Learning in Group Environments
-<br>
-In Unit One, we examined the CoI model and identified how teaching presence helps to support both the cognitive and social presences within the educational experience of a course of study. An important idea we emphasized was that teaching presence can be a shared function between members of the learning community and that facilitation of the learning process is often shared (Garrison, et al., 2010). Now, we are interested in examining what a division of the teaching presence might look like if we professionalize the function of learning facilitation within a distributed model of teaching presence.
 
-Our prototype for exploring this model is TWU’s own Facilitated Academic Resource (FAR) centre. The facilitation of courses in the TWU FAR Centre model is unique, as you know. From the perspective of a traditional, campus-based faculty member in Langley, a FAR Centre course is an *online* course. The faculty member has worked in the role subject matter expert with an instructional designer to *structure* a course which integrates everything required to create an online community of inquiry with allowances for all three presences: social, cognitive, and teaching. The courses are deployed through online technology and materials are accessed digitally in remote locations. Furthermore, students submit their work to the faculty member who then assesses their work and provides both formative and summative feedback as appropriate.
+## Unit 3 Summary
 
-From the perspective of the remote student, however, the course is much more like a typical F2F course where they are meeting with a group of their fellow students in regularly scheduled learning labs in a central location and are guided through the learning materials by an experienced facilitator.
+In this unit, you have had the opportunity to consider concepts related
+to our own sense of “belonging to others” and what it means to create
+safe learning spaces, built on trust and an awareness that learning is
+both vast and paradoxical. Bringing our selves to the educational
+experience – both as teachers/facilitators and as students/learners, we
+must seek to authentically engage in the learning experience – and to
+form connections with other learners. In the next unit, we will move
+from the philosophical and self-reflective to explore practical
+strategies for creating authentic learning communities.
 
-The rationale for this model is that international students often experience difficulties completing online courses from Western universities, so TWU is providing a F2F Academic Facilitator to support remote students in their individual and group studies through the courses. You, as the Academic Facilitation Specialist, are a critical component of this model. Your skills in coaching facilitating student learning through courses where you may not be a subject matter expert are going to be extremely important.
+## Assessment
 
-As such, you will need to start thinking about *how* to facilitate your students’ experience of a course of study’s learning activities without the immediate F2F presence of a faculty member. In the activity below, you will read about the concept and practices of facilitating transformation learning.
+### Unit 3 Discussion
 
-### Facilitating Group Learning Sessions{-}
+#### Part A: BRAVING
+Using the BRAVING checklist (Brown, 2017, p. 114), write a 250-word discussion post that includes a description of each element of the checklist, as well as a 2-3 sentence description of how you would apply this concept in a course to create an inclusive, authentic learning community.
 
-The work of facilitating the learning process within a group setting begins with an effective plan. Smith (2009) proposes a simple model: EFFECT. This model reminds the facilitator to think about the learning **environment,** the **focus** (or purpose) of the session, **feelings** the session is likely to evoke, **experiences** learners will explore, **changes** learners will make as a result of the session, and the **timings** allocated for all the learning experiences and activities. Next, it’s important for the facilitator to plan out the structure of each learning session, which like a story, should have beginnings, middles, and endings. Each stage has a particular task. The beginning encourages learners to explore, the middle engages learners with the subject, and the ending enables learners to move on in their personal learning journey. Drawing upon Evans’ (2007) guidelines for helping conversations, Smith (2009) advises facilitators to think about “the exploration as the first quarter of the session; engaging with the subject and developing understanding as the middle half; and enabling action and development as the final quarter.”
 
+#### Part B: Belonging Learning Activity
+Based on the learning activities in this unit, create a learning activity you would use in a course that incorporates elements of belonging, discussed in the course readings and your blog posts. Include the learning outcome for the activity, the learning activity, and a discussion of how the different elements of the learning activity would serve to support a sense of belonging for students.
 
 
-## - Learning Activity
 
-```{block, type='reflect'}
+#### Grading Criteria
+See the following [rubric](LDRS664_DiscussionRubric.pdf) that explains how your discussion contributions will be evaluated.
 
-### - Read and Reflect{-}
 
-Read the following article:
 
-- [**Facilitating Learning and Change in Groups**](https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/)
+### Assignment 1: Identity as a Teacher Paper (20%)
 
-- *Questions  to Consider*  
-- After completing the reading above, consider the following questions:  
--  According to Roger Schwarz what is a facilitator’s main task?  
--  According to Carl Rogers what are the core conditions for facilitating learning?  
--  What are the three foci of the facilitator role?  
--  What are the core values informing facilitation?  
--  How can the EFFECT model help you to plan a facilitated learning session?  
--  How does a facilitator effectively structure a facilitated learning session?  
-```
+Building on your learning in the first three weeks of class, write a 3-4
+page paper in which you describe your identity as a teacher/facilitator.
+Incorporate references to the Brown (2017) and Palmer (2017) texts, as
+well as other resources from your graduate coursework. The paper should
+include an introduction, a statement of your identity as a
+teacher/facilitator, and a discussion of three important aspects of that
+identity. Your conclusion should include a discussion of how you will
+use your identity to create authentic spaces for learning in the courses
+you facilitate/teach.
 
-## Topic 4 - Navigating Group Dynamics
-<br>
-In this Unit we have examined how individual learning may be understood as a social process, however, it is also important for facilitators to understand that the group as a whole also learns and develops.
+#### Grading Criteria
+See the following [rubric](Identity-as-a-Teacher-RUBRIC.pdf) that explains how your assignment will be evaluated.
 
-Forsyth (2017) defines a social group as *“two or more individuals who are connected to one another by and within social relationship”* (p. 3). The number of group members, the presence of links between members, and the nature of those links all shape the group and the quality of learning it supports.  
 
-An essential requirement for learning in a group is a sufficient level of cohesion and trust between members. Some of the group characteristics that tend to cultivate trust within a group include:
 
-**Similarity** -  The more similar members are in terms of age, sex, education, skills, attitudes, values, and beliefs, the more likely the group will bond.
+## Checking your Learning
 
-**Stability** - The longer a group stays together, the more cohesive it becomes.
+Use the learning outcomes for this unit as a checklist of understanding
+before you move to the next unit. Can you:
 
-**Size** - Smaller groups tend to have higher cohesion.
+  - Describe a learning community?
 
-**Support** - Coaching and encouragement to support other members strengthens the group’s identity.
+  - Describe elements of a learning community that create a sense of
+    belonging?
 
-**Satisfaction** - How pleased group members are with each other’s performance, behaviour, and conformity to group norms increases cohesion.
+## References
 
-*One factor that tends to erode trust within a group is:*
+Brown , B. (2017) *Braving the Wilderness*
 
-**Social Loafing** - There is a tendency of individuals to put in less effort when working in a group context. As group size grows, this effect becomes larger.
+Palmer, P. (2017). *The courage to teach: Exploring the inner landscape
+of a teacher’s life.* San Francisco: Wiley.
 
-### Group Development{-}
+Rilke, R.M. *Ah, Not to be Cut Off* as reproduced in Palmer, P. (2017,
+p. 1)
 
-It is important for facilitators to understand that groups change over time. One of the most influential and helpful models of group development was articulated by Bruce W. Tuckman (1965). His research finding was that groups typically move through five critical stages of development:
-
-**Forming:** Members get to know one another, exchange personal information, and establish new relationships.
-
-**Storming:**  Members open up to each other and confront each other's ideas and perspectives.
-
-**Norming:**  Members achieve a consensus about goals, definition of roles, and clear coordination of effort.
-
-**Performing:** The group is able to function as a unit as they find ways to get the job done smoothly and effectively without inappropriate conflict or the need for external facilitation.
-
-**Adjourning:** At some point the group ends.
-
-! ***Each stage of group development requires the facilitator to employ variations in their approach.***
-
-![](tableimage.jpg)
-
-
-## - Learning Activity
-
-```{block, type='reflect'}
-
-### - Read and Reflect{-}
-
-Take a moment to read the following article:
-
-[**What is a Group?**](https://infed.org/mobi/what-is-a-group/)
-
-- *Questions  to Consider*  
-- After reading the article above, consider the following questions:  
--  What are some of the key benefits and dangers of learning in group settings?  
--  What are some key dimensions of groups?  
--  What are the stages of group development?  
-```
-
-
-
-## - Learning Activity
-```{block, type='reflect'}
-
-### - Read and Reflect{-}
-
-Take a moment to read the following article:
-
-[**Comfort Zone to Performance Management**](https://www.researchgate.net/publication/228957278_From_Comfort_Zone_to_Performance_Management)
-
-*Questions  to Consider*  
-- After completing the reading above, consider the following questions:  
--  How is White’s Optimal Performance Zone similar Vygotsky’s ZPD?  
--  How does White’s model help a facilitator determine how to adjust their facilitation strategies?  
--  What insight does White’s model provide about how to sustain learning performance?  
-```
-
-## Topic 5 - Core Facilitation Competencies
-<br>
-The professionalization of learning facilitation within educational settings is a promising, but new development. The core competencies are still emerging, as institutions begin to prototype this model. Below is a tentative list of competencies we have identified through in our preliminary experiments.
-
-- Develop multi-session study plans for completing courses
-- Select clear study methods and learning activities
-- Prepare time and space to support group learning
-- Create and sustain a participatory transformative learning environment
-- Guide Group to meet each course learning outcome
-- Directing processes for sharing peer feedback (in self-directed learning)
-- Providing learners with formative feedback
-- Mediating exchange of coursework and feedback between students & instructor
-
-
-
-## - Learning Activity
-```{block, type='reflect'}
-
-Take some time to read the following article:
-
-[**Core Competencies**](https://www.iaf-world.org/site/professional/core-competencies)
-
-***Questions  to Consider***  
-- After completing the reading above, consider the following questions:  
--  What general facilitation competencies apply to facilitating learning?  
--  What competencies do you feel are strength areas? What areas do you need to develop?  
--  How can facilitation skills help you support learner success in an educational setting?  
-```
-
-## Topic 6 - Facilitation Strategies
-<br>
-
-Strategies for facilitating learning are as numerous and varied as the educators who create them. In the FAR model of professionally facilitated learning we are proposing in this course, each FAR course you may help facilitate in the future has a facilitator’s guide that provides designs for each learning activity. While these designs provide you with the majority of the learning facilitation strategies required in a given course, the needs of learners are not always predictable and emergent strategies may be needed.
-
-### Liberating Structures{-}
-
-It can often be challenging to devise new ways of interacting in F2F learning environments, but there are many resources available to facilitators both online and in print. One of those resources is a book and website called *Liberating Structures* which describes a set of 33 structured activities that you can use in your learning labs to generate conversation without resorting to the same old tired 'brainstorm.'
-
-
-## - Learning Activity 
-
-```{block, type='reflect'}
-
-### - Watch and Reflect{-}
-
-Watch the video below for a quick introduction to *Liberating Structures:*
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/364868276" width="465" height="262" frameborder="0" allowfullscreen></iframe>
-
-Next, visit the *Liberating Structures* website and take a look at the following activity:
-
-- [**What, So What, Now What? W³**](http://www.liberatingstructures.com/9-what-so-what-now-what-w/)
-
--  Now, consider how could you use this Liberating Structure to guide a group discussion that would help learners learn a Unit?  
-```
-
-
-## Unit 2 Assessment
-
-```{block, type='assessment'}
-Please see the details for Post 1 below for your first required reflective post.
-
-[plugin:content-inject](../assignments/_blog)
-
-In addition, you should be planning your *Curriculum analysis* assignment with your learning pod.
-
-[plugin:content-inject](../assignments/_curriculum-analysis)
-```
-
-### Checking Your Learning{-}
-
-Before you move on to the next unit, you may want to check to make sure that you are able to:
-
-- Explain how to design learning environments to maximize learning.  
-- Plan appropriate group learning processes to support transformative learning.  
-- Demonstrate how to facilitate a course of study.  
-- Design cooperative activities to maximize student-student and student-content interactions.  
-- Apply knowledge of the Community of Inquiry model and liberating structures to the facilitation of cooperative learning activities.  
-- Identify and explain core competencies for facilitating learning.  
+Taylor Swift: *A Place in this World*
