@@ -75,22 +75,22 @@ div.feedback:before{
 
 
 /* Styling unique to each environment: */
-div.bonus{background: #000000;}
+div.bonus{background: #be84a3;}
 div.bonus:before {content: url(images/sun-fill.svg) "🎯 Bonus";}
 
-div.reflect{background: #ffdb80;}
+div.reflect{background: #fff1d2;}
 div.reflect:before {content: url(images/lightbulb-fill.svg) " Reflect";}
 
-div.assessment{background: #93b6ed;}
+div.assessment{background: #e1f3f8;}
 div.assessment:before {content: url(images/pencil-fill.svg) " Assessment";}
 
 div.progress{background: #bba3cc;}
 div.progress:before {content: url(images/pulse-line.svg) " Progress Check";}
 
-div.video{background: #d98780;}
+div.video{background: #d6d7d9;}
 div.video:before {content: url(images/vidicon-fill.svg) " Video";}
 
-div.caution{background: #ff6700;}
+div.caution{background: #f9dede;}
 div.caution:before {content: url(images/alarm-warning-fill.svg) " Caution";}
 
 div.feedback{background: #cccccc;}
