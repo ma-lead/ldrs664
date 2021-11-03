@@ -1,7 +1,7 @@
 # Belonging to Others
 
 
-## Overview
+## Overview {-}
 
 Building on our discussion of “belonging to ourselves” in the previous
 unit, in this unit we will explore the concept of “belonging to others.”
@@ -18,12 +18,12 @@ Unit 3 focuses on two guiding questions:
 sense of belonging?
 
 
-## Topics
+## Topics {-}
 1. Belonging to Others
 2. Creating Learning Spaces Where Students Belong
 
 
-## Learning Outcomes
+## Learning Outcomes {-}
 
 When you have completed this unit you should be able to:
 
@@ -37,7 +37,7 @@ When you have completed this unit you should be able to:
 - Plan a learning activity that builds community.
 
 
-## Activity Checklist
+## Activity Checklist {-}
 
 These learning activities will engage you in considering the guiding
 questions for this unit. As you plan your week, be sure to include time
@@ -162,7 +162,7 @@ In your Reflective Journal, compose an email or talking points for a conversatio
 
 
 
-## Unit 3 Summary
+## Unit 3 Summary {-}
 
 In this unit, you have had the opportunity to consider concepts related
 to our own sense of “belonging to others” and what it means to create
@@ -174,7 +174,7 @@ form connections with other learners. In the next unit, we will move
 from the philosophical and self-reflective to explore practical
 strategies for creating authentic learning communities.
 
-## Assessment
+## Assessment {-}
 
 ### Unit 3 Discussion
 
@@ -187,7 +187,7 @@ Based on the learning activities in this unit, create a learning activity you wo
 
 
 
-#### Grading Criteria
+#### Grading Criteria {-}
 See the following [rubric](LDRS664_DiscussionRubric.pdf) that explains how your discussion contributions will be evaluated.
 
 
@@ -209,7 +209,7 @@ See the following [rubric](Identity-as-a-Teacher-RUBRIC.pdf) that explains how y
 
 
 
-## Checking your Learning
+## Checking your Learning {-}
 
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit. Can you:
@@ -219,7 +219,7 @@ before you move to the next unit. Can you:
   - Describe elements of a learning community that create a sense of
     belonging?
 
-## References
+## References {-}
 
 Brown , B. (2017) *Braving the Wilderness*
 
