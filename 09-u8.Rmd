@@ -243,7 +243,7 @@ personal and professional integrity. Powerful indeed\!
 
 ## Assessment {-}
 
-### Unit 8 Discussion
+### Unit 8 Discussion {-}
 
 After reading Wheatley chapter 6, prepare the following for your discussion post:
 
@@ -378,7 +378,7 @@ The following grading [rubric](Platform-Paper-RUBRIC.pdf) will be used to evalua
 ```
 
 
-## Checking your Learning
+## Checking your Learning {-}
 
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit. Can you:
@@ -395,7 +395,7 @@ before you move to the next unit. Can you:
 
 
 
-## References
+## References {-}
 
 Brookfield, S. (2016). *The discussion book: 50 great ways to get people
 talking*. San Francisco: Jossey-Bass.
