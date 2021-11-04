@@ -21,6 +21,9 @@ topic-1-belonging-to-others
 topic-2-creating-learning-spaces-where-students-belong
 activity-3.1-read-and-reflect
 activity-3.2-read-and-reflect
+learning-communities
+learning-community-pyramid
+learning-activity-4.1
 the-community-of-truth-palmer-2017
 learning-activity-4.2
 the-twu-community-of-inquiry-madland-2017
