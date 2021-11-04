@@ -20,9 +20,9 @@ When you have completed this unit you should be able to:
 2. Develop a personal philosophy of the role of facilitator in creating authentic learning communities
 3. Evaluate and choose strategies to adapt to the identity and learning needs of participants.
 
-## Activity Checklist {-}
+## ✔️ Activity Checklist {-}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
 |**Activities**|
 |---|
@@ -37,7 +37,7 @@ An essential question for adult educators to reflect on is: *What matters to me 
 
 >It is always good for individuals, communities and indeed nations, to remember that their present situation is a result of the thousands of gestures of love or hate that came before. This obliges us to remember that the community of tomorrow is being born of our fidelity to the present. We discover that we are at the same time very insignificant and very important because each of our actions is preparing the humanity of tomorrow; it is a tiny contribution to the huge and glorious final humanity. (Vanier, 1989, p.152)
 
-What we value, we prioritize, and this directs our work and lives, shaping not just what we do but who we become. We need to start practicing now who we want to be in the future (Bregman, P., 2016). 
+What we value, we prioritize, and this directs our work and lives, shaping not just what we do but who we become. We need to start practicing now who we want to be in the future (Bregman, P., 2016).
 Adult educators have a privileged position in the lives of their students that can be leveraged to help them develop the skills, attitudes and dispositions they need to improve their lives and those of others. In this sense, an adult educator is a leader of self and a leader in the classroom. *Who* we are matters.
 
 Figuring out how our identity impacts the learning environment involves discerning our personal values through self-reflection. What makes us act and react the way we do? Through what screens do we view and respond to life? On what basis do we make decisions? Questions, like those in the following list (Atha et al., 2018, p. 26), can assist with the values and identity discernment process:
@@ -60,13 +60,13 @@ Read Wheatley, M. (2017). *Who Do We Choose to Be? : Facing Reality, Claiming Le
 Read the next learning activity below which is also related to this reading so you can keep it in mind as you read.
 ```
 
-### Learning Activity 
+### Learning Activity
 
 ```{block, type='reflect'}
 As you read Wheatley (2017) answer the following questions in your Reflective Learning Journal:
 
 - Write a summary sentence for each major idea/concept that relates to belonging.
-- Choose the concept that you would like to apply in your own learning communities, both as a student and teacher/facilitator. 
+- Choose the concept that you would like to apply in your own learning communities, both as a student and teacher/facilitator.
 - Formulate one question that emerged from this reading that you will explore and consider in future course readings and discussions.
 - As you prepare your discussion post, refer to these notes.
 ```
@@ -108,16 +108,16 @@ By incorporating liberating structures or those suggested by Brookfield and Silb
 ```{block, type='reflect'}
 Choose one of the two themes to write on:
 
-*Do some research about a marginalized group related to your current or future working context.* 
-- What will be important for you to understand about this group in order to teach authentically in that space? 
+*Do some research about a marginalized group related to your current or future working context.*
+- What will be important for you to understand about this group in order to teach authentically in that space?
 - What indigenous perspectives need to be considered?
-- Consider how your own identity impacts your ability to interact in this space. 
+- Consider how your own identity impacts your ability to interact in this space.
 
 OR
 
-*Explore the concept of Assimilation* 
+*Explore the concept of Assimilation*
 
-- Have you ever tried to hide your home language religion or any other aspect of your family’s culture from your friends or classmates? If so, why? 
+- Have you ever tried to hide your home language religion or any other aspect of your family’s culture from your friends or classmates? If so, why?
 - Describe the experience, how it felt, and what, if anything, about the situation you would change if you could.
 ```
 
@@ -127,7 +127,7 @@ In this unit, you have had the opportunity to learn about the adult educator as 
 
 
 ## Assessment
-### Unit 6 Discussion 
+### Unit 6 Discussion
 ```{block, type='assessment'}
 After completing this unit, including the learning activities, you are asked to choose one of the two themes to write on:
 

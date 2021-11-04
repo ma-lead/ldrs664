@@ -17,9 +17,9 @@ When you have completed this unit you should be able to:
 - Choose and/or design strategies with a critical lens for using information to influence growth and development of learners.
 - Explain how an adult educator can be a servant leader.
 
-## Activity Checklist {-}
+## ✔️ Activity Checklist {-}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
 | **Activities**|
 |----|
@@ -31,17 +31,17 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ## The Role of Information and Perception in Growth and Development
 
-> "Information is the source of all growth and development in a living system" (Wheatley, 2017, p. 101). 
+> "Information is the source of all growth and development in a living system" (Wheatley, 2017, p. 101).
 
-Wheatley goes on to explain how information has changed from 
+Wheatley goes on to explain how information has changed from
 
-> "communications among people to high speed transmissions delivered in cyberspace" (p. 104). 
+> "communications among people to high speed transmissions delivered in cyberspace" (p. 104).
 
 While information is still important, it is the mode of delivery that has reshaped culture. She argues that the digital age has destroyed the information age. The adult educator can respond to her call to re-establish our relationships with the real world by choosing strategies that privilege connection and meaning and lead to better decisions. She illustrates this by describing in some depth the value of an 'After Action Review' (see pages 128-132). Consider how this might be adapted for the adult education setting in your context.
 
-Perception based on scientific understanding is not the only way of knowing. Wheatley admonishes: 
+Perception based on scientific understanding is not the only way of knowing. Wheatley admonishes:
 
-> "There are other ways of knowing reality, reliable methods that have served humans and earlier hominids for millennia. It is the arrogance of our science that denies their existence and their usefulness" (p. 179). 
+> "There are other ways of knowing reality, reliable methods that have served humans and earlier hominids for millennia. It is the arrogance of our science that denies their existence and their usefulness" (p. 179).
 
 How can adult educators incorporate other ways of knowing? Cahalan, K. (2016) has identified eight ways of knowing that are essential to wise practice:
 
@@ -56,13 +56,13 @@ How can adult educators incorporate other ways of knowing? Cahalan, K. (2016) ha
 
 How we perceive, and teach learners to perceive, matters greatly and is a foundational responsibility of the adult educator. For example, in choosing texts, articles or other resources the type of information you get students to pay attention to will affect their awareness of contextual factors. Embodied realizing in the classroom may take the form of an experiential learning activity where the students are asked to interview someone, ‘shadow’ them for a time or else listen to a podcast and describe their ‘gut reactions’ or impressions. Reading biographies is an excellent way for learners to become more emotionally attuned to the feelings and affective states of others. This develops empathy – a crucial component of being hospitable in a diverse, pluralistic society.
 
-Wheatley identifies a warrior for the human spirit as 
+Wheatley identifies a warrior for the human spirit as
 
-> "a decent human being who aspires to be of service in an indecent, inhumane time" (p. 255). 
+> "a decent human being who aspires to be of service in an indecent, inhumane time" (p. 255).
 
 In this sense, adult educators are called to be warriors for the human spirit. Read pages 258-259 for ethical principles that are quite likely to move you and profoundly influence your perception of your role.
 
-### Learning Activity 
+### Learning Activity
 
 ```{block, type='reflect'}
 Read Wheatley, M. (2017). *Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Wheatley chapters 3 (pages 100-139),  5 (pages 172-209 ) and 7 (pages 252-270).
