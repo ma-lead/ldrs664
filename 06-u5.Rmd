@@ -140,11 +140,11 @@ Then, contact the student assigned to you for this assignment and schedule a tim
 After you have completed the interview, reflect on your classmate’s responses and your own reading. Synthesizing your learning, prepare a 250-word discussion post, identifying at least three strategies you can use to help learners develop questions with each other. Be sure to reference the other learner for her/his original ideas.
 ```
 
-## Unit 5 Summary
+## Unit 5 Summary {-}
 
 In this unit, we have considered how we can create learning environments where students belong, the essential nature of creating connections between learnings, and specific strategies we can use to support collaborative learning.
 
-## ✏️ Assessment{-}
+## ✏️ Assessment {-}
 ```{block, type='assessment'}
 ### Unit 5 Discussion
 
@@ -170,7 +170,7 @@ After you have completed the interview, prepare a 250-word blog post, identifyin
 ```
 
 
-## 🎯 Checking your Learning
+## 🎯 Checking your Learning {-}
 
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 

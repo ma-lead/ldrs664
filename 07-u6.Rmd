@@ -107,12 +107,12 @@ Wheatley’s point is that an over-reliance on technology is not helpful in the 
 
 
 
-## Unit 6 Summary
+## Unit 6 Summary {-}
 
 In this unit, you have had the opportunity to learn about the adult educator as authentic leader and facilitator in the learning environment. You have considered the impact of identity in a learning environment and the adult educator as creator and leader of a learner centered environment.
 
 
-## ✏️ Assessment{-}
+## ✏️ Assessment {-}
 ```{block, type='assessment'}
 ### Unit 6 Discussion
 ```{block, type='assessment'}
@@ -129,7 +129,7 @@ Have you ever tried to hide your home language, religion or any other
 Post your response to the Discussion Forum and respond to at least two of your peers' posts.
 ```
 
-## 🎯 Checking your Learning
+## 🎯 Checking your Learning {-}
 
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit.
@@ -139,7 +139,7 @@ before you move to the next unit.
 - Can you evaluate and choose strategies to adapt to the identity and learning needs of participants?
 - What strategies have you learned that will help to create a learner centered environment?
 
-## Resources
+## Resources {-}
 
 Atha, D.L., Castellon, A.R., Strong, H., & Wu, T. (2017). MA Leadership and MA in Educational Leadership Monograph 2018. *Unpublished Manuscript Trinity Western University, Langley BC*, (70), 22–32.
 

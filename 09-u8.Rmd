@@ -42,7 +42,7 @@ These learning activities will engage you in considering the guiding questions 
  | Activity 8.6: Complete your Unit 8 Discussion post.   |
  | Assignment 2: Company Website Analysis (20%). Analyze the learning culture of an organization.   |
 
-## Topic 1: Adult Education Methods to Teach from Depth {-}
+## Topic 1: Adult Education Methods to Teach from Depth
 
 What does it mean to teach from depth? It connects to the principle of
 adult learning that adults are internally motivated and build on prior
@@ -90,9 +90,10 @@ Among the many examples in Brookfield’s *Discussion Book* some of the strategi
 
 I encourage you to review these particular strategies and add to your proverbial ‘toolkit’.
 
-```{block, type='reflect'}
 
-#### Activity 8.1: Video
+### Activity 8.1: Video
+
+```{block, type='reflect'}
 
 :fa-film: View: Cason Smith, "The Six Adult Learning
 Principles."
@@ -105,9 +106,11 @@ analysis assignment. Reflect one or two of these principles and consider
 how you might apply them to practice, and also how they relate to your
 “Philosophy of Learning Communities” you developed in Unit 5.
 ```
+
+### Activity 8.2: Reading
+
 ```{block, type='reflect'}
 
-#### Activity 8.2: Reading
 
 Read Fenwick, T. (2010). [Workplace ‘Learning’ and Adult Education:
 Messy Objects, blurry maps and making difference.](Fenwick_2010.pdf) *European Journal for Research on the Education and Learning of Adults.* *I,* 79-95.
@@ -118,9 +121,11 @@ you are interested. Consider how these categories connect with the adult
 learning principles you looked at in your website analysis assignment.
 
 ```
+
+### Activity 8.3: Role Play
+
 ```{block, type='reflect'}
 
-#### Activity 8.3: Role Play
 
 Practice using role play by planning a teaching and learning activity
 that utilizes role play. Consider a discipline of interest to you or a
@@ -132,9 +137,11 @@ community, and develop a role play to teach that concept within an
 online or face-to-face learning environment.
 ```
 
+
+### Activity 8.4: Company Website Analysis Assignment (20%)
+
 ```{block, type='reflect'}
 
-#### Activity 8.4: Company Website Analysis Assignment (20%)
 
 Investigate the Human Resources portion of a company's website, a higher
 education institution or adult learning facility - preferably one with
@@ -183,7 +190,7 @@ The paper should include:
 - Reference List
 ```
 
-## Topic 2: Web of Relationships and Impact on Values {-}
+## Topic 2: Web of Relationships and Impact on Values
 
 We are who we are partly because of who we associate with. Perhaps you remember your parents cautioning you to choose your friends wisely.
 Perhaps you are a parent who understands this and has given similar advice to your own children. Even the contemporary business literature recommends that as adults we are aware of whom we choose to associate.
@@ -191,9 +198,10 @@ In her book *Executive Presence*, Sylvia Ann Hewlett (2014) emphasizes how conne
 
 Who we associate with impacts our values and our values have the potential to impact those with whom we associate. Being reliable, consistently following through on commitments is a foundational value that impacts and is impacted by the web of relationships we encounter in our work and life generally. Lytkina Botelho et al. (2017) did a ten-year study that identified specific attributes of high-performing CEOs. I would suggest that one of the attributes in particular can also describe high-performing adult educators and learners, that is, ‘delivering reliably’ (p. 10): “The ability to reliably produce results was possibly the most powerful of the four essential CEO behaviors.” (I encourage you to read the [article](https://hbr.org/2017/05/what-sets-successful-ceos-apart) to learn more about the other essential behaviors for CEO success: deciding with speed and conviction, engaging for impact and adapting proactively.). Consider how your values are impacted by your associates and how your values impact others. Wheatley emphasizes the power of this network: “people adopt the mores of a culture, even those that contradict their personal values. … The culture is in control, and most people unconsciously adapt” (p. 229). She encourages us to be conscious in our rebellion and reclaim life-affirming identities by being “fully engaged, carefully observing what’s going on as we do our work, learning from experience, applying those learnings, adapting, changing” (p. 231). How might you foster life-affirming identities in your particular learning environment?
 
-```{block, type='reflect'}
 
-#### Activity 8.5: Read and Reflect
+### Activity 8.5: Read and Reflect
+
+```{block, type='reflect'}
 
 Read Chapter 6 (pages 211-243) of Wheatley, M. (2017). *Who Do We Choose
 to Be: Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland,
@@ -205,10 +213,12 @@ other people.’ It is not ‘I think therefore I am’ \[but rather\] I am
 human because I belong. I participate, I share” (Wheatley, p. 223).
 ```
 
+
+
+### Activity 8.6: Unit 8 Discussion
+
 ```{block, type='reflect'}
 
-
-#### Activity 8.6: Unit 8 Discussion
 
 After reading Wheatley chapter 6, prepare the following for your discussion post:
 
@@ -240,7 +250,7 @@ leading to growth and transformation. When we are intentional about
 doing this, we develop our web of interconnectedness and strengthen our
 personal and professional integrity. Powerful indeed\!
 
-## ✏️ Assessment{-}
+## ✏️ Assessment {-}
 ```{block, type='assessment'}
 ### Unit 8 Discussion {-}
 
@@ -265,7 +275,8 @@ Respond to at least two of your peers' posts.
 
 ```
 
-## Assignment 2: Company Website Analysis (20%)
+## Assignment 2: Company Website Analysis (20%) {-}
+
 ```{block, type='assessment'}
 
 #### Instructions
@@ -311,15 +322,16 @@ The paper should include:
 4.  Reference List
 ```
 
-#### Company Website Analysis Rubric
+### Company Website Analysis Rubric {-}
 The following grading [rubric](Company-Website-Analysis-RUBRIC.pdf) will be used to evaluate your work.
 
-```
 
 
-```{block, type='assessment'}
+
 
 ## Assignment 3: Platform Paper - DRAFT (30%) {-}
+
+```{block, type='assessment'}
 
 For this assignment, you will write a contextualized Platform Paper in which you
 discuss your ideal learning community and your role as teacher/leader of that
