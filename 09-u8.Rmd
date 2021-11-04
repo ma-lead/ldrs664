@@ -406,15 +406,6 @@ before you move to the next unit. Can you:
 
   - articulate your personal web of relationship and impact on values?
 
-[plugin:youtube](https://youtu.be/kknVfOJZ1w0)
-
-```{r}
-knitr::include_url("https://youtu.be/kknVfOJZ1w0")
-```
-![](https://youtu.be/kknVfOJZ1w0)
-
- knitr::include_url(https://youtu.be/kknVfOJZ1w0)
-
 
 ## References {-}
 
