@@ -1,5 +1,5 @@
 # Belonging to Others
-![Image of hands connecting by Anemone123 from Pixabay](assets/unit3/integration-3665387_1920.jpg)
+![Image of hands connecting by Anemone123 from Pixabay ](assets/unit3/integration-3665387_1920.jpg).jpg)
 
 ## Overview {-}
 
@@ -116,7 +116,7 @@ backgrounds contribute to the collaborative efforts to achieve the
 community’s goals” (Brower & Dettinger, 1998, p. 16).
 
 
-#### Activity 3.1: Read and Reflect
+### Activity 3.1: Read and Reflect
 ```{block, type='reflect'}
 
 Read: Brown (2017). Chapters 3-4.
@@ -134,7 +134,7 @@ Consider how you have, in your own learning experiences, experienced
 *Image by <a href="https://pixabay.com/users/engin_akyurt-3656355/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2242212">Engin Akyurt</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2242212">Pixabay</a>*
 ```
 
-#### Activity 3.2: Read and Reflect
+### Activity 3.2: Read and Reflect
 ```{block, type='reflect'}
 Read Palmer (2017) Chapter 2. As you read, consider these
 questions:
