@@ -412,6 +412,8 @@ before you move to the next unit. Can you:
 knitr::include_url("https://youtu.be/kknVfOJZ1w0")
 ```
 ![](https://youtu.be/kknVfOJZ1w0)
+
+ knitr::include_url("https://youtu.be/kknVfOJZ1w0")
 ## References {-}
 
 Brookfield, S. (2016). *The discussion book: 50 great ways to get people
