@@ -8,13 +8,12 @@ depth in the workplace or in an academic setting is founded on
 relationships and values. In this unit you will apply your reflections
 to an analysis of a company’s adult learning initiatives.
 
-## Topics {-}
-
+## 📖 Topics{-}
 1.  Adult Education Methods to Teach from Depth
 
 2.  Web of Relationships and Impact on Values
 
-## Learning Outcomes {-}
+## 🎯 Learning Outcomes{-}
 
 When you have completed this unit, you should be able to:
 
@@ -33,7 +32,7 @@ When you have completed this unit, you should be able to:
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
 
- | **Activities**|
+ | Activities|
  |----|
  | Activity 8.1: View the [The Six Adult Learning Principles](https://youtu.be/vLJ7cRwKI-I) video. Jot down the six principles in your reflection journal.  |
  | Activity 8.2: Read the Fenwick article. Jot down the eight categories of workplace learning in your journal.   |
@@ -241,8 +240,8 @@ leading to growth and transformation. When we are intentional about
 doing this, we develop our web of interconnectedness and strengthen our
 personal and professional integrity. Powerful indeed\!
 
-## Assessment {-}
-
+## ✏️ Assessment{-}
+```{block, type='assessment'}
 ### Unit 8 Discussion {-}
 
 After reading Wheatley chapter 6, prepare the following for your discussion post:
@@ -264,9 +263,10 @@ relates to your teaching/facilitating work.
 
 Respond to at least two of your peers' posts.
 
-```{block, type='reflect'}
+```
 
 ## Assignment 2: Company Website Analysis (20%)
+```{block, type='assessment'}
 
 #### Instructions
 
@@ -309,14 +309,15 @@ The paper should include:
 3.  Conclusion
 
 4.  Reference List
-
+```
 
 #### Company Website Analysis Rubric
 The following grading [rubric](Company-Website-Analysis-RUBRIC.pdf) will be used to evaluate your work.
 
 ```
-```{block, type='reflect'}
 
+
+```{block, type='assessment'}
 
 ## Assignment 3: Platform Paper - DRAFT (30%) {-}
 
@@ -378,7 +379,7 @@ The following grading [rubric](Platform-Paper-RUBRIC.pdf) will be used to evalua
 ```
 
 
-## Checking your Learning {-}
+## 🎯 Checking your Learning {-}
 
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit. Can you:

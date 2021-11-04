@@ -1,7 +1,8 @@
 # Learning Communities
 
+![Image of social media connections by Gerd Altmann from Pixabay ](assets/unit4/social-media-3758364_1920.jpg).jpg)
 
-
+## Overview {-}
 In this unit, we will review several models of “learning communities” that provide visual representations of educational learning environments. A learning community can be created within a specific course, academic program, or professional context. Learning communities can be found across university campuses and often include a set of interdisciplinary, paired-courses that students take as a cohort. They can be grounded in residence halls with an integration of living and learning. Or, they can be developed in formal educational environments with a focus on students learning together as a cohort. Professional learning communities have also emerged as an important force in education and other fields, as colleagues gather around a shared interest, a focus on continuous quality improvement, and a shared discipline.
 
 Learning communities are authentic, emotionally-safe and inclusive spaces (whether physical or virtual) where learners and teachers come together to engage in deep learning. By definition, a learning community includes both LEARNING and COMMUNITY.
@@ -11,7 +12,7 @@ Unit 4 focuses on 2 guiding questions:
 - What is a learning community?
 - What key elements are essential to learning communities?
 
-## Topics
+## 📖 Topics{-}
 
 In this unit, our topics explore three different models of learning communities.
 
@@ -20,7 +21,7 @@ In this unit, our topics explore three different models of learning communities.
 3.  Trinity Community of Inquiry (Madland, 2017)
 
 
-## Learning Outcomes
+## 🎯 Learning Outcomes{-}
 
 When you have completed this unit you should be able to:
 
@@ -128,7 +129,8 @@ The learning community models we have considered in this unit share some similar
 
 Palmer (2017) puts it this way: “The reality we belong to, the reality we long to know, extends far beyond human beings interacting with one another… This is a community held together not only by our personal powers of thought and feeling but also by the power of ‘the grace of great things’” (p. 109). As Palmer (2017) points out, learning includes both thought (cognitive) and feeling (social), but also something beyond those – the overarching spiritual nature of life and learning.
 
-## Assessment
+## ✏️ Assessment{-}
+```{block, type='assessment'}
 ### Unit 4 Discussion
 
 ```{block, type='assessment'}
@@ -141,7 +143,7 @@ Provide a brief description of each of the three models (with citations as appro
 See the following [rubric](LDRS664_DiscussionRubric.pdf) that explains how your discussion contributions will be evaluated.
 
 
-## Checking your Learning
+## 🎯 Checking your Learning
 
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 

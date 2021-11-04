@@ -12,7 +12,7 @@ In this course, we will explore together the theoretical foundations of learnin
 
 In addition to reading, throughout this course, we will also listen to music and view several short films that will allow us to more deeply engage with the concepts of belonging and authenticity within the teaching/learning experience.
 
-## 📖 Topics {-}
+## 📖 Topics{-}
 
 Unit 1 focuses on two guiding questions:
 
@@ -20,7 +20,7 @@ Unit 1 focuses on two guiding questions:
 
 2.  What is the facilitator’s role in creating spaces for authentic learning?
 
-## 🎯 Learning Outcomes {-}
+## 🎯 Learning Outcomes{-}
 
 When you have completed this unit you should be able to:
 
@@ -31,7 +31,7 @@ When you have completed this unit you should be able to:
 3.  Discuss key elements of an authentic learning community.
 
 
-## ✔️ Activity Checklist {-}
+## ✔️ Activity Checklist{-}
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
@@ -68,7 +68,7 @@ These learning activities will engage you in considering the guiding questions 
 </tbody>
 </table>
 
-## 1. Authenticity in Teaching and Learning {-}
+## Authenticity in Teaching and Learning
 
 Teaching and learning are deeply personal experiences. Learning is, by definition, a transformative experience; we change as a result of learning. Teaching is also a transformative experience; we change as a result of teaching.
 
@@ -97,7 +97,7 @@ For this course, you will keep a Reflective Learning Journal, which will provide
 
 ```
 
-## 2. Identity and Integrity as a Coach/Facilitator{-}
+## Identity and Integrity as a Coach/Facilitator
 
 Identity and integrity are foundational to good teaching. This means we must endeavour to know ourselves and to create learning spaces that foster integrity in our students, allowing them to authentically engage with each other, with us, and with the discipline we are studying.
 
@@ -112,7 +112,7 @@ As teachers, it’s important to identify and reflect on your own values. Consid
 Take some time to answer the questions above in your Reflective Learning journal.
 ```
 
-## 3. Creating Authentic Learning Spaces{-}
+## Creating Authentic Learning Spaces
 
 > *For now we see in a mirror dimly, but then face to face; now I know in part, but then I will know fully just as **I also have been fully known***. -- 1 Corinthians 13:12 (ESV)
 

@@ -1,5 +1,5 @@
 # Belonging to Others
-
+![Image of hands connecting by Anemone123 from Pixabay ](assets/unit3/integration-3665387_1920.jpg).jpg)
 
 ## Overview {-}
 
@@ -18,12 +18,12 @@ Unit 3 focuses on two guiding questions:
 sense of belonging?
 
 
-## Topics {-}
+## 📖 Topics{-}
 1. Belonging to Others
 2. Creating Learning Spaces Where Students Belong
 
 
-## Learning Outcomes {-}
+## 🎯 Learning Outcomes{-}
 
 When you have completed this unit you should be able to:
 
@@ -50,6 +50,8 @@ These learning activities will engage you in considering the guiding questions 
 |  | **Assessment: Unit 3 Discussion**: Write a post in response to the BRAVING checklist (Brown, 2017, p. 114). Then, create a learning activity you would use in a course that incorporates elements of belonging.                                                                                           |
 |  | **Assignment 1: Identity as a Teacher Paper (20%)**: Write a 3-4 page paper in which you describe your identity as a teacher/facilitator.                                                                                           |
  
+
+
 ## Topic 1: Belonging to Others
 
 In *Braving the Wilderness: The Quest for True Belonging and the Courage
@@ -58,7 +60,7 @@ for belonging -- and the importance of belonging authentically. She
 contrasts a true sense of "belonging" to "fitting in" which she
 describes as a sense of being accepted, but not as one's true self.
 
-! "We want to be part of something, but we need it to be real -- not conditional or fake or constantly up for negotiation. We need true belonging." -- Brene Brown (2017, p. 31)
+> We want to be part of something, but we need it to be real -- not conditional or fake or constantly up for negotiation. We need true belonging. -- Brene Brown (2017, p. 31)
 
 According to Brown (2017), belonging involves a certain level of
 vulnerability, because it means we are must show up as our true selves –
@@ -67,7 +69,7 @@ insecurity.
 
 She defines “belonging” this way:
 
-! “Belonging is the innate human desire to be part of something larger than us. Because this yearning is so primal, we often try to acquire it by fitting in and by seeking approval, which are not only hollow substitutes for belonging, but often barriers to it. Because **true belonging** only happens when we present our authentic, imperfect selves to the world, our sense of belonging can never be greater than our level of self-acceptance” (Brown, 2017, p. 32).
+> Belonging is the innate human desire to be part of something larger than us. Because this yearning is so primal, we often try to acquire it by fitting in and by seeking approval, which are not only hollow substitutes for belonging, but often barriers to it. Because **true belonging** only happens when we present our authentic, imperfect selves to the world, our sense of belonging can never be greater than our level of self-acceptance -- (Brown, 2017, p. 32).
 
 Part of our role as teachers and facilitates or to foster learning
 communities where students can truly belong.
@@ -113,9 +115,9 @@ reasons but also because different perspectives, experiences, and
 backgrounds contribute to the collaborative efforts to achieve the
 community’s goals” (Brower & Dettinger, 1998, p. 16).
 
-### Learning Activities
 
 #### Activity 3.1: Read and Reflect
+```{block, type='reflect'}
 
 Read: Brown (2017). Chapters 3-4.
 
@@ -130,9 +132,10 @@ Consider how you have, in your own learning experiences, experienced
 
 ![coffee, flower, laptop](coffee-2242212_1920.jpg)
 *Image by <a href="https://pixabay.com/users/engin_akyurt-3656355/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2242212">Engin Akyurt</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2242212">Pixabay</a>*
+```
 
 #### Activity 3.2: Read and Reflect
-
+```{block, type='reflect'}
 Read Palmer (2017) Chapter 2. As you read, consider these
 questions:
 
@@ -145,6 +148,7 @@ questions:
 
 
 #### Activity 3.3: Listen and Reflect
+```{block, type='video'}
 Listen to *A Place in this World*, sung by Taylor Swift.
 
 [plugin:youtube](https://www.youtube.com/watch?v=DscfyMJP7U4)
@@ -154,7 +158,7 @@ Imagine a student in a course you are facilitating. A young student submits a po
 
 In your Reflective Journal, compose an email or talking points for a conversation with the student, specifically describing why she belongs in this course.
 
-
+```
 
 
 ## Unit 3 Summary {-}
@@ -169,7 +173,8 @@ form connections with other learners. In the next unit, we will move
 from the philosophical and self-reflective to explore practical
 strategies for creating authentic learning communities.
 
-## Assessment {-}
+## ✏️ Assessment{-}
+```{block, type='assessment'}
 
 ### Unit 3 Discussion
 
@@ -204,7 +209,7 @@ See the following [rubric](Identity-as-a-Teacher-RUBRIC.pdf) that explains how y
 
 
 
-## Checking your Learning {-}
+## 🎯 Checking your Learning {-}
 
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit. Can you:
