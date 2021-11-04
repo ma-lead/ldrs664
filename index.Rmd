@@ -114,32 +114,30 @@ grading rubrics.
  Below is some key information on features you will see throughout the course. 
 
  ```{block, type='reflect'}
- This box will prompt you to engage in course readings and to reflect on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
+***Learning Activity***  
+This box will prompt you to engage in course readings and to reflect on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
  ```
 
  ```{block, type='assessment'}
- This box will signify an assignment which you will turn in for grading, on which the instructor will provide feedback.
+***Assessment***  
+This box will signify an assignment which you will turn in for grading, on which the instructor will provide feedback.
  ```
 
  ```{block, type='progress'}
- This box is for checking your understanding, to make sure you are ready for what follows.
+***Checking Your Learning***  
+This box is for checking your understanding, to make sure you are ready for what follows.
  ```
 
  ```{block, type='video'}
- This box is for displaying/linking to videos in order to help illustrate or communicate concepts.
+***Media***  
+This box is for displaying/linking to videos in order to help illustrate or communicate concepts.
  ```
 
  ```{block, type='caution'}
- This box will warn you of possible problems or pitfalls you may encounter! It may also signify key notes, such as where to submit assignments.
+***Note***  
+This box will warn you of possible problems or pitfalls you may encounter! It may also signify key notes, such as where to submit assignments.
  ```
 
- ```{block, type='bonus'}
- This box is to provide material going beyond the main course content, or material which will be revisited later in more depth.
- ```
-
- ```{block, type='feedback'}
- This box will prompt for your feedback on the organization of the course, so we can improve the material for everyone! Feedback is optional but appreciated!
- ```
 
 
 ## How To Navigate This Book{-}

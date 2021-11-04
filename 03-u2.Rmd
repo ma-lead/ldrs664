@@ -81,10 +81,10 @@ For this activity, you are asked to share a little more about yourself with your
 ### 📘 Activity: View and Reflect
 ```{block, type='reflect'}
 
-View the following resources and reflect on your learning:
-- Read. Brown, B. (2017). Chapter 1: Everywhere and Nowhere.
-- Watch: Maya Angelou: <a href="http://billmoyers.com/content/conversation-maya-angelou/"><i>Interview with Bill Moyers</a> (7 minutes).
-```
+View the following resources and reflect on your learning:  
+- Read. Brown, B. (2017). Chapter 1: Everywhere and Nowhere.  
+- Watch: Maya Angelou: [Interview with Bill Moyers](http://billmoyers.com/content/conversation-maya-angelou/) (7 minutes).
+```   
 
 ## Vulnerability in Learning Communities
 
@@ -249,7 +249,7 @@ Use the learning outcomes for this unit as a checklist of understanding before y
 
 Gardner, W.L., Avolio, B.J., Luthans, F., May, D.R., & Walumbwa, F. (2005). *“Can you see the real me?” A self-based model of authentic leader and follower development.* The Leadership Quarterly, (16), pp. 343-372.
 
-Lipmanowicz, H. & McCandless, K. (2013). *The surprising power of liberating structures: Simple rules to unleash a culture of innovation.* Liberating Structures Press. This work is licensed under a Creative Commons Attribution-NonCommerical-ShareaLike License. This allows others to reproduce, distribute, adapt, and built upon our work non-commerically as long as they credit us and license their creations under identical terms.
+Lipmanowicz, H. & McCandless, K. (2013). *The surprising power of liberating structures: Simple rules to unleash a culture of innovation.* Liberating Structures Press.
 
 
  
