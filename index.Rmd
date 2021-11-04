@@ -114,11 +114,11 @@ grading rubrics.
  Below is some key information on features you will see throughout the course. 
 
  ```{block, type='reflect'}
- This box will prompt you to pause and reflect on your experience and/or learning. Most reflective activities are ungraded and are designed to help prepare you for the assessment in this course.
+ This box will prompt you to engage in course readings and to reflect on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
  ```
 
  ```{block, type='assessment'}
- This box will signify a quiz or assignment which you will turn in for grading, on which the instructor will provide feedback.
+ This box will signify an assignment which you will turn in for grading, on which the instructor will provide feedback.
  ```
 
  ```{block, type='progress'}
@@ -130,7 +130,7 @@ grading rubrics.
  ```
 
  ```{block, type='caution'}
- This box will warn you of possible problems or pitfalls you may encounter!
+ This box will warn you of possible problems or pitfalls you may encounter! It may also signify key notes, such as where to submit assignments.
  ```
 
  ```{block, type='bonus'}
@@ -138,8 +138,7 @@ grading rubrics.
  ```
 
  ```{block, type='feedback'}
- This box will prompt for your feedback on the organization of the course, so we can improve the material for everyone!
- Any of the boxes may include hyperlinks like this: [I am a link](https://www.r-graph-gallery.com/) or code like this `This is code`.
+ This box will prompt for your feedback on the organization of the course, so we can improve the material for everyone! Feedback is optional but appreciated!
  ```
 
 

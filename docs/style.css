@@ -25,23 +25,6 @@ div.bonus, div.reflect, div.assessment, div.progress, div.video, div.caution, di
   color: black;
 }
 
-/* Initialize progress block counter (Starts over for each section) */
-body {
-  counter-reset: counter-progress-blocks;
-}
-/* Increment counter in progress blocks */
-div.progress:before{
-    counter-increment: counter-progress-blocks;
-}
-/* Print counter number in progress blocks */
-div.progress:after{
-    right:0.3em;
-    position:absolute;
-    bottom:0.1em;
-    font-size: 1.0em;
-    font-weight: bold;
-    content: "#" counter(counter-progress-blocks) ;
-}
 
 
 div.bonus:before,

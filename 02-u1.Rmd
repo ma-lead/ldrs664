@@ -33,7 +33,7 @@ When you have completed this unit you should be able to:
 
 ## ✔️ Activity Checklist {-}
 
-These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. Note that not all activities are required. Your instructor will provide guidance on key activities to complete.
+These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
 <table>
 <thead>
@@ -79,7 +79,7 @@ Figure 1.1: Model designed by Penfold Navarro, C. (2018)
 
 In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life*, Parker Palmer (2017) argues that the "inner landscape of teaching" is an essential foundation out of which authentic learning experiences emerge.
 
-*"Teachers possess the power to create conditions that can help students learn a great deal -- or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act."* -- Palmer (2017, p. 7)
+>*Teachers possess the power to create conditions that can help students learn a great deal -- or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act.* -- Palmer (2017, p. 7)
 
 ### 📘 Activity: Reading{-}
 
@@ -103,7 +103,7 @@ Identity and integrity are foundational to good teaching. This means we must end
 
 In order to have integrity, we must know our own values and strengths, our own beliefs about teaching and learning, and our own perspective on the work we are doing.
 
-! "If the work we do lacks integrity for us, then we, the work, and the people we do it with will suffer." -- Palmer (2017, p. 16)
+> If the work we do lacks integrity for us, then we, the work, and the people we do it with will suffer. -- Palmer (2017, p. 16)
 
 ### ✏️ Activity: Reflect and Respond{-}
 ```{block, type='reflect'}
@@ -120,8 +120,8 @@ As we begin thinking about creating authentic learning spaces, consider a time w
 
 In the song, *Home**, Phillip Phillips sings about the universal need we share as humans to “belong.” Take a moment now to listen to this song, considering what the lyrics say about what it means to belong. [LINK](https://www.youtube.com/watch?v=HoRkntoHkIE)
 
-> "Just know you’re not alone
-> 'Cause I’m going to make this place your home."
+> Just know you’re not alone
+> 'Cause I’m going to make this place your home.
 > -- Phillip Phillips,
 
 In order for students to authentically learn, we must create learning spaces that are safe, where students know and feel that they belong. Palmer (1998) refers to this need for belonging as the "spiritual quest for connectedness" (p.5).
@@ -181,8 +181,8 @@ Incorporating the readings in this unit, write a 150-250 word discussion post t
 
 *List and describe three values you hold related to teaching and learning. Write a personal statement about your identity as a coach/facilitator.*
 
-**Part 2**
-For the second part of your discussion, write a 150-250 response to the following:
+**Part 2**  
+For the second part of your discussion, write a 150-250 response to the following:  
 *Consider the key elements of authentic learning spaces, outlined by Palmer (2017) in Chapter 3. Select two of these elements that you consider to be important. Introduce the element and discuss some practical steps you could take to create an authentic learning space. Respond to at least two other learners, providing additional suggestions regarding the elements they have chosen. Be sure to cite Palmer (2017) and other authors in both your initial posting and your responses to other learner to demonstrate ways in which your thinking aligns with, contrasts with, or builds on the writing of the authors.*
 
 Your instructor will provide direction about how to complete this activity.
@@ -192,7 +192,7 @@ See the following [rubric](LDRS664_DiscussionRubric.pdf) that explains how your 
 ```
 
 ## 🎯 Checking your Learning{-}
-```{block, type='Checking Your Learning'}
+```{block, type='progress'}
 Before you move on to the next unit, you may want to check to make sure that you are able to:  
 - Describe your own personal identity as a facilitator/teacher.  
 - Identify your personal beliefs about your role as a facilitator/teacher.  
