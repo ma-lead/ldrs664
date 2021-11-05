@@ -53,7 +53,7 @@ These learning activities will engage you in considering the guiding questions 
 
 
 
-## Topic 1: Belonging to Others
+## Belonging to Others
 
 In *Braving the Wilderness: The Quest for True Belonging and the Courage
 to Stand Alone,* Brene Brown (2017) discusses the universal human need
@@ -75,7 +75,7 @@ She defines “belonging” this way:
 Part of our role as teachers and facilitates or to foster learning
 communities where students can truly belong.
 
-## Topic 2: Creating Learning Spaces Where Students Belong
+## Creating Learning Spaces Where Students Belong
 
 Learning, by its nature, requires us to wrestle with ideas and facts and
 theoretical perspectives that are new or contradict our current
@@ -117,7 +117,7 @@ backgrounds contribute to the collaborative efforts to achieve the
 community’s goals” (Brower & Dettinger, 1998, p. 16).
 
 
-### Activity: Read and Reflect
+### 📘 Activity: Read and Reflect
 ```{block, type='reflect'}
 
 Read: Brown (2017). Chapters 3-4.
@@ -137,7 +137,7 @@ Consider how you have, in your own learning experiences, experienced
 ```
 
 
-### Activity: Read and Reflect
+### 📘 Activity: Read and Reflect
 ```{block, type='reflect'}
 Read Palmer (2017) Chapter 2. As you read, consider these
 questions:
@@ -150,7 +150,7 @@ questions:
     for students to express their fears?
 ```
 
-### Activity: Listen and Reflect
+### 🎵 Activity: Listen and Reflect
 ```{block, type='video'}
 Listen to *A Place in this World*, sung by Taylor Swift.
 

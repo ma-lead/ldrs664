@@ -17,8 +17,8 @@ activity-self-test-non-graded
 activity-readings
 activity-connection-activities-discussion
 belonging-to-others
-topic-1-belonging-to-others
-topic-2-creating-learning-spaces-where-students-belong
+belonging-to-others-1
+creating-learning-spaces-where-students-belong
 activity-read-and-reflect
 activity-read-and-reflect-1
 activity-listen-and-reflect-1
