@@ -1,5 +1,5 @@
 # Belonging to Others
-![Image of hands connecting by Anemone123 from Pixabay ](assets/unit3/integration-3665387_1920.jpg).jpg)
+![Image of hands connecting by Anemone123 from Pixabay ](assets/unit3/integration-3665387_1920.jpg)
 
 ## Overview {-}
 
@@ -39,17 +39,18 @@ When you have completed this unit you should be able to:
 
 ## ✔️ Activity Checklist {-}
 
-These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
+These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*  
 
-|  | **Learning Activities**                                                                                                                                                                       |
-|  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  | **Activity 3.1:** Read: Brown (2017). Chapters 3-4.  Then, reflect on Rilke, R.M. *Ah, Not to be Cut Off*.                                                                       |
-|  | **Activity 3.2:** Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 2: A Culture of Fear
-|  | **Activity 3.3:** Unit 3 Discussion based on Reading: Brown , B. (2017) *Braving the Wilderness,* Chapters 5 and 6.                                                                    |
-|  | **Activity 3.4**: Listen and respond to Taylor Swift's *A Place in this World*.                                                                                          |
-|  | **Assessment: Unit 3 Discussion**: Write a post in response to the BRAVING checklist (Brown, 2017, p. 114). Then, create a learning activity you would use in a course that incorporates elements of belonging.                                                                                           |
-|  | **Assignment 1: Identity as a Teacher Paper (20%)**: Write a 3-4 page paper in which you describe your identity as a teacher/facilitator.                                                                                           |
- 
+
+
+|   | **Learning Activities**                                                                                                                                                                                                                                                                                                                                                                                                             |
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | **Activity:** Read: Brown (2017). Chapters 3-4. Then, reflect on Rilke, R.M. *[Ah, Not to be Cut Off](https://gladdestthing.com/poems/ah-not-to-be-cut-off)*.                                                                                                                                                                                                                   |
+|   | **Activity:** Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 2: A Culture of Fear                                                                                                                                                                                                                                                                                        |
+|   | **Activity:** Listen and respond to Taylor Swift's *A Place in this World*.
+|   | **Assessment: Unit 3 Discussion** Write a post in response to the BRAVING checklist (Brown, 2017, p. 114). Then, create a learning activity you would use in a course that incorporates elements of belonging.                                                                                                                                                                                                                                                                                                                                                                    |
+|   | **Assignment 1: Identity as a Teacher Paper (20%)**: Write a 3-4 page paper in which you describe your identity as a teacher/facilitator.    
+
 
 
 ## Topic 1: Belonging to Others
@@ -116,7 +117,7 @@ backgrounds contribute to the collaborative efforts to achieve the
 community’s goals” (Brower & Dettinger, 1998, p. 16).
 
 
-### Activity 3.1: Read and Reflect
+### Activity: Read and Reflect
 ```{block, type='reflect'}
 
 Read: Brown (2017). Chapters 3-4.
@@ -130,11 +131,13 @@ expressed by Rilke. In your Reflective Journal, jot down your thoughts.
 Consider how you have, in your own learning experiences, experienced
 “the winds of homecoming” or the desire “not to be cut off.”
 
-![coffee, flower, laptop](coffee-2242212_1920.jpg)
+![Image of cup of coffee beside a flower and a laptop](assets/unit3/coffee-2242212_1920.jpg)
+
 *Image by <a href="https://pixabay.com/users/engin_akyurt-3656355/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2242212">Engin Akyurt</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2242212">Pixabay</a>*
 ```
 
-### Activity 3.2: Read and Reflect
+
+### Activity: Read and Reflect
 ```{block, type='reflect'}
 Read Palmer (2017) Chapter 2. As you read, consider these
 questions:
@@ -145,9 +148,9 @@ questions:
 
 2.  What fears do I need to overcome as a teacher so I can create space
     for students to express their fears?
+```
 
-
-#### Activity 3.3: Listen and Reflect
+### Activity: Listen and Reflect
 ```{block, type='video'}
 Listen to *A Place in this World*, sung by Taylor Swift.
 
@@ -206,11 +209,11 @@ you facilitate/teach.
 
 #### Grading Criteria
 See the following [rubric](Identity-as-a-Teacher-RUBRIC.pdf) that explains how your assignment will be evaluated.
-
+```
 
 
 ## 🎯 Checking your Learning {-}
-
+```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit. Can you:
 

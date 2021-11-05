@@ -36,10 +36,10 @@ These learning activities will engage you in considering the guiding questions 
 
 | **Activities**|
 |----|
-| Activity 4.1: Read “What IS a Learning Community?” (Brower & Dettinger, 1998) and respond in your Reflective Journal.  |
-| Activity 4.2: Read: Palmer, P. (2017) *The Courage to Teach,*  Chapter 4 Knowing in Community and respond in your Reflective Journal.   |
-| Activity 4.3: Trinity Model of Collaborative Inquiry and respond in your Reflective Journal.             |
-| Activity 4.4: Complete your Discussion post and respond to two other peers.                    |
+| Activity: Read “What IS a Learning Community?” (Brower & Dettinger, 1998) and respond in your Reflective Journal.  |
+| Activity: Read: Palmer, P. (2017) *The Courage to Teach,*  Chapter 4 Knowing in Community and respond in your Reflective Journal.   |
+| Activity: Trinity Model of Collaborative Inquiry and respond in your Reflective Journal.             |
+| Activity: Complete your Discussion post and respond to two other peers.                    |
 
 ## Learning Community Pyramid
 
@@ -51,7 +51,7 @@ According to Brower & Dettinger (1998), “Learning communities, to be considere
 
 As you consider the learning community you will facilitate, consider how you might develop or model professional, ethical, and civic responsibility within that community. Do you think leaders should develop these same areas of responsibility with the organizations or companies they lead?
 
-### Learning Activity 4.1
+### Activity: Read and Reflect
 
 ```{block, type='reflect'}
 
@@ -72,7 +72,8 @@ In your Reflective Journal, write down three strengths of this learning communit
 
 Palmer’s learning community model (2017) incorporates both learning and community with a “subject” as the center, surrounded by “knowers” who are in relationship to both each other and the subject. Palmer (2017) assets that “the community of truth, far from being linear and static and hierarchical, is circular, interactive, and dynamic” (p. 106).
 
-![](ParkerDiscussion.jpg)
+![](assets/unit4/ParkerDiscussion.jpg)
+
 
 Figure 4.1: Palmer’s Community of Truth model. From <https://uncc.instructure.com/courses/342/pages/module-3-why-discussions>
 
@@ -86,7 +87,7 @@ Instead of solely focusing on what we must teach (and what students must learn),
 
 Palmer’s (2017) model highlights the relational knowledge of learning communities, underscoring not just the relationship of the people involved, but also the relationships between people and subject. As you consider facilitating learning communities, give some thought to your own relationship to the subject to be taught and learned. Consider whether you “know” this subject objectively or subjectively.
 
-### Learning Activity 4.2:
+### Activity: Read & Engage
 
 ```{block, type='reflect'}
 Read *The Courage to Teach,* Chapter 4 “Knowing in Community” (Palmer, 2017). In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community. Do you think this model accurately reflects the type of learning community you want to create? Why or Why not?
@@ -102,7 +103,7 @@ In our online courses, Trinity Western University seeks to create learning commu
 
 Combined, these three elements can lead to transformational learning – an aspiration we hold in this course and program – and a fundamental goal of higher education in a broader sense.
 
-![](community-of-transformational-learning.png)
+![](assets/unit4/community-of-transformational-learning.png)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Community of Transformational Learning</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://oet.sandcats.io/shared/9NjzXVu8a3kpNBW_Y6QnnyFH65PLpnlO2nuJt14hBoC" property="cc:attributionName" rel="cc:attributionURL">Colin Madland</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
@@ -133,23 +134,22 @@ Palmer (2017) puts it this way: “The reality we belong to, the reality we long
 ```{block, type='assessment'}
 ### Unit 4 Discussion
 
-```{block, type='assessment'}
 After completing this unit, including the learning activities, you are asked to write a 250-word discussion post on the following:
 
 Provide a brief description of each of the three models (with citations as appropriate). Select the learning community model that most closely aligns with your identity and values as a teacher/facilitator. In your post, tell your readers the strengths you see in this model, explaining why it resonates with your concepts of teaching and learning.
-```
+
 
 ### Grading Criteria {-}
-See the following [rubric](LDRS664_DiscussionRubric.pdf) that explains how your discussion contributions will be evaluated.
-
+See the following [rubric](assets/unit4/LDRS664_DiscussionRubric.pdf) that explains how your discussion contributions will be evaluated.
+```
 
 ### 🎯 Checking your Learning {-}
-
+```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 
   - Describe elements of an authentic learning community?
   - Compare learning community models?
-
+```
 
 ## References {-}
 
