@@ -124,19 +124,9 @@ In the song, *Home**, Phillip Phillips sings about the universal need we share a
 > 'Cause I’m going to make this place your home.
 > -- Phillip Phillips,
 
-
+```{block, type='video'}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HoRkntoHkIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<div class="video">
-<p>
-This video shows the installation process for Windows.
-</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HoRkntoHkIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>
-<strong><a href="https://www.youtube.com/embed/HoRkntoHkIE" class="uri">https://www.youtube.com/embed/HoRkntoHkIE</strong></a>
-</center>
-</div>
-</div>
+```
 
 
 In order for students to authentically learn, we must create learning spaces that are safe, where students know and feel that they belong. Palmer (1998) refers to this need for belonging as the "spiritual quest for connectedness" (p.5).
