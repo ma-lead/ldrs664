@@ -65,3 +65,6 @@ platform-paper
 paper-outline
 paper-guidelines
 section
+image-credits
+unit-1
+unit-3

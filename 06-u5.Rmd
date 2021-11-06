@@ -4,11 +4,9 @@
 
 Building on our discussion of learning community models, in this unit we will explore specific strategies to engage students in collaborative learning, and support connections between learners.
 
-Unit 5 focuses on two guiding questions:
+Unit 5 focuses on two guiding questions:
 
-- What strategies invite students to engage in collaborative learning?
-
-- What strategies can we use in online learning environments to support connections between students?
+![Guiding Questions](assets/unit5/LDRS664-BannerUnit5.jpg)
 
 
 ## 📖 Topics{-}
