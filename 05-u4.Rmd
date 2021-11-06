@@ -37,7 +37,7 @@ These learning activities will engage you in considering the guiding questions 
 | Activity: Read “What IS a Learning Community?” (Brower & Dettinger, 1998) and respond in your Reflective Journal.  |
 | Activity: Read and reflect on Defining and Measuring Academic Success (York et. Al).  |
 | Activity: Read and reflect on *The Courage to Teach,*  Chapter 4 Knowing in Community (Palmer, P. (2017).    |
-| Activity: Read and reflect on Trinity Model of Collaborative Inquiry (C. Madland).             |
+| Activity: Read and reflect on Trinity Community of Inquiry (Madland, 2017) (C. Madland).             |
 | **Assessment**: Complete your Discussion post and respond to two other peers.                    |
 
 ## Learning Community Pyramid
@@ -70,7 +70,7 @@ In your Reflective Journal, write down three strengths of this learning communit
 
 ```{block, type='reflect'}
 
-Read York et.al - Defining and Measuring Academic Success (2015).
+Read York et.al - [Defining and Measuring Academic Success](https://eric.ed.gov/?q=EJ1059739) (2015). Also available through the TWU library.
 
 In your Reflective Journal, write down three strengths of the way York et.al defines and measures academic success.  How do these measure “fit” into an authentic learning community?
 
@@ -123,7 +123,7 @@ License.
 
 ```{block, type='reflect'}
 
-Review the [TWU Community of Inquiry](Madland-transformational-learning.pdf). In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community? Do you think this model accurately reflects the type of learning community you want to create? Why or Why not?
+Review the [The Trinity Community of Inquiry](assets/unit4/Madland-transformational-learning.pdf)(Madland, 2017). In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community? Do you think this model accurately reflects the type of learning community you want to create? Why or Why not?
 ```
 
 
