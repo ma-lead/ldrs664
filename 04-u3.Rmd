@@ -25,7 +25,7 @@ Unit 3 focuses on two guiding questions:
 
 When you have completed this unit you should be able to:
 
-- Describe a learning community.
+- Discuss how we can authentically belong to others.
 
 - Describe elements of a learning community that create a sense of
     belonging.
@@ -210,16 +210,16 @@ Please submit your assignment in the **Identity as a Teacher Paper** dropbox in 
 
 See the Assessment section for the Grading Criteria that explains how your assignment will be evaluated.
 ```
-```
+
 
 
 ## 🎯 Checking your Learning {-}
 ```{block, type='progress'}
-Use the learning outcomes for this unit as a checklist of understanding
-before you move to the next unit. Can you:
+Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 
-  - Describe a learning community?
-
-  - Describe elements of a learning community that create a sense of
-    belonging?
+ - discuss how we can authentically belong to others?
+ - describe elements of a learning community that create a sense of
+        belonging?
+ - identify problems that affect learning communities?
+ - plan a learning activity that builds community?
 ```

@@ -202,9 +202,9 @@ See the Assessment section for the Grading Criteria that explains how your discu
 
 ## 🎯 Checking your Learning{-}
 ```{block, type='progress'}
-Before you move on to the next unit, you may want to check to make sure that you are able to:  
+Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 
-- Describe your own personal identity as a facilitator/teacher.  
-- Identify your personal beliefs about your role as a facilitator/teacher.  
-- Discuss key elements of an authentic learning community.  
+- describe your own personal identity as a facilitator/teacher?
+- identify your personal beliefs about your role as a facilitator/teacher?
+- discuss key elements of an authentic learning community?  
 ```

@@ -91,7 +91,7 @@ As teachers, we approach teaching with some sense that we have some thing (some 
 
 Instead of solely focusing on what we must teach (and what students must learn), Palmer challenges us to consider how we all might learn something more together – more than is already known – through the teaching/learning experience. In this way, we must consider that we are not just engaged in transferring information or knowledge, but that (in addition to that), together we might create new knowledge.
 
-! “I know of no field, from science to religion, where what we regard as objective knowledge did not emerge from long and complex communal discourse that continues to this day, no field where the facts of the matter were delivered fully formed from on high” (Palmer, 2017, p. 107).
+> I know of no field, from science to religion, where what we regard as objective knowledge did not emerge from long and complex communal discourse that continues to this day, no field where the facts of the matter were delivered fully formed from on high (Palmer, 2017, p. 107).
 
 Palmer’s (2017) model highlights the relational knowledge of learning communities, underscoring not just the relationship of the people involved, but also the relationships between people and subject. As you consider facilitating learning communities, give some thought to your own relationship to the subject to be taught and learned. Consider whether you “know” this subject objectively or subjectively.
 
@@ -125,7 +125,7 @@ License.
 
 ```{block, type='reflect'}
 
-Review the [The Trinity Community of Inquiry](assets/unit4/Madland-transformational-learning.pdf)(Madland, 2017). 
+Review the [The Trinity Community of Inquiry](assets/unit4/Madland-transformational-learning.pdf)(Madland, 2017).
 In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community? Do you think this model accurately reflects the type of learning community you want to create? Why or Why not?
 ```
 
@@ -154,8 +154,8 @@ See the Assessment section for the Grading Criteria that explains how your discu
 ```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 
-  - Describe elements of an authentic learning community?
-  - Compare learning community models?
+  - describe elements of an authentic learning community?
+  - compare learning community models?
 ```
 
 ## References {-}

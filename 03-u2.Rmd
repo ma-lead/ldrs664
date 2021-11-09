@@ -234,7 +234,6 @@ See the Assessment section for the Grading Criteria that explains how your discu
 
 ## 🎯 Checking your Learning{-}
 ```{block, type='progress'}
-
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 
 - articulate a sense of identity as a teacher/facilitator?
