@@ -130,7 +130,7 @@ Post your response to the Discussion Forum and respond to at least two of your p
 ```
 
 ## 🎯 Checking your Learning {-}
-
+```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit.
 
@@ -138,6 +138,7 @@ before you move to the next unit.
 - Have you developed a personal philosophy of the role of facilitator in creating authentic learning communities?
 - Can you evaluate and choose strategies to adapt to the identity and learning needs of participants?
 - What strategies have you learned that will help to create a learner centered environment?
+```
 
 ## Resources {-}
 
