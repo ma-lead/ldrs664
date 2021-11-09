@@ -112,11 +112,11 @@ For this activity, you will spend some time reflecting on your own experience as
 
 1.  Watch the short film *Identity* by Kalhil KJ Adames (5 minutes).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v=ikGVWEvUzNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ikGVWEvUzNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2.  Listen to the song "Brave" sung by Sarah Barreilles.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v=QUQsqBqxoR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QUQsqBqxoR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3.  Read Brown (2017) *Braving the Wilderness,* Chapter 7 Strong Back. Soft Front. Wild Heart.
 

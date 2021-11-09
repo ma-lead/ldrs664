@@ -101,7 +101,8 @@ If effective relationships include these characteristics, then authentic teacher
 
 Watch the TedTalk by Brene Brown: (20 minutes)
 
-[plugin:youtube](https://www.youtube.com/watch?v=iCvmsMzlF7o) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iCvmsMzlF7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 💭 As you watch, consider the following questions:
@@ -153,7 +154,8 @@ These relationships will form the basis for learning in the classroom. Learning 
 
 Listen to “Brave” sung by Sara Bareilles.
 
-[plugin:youtube](https://www.youtube.com/watch?v=QUQsqBqxoR4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QUQsqBqxoR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 💭 As you listen to this song, consider the following questions:
 
