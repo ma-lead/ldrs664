@@ -42,7 +42,7 @@ These learning activities will engage you in considering the guiding questions 
 <thead>
 <tr class="header">
 <th></th>
-<th><strong>Activities</strong></th>
+<th><strong>Learning Activities</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -66,7 +66,7 @@ These learning activities will engage you in considering the guiding questions 
 </tr>
 <tr class="even">
 <td></td>
-<td><strong>Assessment:  Unit 1 Discussion</strong>: Incorporating the readings in this unit, you will write a 150-250 word discussion post that addresses your values related to teaching and learning and the key elements of authentic learning spaces. See the Assessments tab for full details.</td>
+<td><strong>Assessment:  Unit 1 Discussion</strong>: Incorporating the readings in this unit, you will write a 150-250 word discussion post that addresses your values related to teaching and learning and the key elements of authentic learning spaces. See the Assessment sections for full details.</td>
 </tr>
 </tbody>
 </table>
@@ -78,7 +78,7 @@ Teaching and learning are deeply personal experiences. Learning is, by definitio
 ![Authentic Learners](assets/unit1/664-authentic-learners.png)
 ![Authentic Teachers](assets/unit1/664-authentic-teachers.png)
 
-Figure 1.1: Model designed by Penfold Navarro, C. (2018)
+Figure 1.1: Authentic Learners and Authentic Teachers Model designed by Penfold Navarro, C. (2018)
 
 In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life*, Parker Palmer (2017) argues that the "inner landscape of teaching" is an essential foundation out of which authentic learning experiences emerge.
 
@@ -110,7 +110,8 @@ In order to have integrity, we must know our own values and strengths, our own b
 
 ### ✏️ Activity: Reflect and Respond{-}
 ```{block, type='reflect'}
-As teachers, it’s important to identify and reflect on your own values. Consider why you are taking this course. Why do you want to coach/facilitate learning? What are your beliefs about learning? What are your values about learning? What are your strengths? Where do you need help?
+As teachers, it’s important to identify and reflect on your own values.   
+💭 Consider why you are taking this course. Why do you want to coach/facilitate learning? What are your beliefs about learning? What are your values about learning? What are your strengths? Where do you need help?
 
 Take some time to answer the questions above in your Reflective Learning journal.
 ```
@@ -202,6 +203,7 @@ See the Assessment section for the Grading Criteria that explains how your discu
 ## 🎯 Checking your Learning{-}
 ```{block, type='progress'}
 Before you move on to the next unit, you may want to check to make sure that you are able to:  
+
 - Describe your own personal identity as a facilitator/teacher.  
 - Identify your personal beliefs about your role as a facilitator/teacher.  
 - Discuss key elements of an authentic learning community.  
