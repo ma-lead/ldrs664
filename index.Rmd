@@ -151,16 +151,14 @@ This box signifies key notes, such as where to submit assignments.  It may also 
  knitr::include_graphics("assets/course-intro/right_arrow.png")
  ```
 
- Left and right navigation arrows Left and right navigation arrows
- Figure 1.1: Left and right navigation arrows
- (get image from https://csu-r.github.io/Module1/index.html)
 
 
-***It will be assumed that you have read, understand, and agree to the information provided at the 'Academic Dishonesty Policy' button below. If you have any questions at all please contact your instructor.***
 
-
-[button url="https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0" target="_blank" label="Academic Dishonesty Policy" type="danger" classes="external-link"]_
 
 ## Graduate Level Writing Standards{-}
 
 For students in LDRS 664, graduate level writing standards following APA 7 are expected. Please consult the [OWL Purdue website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html) for guidance and seek assistance from the TWU Writing Center and writing coaches as needed. Assignments have rubrics that attribute some marks to APA formatting and cannot be graded as fully meeting expectations if there are APA errors. That said, your conceptual understanding remains of primary importance. It is your responsibility to ensure polished work to the highest standard of which you are capable. This demands meticulous attention to detail, which will become more 'natural' with practice. Please seek any necessary clarification from your instructor.
+
+```{block, type='caution'}
+***It will be assumed that you have read, understand, and agree to the information provided at the [Academic Dishonesty Policy website](https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0). If you have any questions at all please contact your instructor.***
+```
