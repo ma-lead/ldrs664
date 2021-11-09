@@ -5,9 +5,9 @@
 In this unit, you will learn about the role of information and perception in growth and development. This relates to learning communities in that communication among individuals related to information and growth in learning communities is so important. To put it another way, if information is miscommunicated or growth misrepresented, then the learning community is likely to experience challenges. You will explore the role of adult educator to be an advocate for adult learners. You will also explore the concept of the adult educator as servant leader and the importance of intentional practice based on this model of leadership. A servant leader has the interests of followers at heart therefore will make a greater effort to communicate effectively and assess growth of the community and individual in a fair manner.
 
 ## 📖 Topics{-}
-- The Role of Information and Perception in Growth and Development
+1. The Role of Information and Perception in Growth and Development
+1. The Adult Educator as Servant Leader
 
-- The Adult Educator as Servant Leader
 
 ## 🎯 Learning Outcomes{-}
 
@@ -22,19 +22,17 @@ These learning activities will engage you in considering the guiding questions 
 
 | **Activities**|
 |----|
-| Activity 7.1: Read assigned pages from Wheatley chapters 3, 5 and 7 and take notes in your journal.  |
-| Activity 7.2: View Wheatley video [Islands of Sanity](https://youtu.be/LtaYNxp56gs).   |
-| Activity 7.3: Browse Brookfield and Silberman for strategies related to critical thinking and jot down ideas in your journal.    |
-| Activity 7.4: View the Ali Fett video [*Servant Leadership - How a jar can change the way you lead and serve*](https://youtu.be/1vIPrR_clEg).   |
-| Activity 7.5: Respond in your discussion post for this unit.   |
+| Activity: Read assigned pages from Wheatley chapters 3, 5 and 7 and take notes in your journal.  |
+| Activity: View Wheatley video [Islands of Sanity](https://youtu.be/LtaYNxp56gs).   |
+| Activity: Browse Brookfield and Silberman for strategies related to critical thinking and jot down ideas in your journal.    |
+| Activity: View the Ali Fett video [*Servant Leadership - How a jar can change the way you lead and serve*](https://youtu.be/1vIPrR_clEg).   |
+| Activity: Respond in your discussion post for this unit.   |
 
 ## The Role of Information and Perception in Growth and Development
 
 > "Information is the source of all growth and development in a living system" (Wheatley, 2017, p. 101).
 
-Wheatley goes on to explain how information has changed from
-
-> "communications among people to high speed transmissions delivered in cyberspace" (p. 104).
+Wheatley goes on to explain how information has changed from "communications among people to high speed transmissions delivered in cyberspace" (p. 104).
 
 While information is still important, it is the mode of delivery that has reshaped culture. She argues that the digital age has destroyed the information age. The adult educator can respond to her call to re-establish our relationships with the real world by choosing strategies that privilege connection and meaning and lead to better decisions. She illustrates this by describing in some depth the value of an 'After Action Review' (see pages 128-132). Consider how this might be adapted for the adult education setting in your context.
 
@@ -61,7 +59,7 @@ Wheatley identifies a warrior for the human spirit as
 
 In this sense, adult educators are called to be warriors for the human spirit. Read pages 258-259 for ethical principles that are quite likely to move you and profoundly influence your perception of your role.
 
-### Activity: Read and Reflect
+### 📘 Activity: Wheatley Read and Reflection
 
 ```{block, type='reflect'}
 Read Wheatley, M. (2017). *Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Wheatley chapters 3 (pages 100-139),  5 (pages 172-209 ) and 7 (pages 252-270).
@@ -72,13 +70,11 @@ As you read answer the following questions in your Reflective Learning Journal:
 - How does this relate specifically to your present or future context?
 ```
 
-### Learning Activity
-
-```{block, type='reflect'}
+### Activity:
+```{block, type='video'}
 View Margaret Wheatley's *Islands of Sanity* (42 minutes).
 
-https://youtu.be/LtaYNxp56gs
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LtaYNxp56gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 After viewing the video and reading chapters 3, 5 and 7 of Wheatley, consider the following:
 
@@ -87,7 +83,7 @@ After viewing the video and reading chapters 3, 5 and 7 of Wheatley, consider th
 ```
 
 
-### Learning Activity
+### 📘 Activity: Strategies for Critical Thinking
 
 ```{block, type='reflect'}
 Browse the following two resources and choose strategies that could be used to encourage critical thinking about information. Think about how you might adapt these strategies for your context. Jot down your ideas in your reflective journal.

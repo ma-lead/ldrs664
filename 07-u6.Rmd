@@ -25,10 +25,9 @@ These learning activities will engage you in considering the guiding questions 
 
 |**Activities**|
 |---|
-| Activity 6.1: Read Wheatley: Opening and chapters 1 and 2. |
-| Activity 6.2: Take notes in your Reflective Journal on chapters 1 and 2. |
-| Activity 6.3: Take notes in your journal about the impact of technology. |
-| Activity 6.4: Choose one of the two topics listed and write your discussion post |
+| Activity: Read Wheatley: Opening and chapters 1 and 2, and take notes in your Reflective Journal. |
+| Activity: Browse the Brookfield, Silberman texts and the *[Liberating Structures website](http://www.liberatingstructures.com/ls-menu/). Take notes in your journal about the impact of technology. |
+| **Assessment**: Choose one of the two topics listed and write your discussion post |
 
 ## The Impact of Identity in a Learning Environment
 
@@ -51,23 +50,19 @@ Figuring out how our identity impacts the learning environment involves discerni
 8. How do I treat others?
 
 
-### 📘 Activity: Read and Reflect
+### 📘 ✏️ Activity: Wheatley Reading and Reflection
 
 ```{block, type='reflect'}
 Read Wheatley, M. (2017). *Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Opening pages 2-25; Chapters 1 (pages 28-61 and 2 (pages 63-97). As you read these pages think about a teacher, instructor or professor who is/was a leader in your eyes - someone you’ve most admired. What were their behaviours? How did you feel in their classroom? What kind of student were you, including the quality of what you produced? How do you feel about them now?
 
-Read the next learning activity below which is also related to this reading so you can keep it in mind as you read.
-```
 
-### 📘 Activity: Read and Reflect
-
-```{block, type='reflect'}
 As you read Wheatley (2017) answer the following questions in your Reflective Learning Journal:
 
 - Write a summary sentence for each major idea/concept that relates to belonging.
 - Choose the concept that you would like to apply in your own learning communities, both as a student and teacher/facilitator.
 - Formulate one question that emerged from this reading that you will explore and consider in future course readings and discussions.
-- As you prepare your discussion post, refer to these notes.
+
+As you prepare your discussion post, refer to these notes.
 ```
 
 ## The Adult Educator as Creator and Leader of a Learner Centered Learning Environment
@@ -102,7 +97,9 @@ By incorporating liberating structures or those suggested by Brookfield and Silb
 ```{block, type='reflect'}
 > The belief in technology to fix the messes we’ve made and to save us from decline has been labeled by Ronald Wright, ‘The Progress Trap’ (Wheatley, p. 41).
 
-Wheatley’s point is that an over-reliance on technology is not helpful in the creation of an adult learning environment. What is then? Browse through the Brookfield, Silberman texts and the *[Liberating Structures website](http://www.liberatingstructures.com/ls-menu/).* Jot down in your journal what actions and strategies (whether technology-oriented or not) an adult educator can choose, to support and focus on people and relationships in a technologically-driven world.
+Wheatley’s point is that an over-reliance on technology is not helpful in the creation of an adult learning environment. What is then?
+
+Browse through the Brookfield, Silberman texts and the *[Liberating Structures website](http://www.liberatingstructures.com/ls-menu/).* Jot down in your journal what actions and strategies (whether technology-oriented or not) an adult educator can choose, to support and focus on people and relationships in a technologically-driven world.
 ```
 
 
@@ -115,7 +112,6 @@ In this unit, you have had the opportunity to learn about the adult educator as 
 ## ✏️ Assessment {-}
 ```{block, type='assessment'}
 ### Unit 6 Discussion
-```{block, type='assessment'}
 After completing this unit, including the learning activities, you are asked to choose one of the two themes to write on:
 
 Do some research about a marginalized group related to your current or future working context.  What will be important for you to understand about this group in order to teach authentically in that space?  What indigenous perspectives need to be considered? Consider how your own
@@ -132,12 +128,11 @@ Post your response to the Discussion Forum and respond to at least two of your p
 ## 🎯 Checking your Learning {-}
 ```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding
-before you move to the next unit.
+before you move to the next unit. Can you:
 
-- Can you evaluate personal and professional attitudes towards technology in light of authentic learning and identity?
-- Have you developed a personal philosophy of the role of facilitator in creating authentic learning communities?
-- Can you evaluate and choose strategies to adapt to the identity and learning needs of participants?
-- What strategies have you learned that will help to create a learner centered environment?
+- evaluate personal and professional attitudes towards technology in light of authentic learning and identity?
+- develop a personal philosophy of the role of facilitator in creating authentic learning communities?
+- evaluate and choose strategies to adapt to the identity and learning needs of participants?
 ```
 
 ## Resources {-}

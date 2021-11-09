@@ -65,7 +65,7 @@ These principles can serve as a guide for facilitating online discussions, desig
 
 Likewise, the “Free-Choice Principle” contends that “people perform better and are more committed when they have freedom to choose how and what they contribute” (Whitney & Trosten-Bloom, 2010, p. 52). Facilitating discussions that allow learners to engage in conversation (whether face-to-face or online), determine some aspects of their assignments, select topics, etc., can have a powerful influence on student engagement with learning.
 
-### 📘 Activity: Read and Reflect
+### 📘 Activity: Palmer Reading and Reflection
 
 ```{block, type='reflect'}
 
@@ -76,12 +76,12 @@ Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 5 Teaching in Community;
 ```
 
 
-### 📘 Activity: Read and Discuss
+### 📘 Activity: AI Read and Discussion
 
 ```{block, type='reflect'}
 Review the [“Principles of Appreciative Inquiry”](https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introduction/5-classic-principles-ai/) from the Appreciative Inquiry Commons at Champlain University, or in Whitney & Trosten-Bloom. (2010). *The power of appreciative inquiry: A practical guide to positive change.*
 
-Select two of the Principles of Appreciative Inquiry. In a 250-word blog post, describe a learning activity you would conduct with your class that integrates both of these principles. For example, how would you design a writing assignment that included “Positive Principle”? Or, describe an assignment through which you ask students to create a short video that incorporates the “Poetic Principle.”
+Select two of the Principles of Appreciative Inquiry. In a 250-word discussion post, describe a learning activity you would conduct with your class that integrates both of these principles. For example, how would you design a writing assignment that included “Positive Principle”? Or, describe an assignment through which you ask students to create a short video that incorporates the “Poetic Principle.”
 ```
 
 ## Supporting Connections Between Learners
@@ -169,8 +169,8 @@ See the Assessment section for the Grading Criteria that explains how your discu
 
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 
-  - Identify facilitator strategies that invite students to engage in collaborative learning?
-  - Identify strategies in online learning environments that support connections between students?
+  - identify facilitator strategies that invite students to engage in collaborative learning?
+  - identify strategies in online learning environments that support connections between students?
 
 ```
 
