@@ -1,11 +1,16 @@
-# Assessment Bank {-}
+# Assessment {-}
 
-You instructor will provide instructions regarding how to complete the required assessments in this course.
+The following assignments are opportunities for learners to demonstrate their understanding of the course outcomes.  Please confirm assignment details with your instructor, referring to the course syllabus.
 
-## Identity as a Teacher/Facilitator {-}
-Building on your learning in the first three weeks of class, write a 3-4 page paper in which you describe your identity as a teacher/facilitator. Incorporate references to the Brown (2017) and Palmer (2017) texts, as well as other resources from your graduate coursework. The paper should include an introduction, a statement of your identity as a teacher/facilitator, and a discussion of three important aspects of that identity. Your conclusion should include a discussion of how you will use your identity to create authentic spaces for learning in the courses you facilitate/teach.
+Note that Assignment dropboxes are located in Moodle.  Also refer to the Course Schedule in Moodle for the specific due dates.
 
+## Assignment: Identity as a Teacher/Facilitator {-}
+```{block, type='assessment'}
+Building on your learning in the first three units in this course, write a 3-4 page paper in which you describe your identity as a teacher/facilitator. Incorporate references to the unit resources, as well as other resources from your graduate coursework. The paper should include an introduction, a statement of your identity as a teacher/facilitator, and a discussion of three important aspects of that identity. Your conclusion should include a discussion of how you will use your identity to create authentic spaces for learning in the courses you facilitate/teach.
+```
 ### Grading Criteria {-}
+See the following rubric that explains how your discussion contributions will be evaluated. Also available as a [pdf](assets/unit1/LDRS664_DiscussionRubric.pdf)
+
 
 |                 | Unsatisfactory | Developing  | Proficient | Exemplary    |
 |-----------------|----------------|-------------|------------|--------------|
@@ -17,8 +22,8 @@ Building on your learning in the first three weeks of class, write a 3-4 page pa
 |**SCHOLARLY INTEGRATION**|Does not integrate references to support claims and assertions made in the paper.| Integrates references to support some of the claims and assertions made in the paper.| Integrates references to support claims and assertions made in the paper.| Integrates references to support claims and assertions made in the paper, effectively synthesizing different perspectives and research results from scholarly sources. |
 |**TOTAL**|**0 = 0% (F)**|**10 = 50% (C)**|**15 = 75 (B)**|**20 = 100% (A+)**|
 
-## Company Website Analysis {-}
-
+## Assignment: Company Website Analysis {-}
+```{block, type='assessment'}
 Investigate the Human Resources or Faculty Development portion of a company's website, a higher education institution or adult learning facility, preferably one with which you are familiar. Focus on the faculty or employee development part of the website. In this assignment, you will apply the theory of teaching in/for/with depth by analyzing the learning culture of an organization.
 
 In a 4-5 page APA formatted paper, analyze the website by responding to the following questions in your report:
@@ -37,6 +42,7 @@ The paper should include:
 2.	Analysis (responding to the prompts)
 3.	Conclusion
 4.	Reference List
+```
 
 ### Company Website Analysis Rubric {-}
 
@@ -51,7 +57,8 @@ The paper should include:
 |**SCHOLARLY INTEGRATION**|Does not integrate references to support claims and assertions made in the paper.| Integrates references to support some of the claims and assertions made in the paper.| Integrates references to support claims and assertions made in the paper.| Integrates references to support claims and assertions made in the paper, effectively synthesizing different perspectives and research results from scholarly sources. |
 |**TOTAL**|**0 = 0% (F)**|**10 = 50% (C)**|**15 = 75 (B)**|**20 = 100% (A+)**|
 
-## Platform Paper 
+## Assignment: Platform Paper
+```{block, type='assessment'}
 For this assignment, you will write a contextualized Platform Paper in which you discuss your ideal learning community and your role as teacher/leader of that learning community. Select a context for your paper (i.e. facilitating in a FAR Centre in a specific country, teaching adult learners, facilitating employee development workshops, etc.).
 Your paper should be written and referenced in APA format and include references to a minimum of 10 scholarly sources (this can include literature you read in this course).
 You will write a draft of the Platform Paper in Unit 8 and post for Peer Review. In Unit 9, you will provide feedback to another learner on their paper. You will make revisions based on the Peer Review and, in Unit 10, you will submit the final Platform Paper. Peer reviewers will be assigned in advance.
@@ -69,8 +76,9 @@ This paper will be 12-15 pages long, and should include:
 - **Section 2**: In this section, describe your role as a teacher or leader within an authentic learning community. Incorporating scholarly literature, analyze your role as a facilitator/leader in planning learning experiences, facilitating student learning, and assessing student learning. Describe the actions, practices, and strategies you will engage in to achieve your vision of the learning community you described in section one.
 - **Conclusion**: Summarize the key points you made in each section.
 - **References**: Include a reference list with references to at least 10 scholarly sources.
+```
 
-### Company Website Analysis Rubric {-}
+### Platform Paper Rubric {-}
 
 |                 | Unsatisfactory | Developing  | Proficient | Exemplary    |
 |-----------------|----------------|-------------|------------|--------------|

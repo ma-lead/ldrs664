@@ -60,11 +60,10 @@ activity-8.6-unit-8-discussion
 confidence-and-humility
 conclusions
 references-4
-platform-paper
-paper-outline
-paper-guidelines
+assignment-platform-paper
 section
 image-credits
+ldrs-664-community
 unit-1
 unit
 unit-3

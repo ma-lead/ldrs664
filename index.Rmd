@@ -14,10 +14,10 @@ biblio-style: apalike
 
 Learners explore theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.   Learners explore teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment. Learners explore themes such as identity, perception, interconnectedness and learning organizations. Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment. 
 
-```{block, type='Note'}
-The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus located at the bottom of the page in Moodle.
-```
-This course is part of the *Graduate Certificate in Adult Learning: Coaching and Facilitation*. and qualifies as an elective in the MA Leadership program.
+> **The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus located at the bottom of the Welcome page in Moodle.**
+
+
+This course is part of the *Graduate Certificate in Adult Learning: Coaching and Facilitation* and qualifies as an elective in the MA Leadership program.
 
 
 ## Course Learning Outcomes{-}
@@ -36,7 +36,6 @@ On successfully completing this course, students should be able to:
 
 6.  Analyze the effectiveness of training and employee development.
 
- 
 
 ## Course Activities/Requirements{-}
 
@@ -80,8 +79,8 @@ grading rubrics.
  Unit 10: Conclusions  
 
 
-## Course Text(S){-}
- The following are key resources used in LDRS 664.  ***Please confirm which of the following texts are required by checking your course syllabus.***
+## Course Resources{-}
+ The following are key resources used in LDRS 664.  
 
  1.  Brookfield, S. & Preskill, S. (2016). *The Discussion Book: 50 Great Ways to Get People Talking*. San Francisco: Jossey-Bass. \*This is an excellent resource book. There is no assigned reading. (also used in LDRS 627)
 
@@ -95,32 +94,37 @@ grading rubrics.
 
  1.  Wheatley, M. (2017). *Who do we choose to be? Facing reality, claiming leadership, restoring sanity*. Oakland, CA: Berrett-Koehler Publishers.
 
- 1.  Various articles will be provided online via Moodle.
+ 1.  All other resources will be provided online.
 
+```{block, type='caution'}
+Note that not all sections of LDRS 664 use all of the above resources. Please confirm which of the following texts are required by ***checking your course syllabus.***
+```
 
 ## Course Navigation{-}
-
 
 ### Course Units{-}
  This course is organized into 10 units. Each unit of the course will provide you with the following information:
 
- - A general overview of the topic that will be addressed during the unit.
+ - A general overview of the key concepts that will be addressed during the unit.
  - Specific learning outcomes and topics for the unit.
- - Resources that you will need to engage the learning activities and complete assessments in the unit.
- - Both graded and ungraded learning activities that you will need to complete each week.
- - Assessments pages that will provide you with information about assignments that you will need to complete throughout the course.
+ - Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.
+ - The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.
+
+ ```{block, type='caution'}
+ Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for the assignment dropboxes.
+ ```
 
 ### Course Activities{-}
  Below is some key information on features you will see throughout the course. 
 
  ```{block, type='reflect'}
 ***Learning Activity***  
-This box will prompt you to engage in course readings and to reflect on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
+This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
  ```
 
  ```{block, type='assessment'}
 ***Assessment***  
-This box will signify an assignment which you will turn in for grading, on which the instructor will provide feedback.
+This box will signify an assignment or discussion post you will submit in Moodle.  Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
  ```
 
  ```{block, type='progress'}
@@ -130,12 +134,12 @@ This box is for checking your understanding, to make sure you are ready for what
 
  ```{block, type='video'}
 ***Media***  
-This box is for displaying/linking to videos in order to help illustrate or communicate concepts.
+This box is for displaying/linking to media, such as videos or songs, in order to help illustrate or communicate concepts.
  ```
 
  ```{block, type='caution'}
 ***Note***  
-This box will warn you of possible problems or pitfalls you may encounter! It may also signify key notes, such as where to submit assignments.
+This box signifies key notes, such as where to submit assignments.  It may also warn you of possible problems or pitfalls you may encounter!
  ```
 
 
@@ -155,4 +159,4 @@ This box will warn you of possible problems or pitfalls you may encounter! It ma
 
 ## Graduate Level Writing Standards{-}
 
-For students in 664, graduate level writing standards following APA 7 are expected. Please consult the [OWL Purdue website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html) for guidance and seek assistance from the TWU Writing Center and writing coaches as needed. Assignments have rubrics that attribute some marks to APA formatting and cannot be graded as fully meeting expectations if there are APA errors. That said, your conceptual understanding remains of primary importance. It is your responsibility to ensure polished work to the highest standard of which you are capable. This demands meticulous attention to detail, which will become more 'natural' with practice. Please seek any necessary clarification from your instructor.
+For students in LDRS 664, graduate level writing standards following APA 7 are expected. Please consult the [OWL Purdue website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html) for guidance and seek assistance from the TWU Writing Center and writing coaches as needed. Assignments have rubrics that attribute some marks to APA formatting and cannot be graded as fully meeting expectations if there are APA errors. That said, your conceptual understanding remains of primary importance. It is your responsibility to ensure polished work to the highest standard of which you are capable. This demands meticulous attention to detail, which will become more 'natural' with practice. Please seek any necessary clarification from your instructor.
