@@ -7,8 +7,6 @@ url: https://ma-lead.github.io/ldrs664
 biblio-style: apalike
 ---
 
-![Graduates on mountaintop throwing hats](baim-hanif-pYWuOMhtc6k-unsplash.jpg)
-
 
 # Course Description{-}
 
@@ -19,6 +17,7 @@ Learners explore theoretical foundations of learning communities, evaluate strat
 
 This course is part of the *Graduate Certificate in Adult Learning: Coaching and Facilitation* and qualifies as an elective in the MA Leadership program.
 
+---
 
 ## Course Learning Outcomes{-}
 
@@ -36,6 +35,7 @@ On successfully completing this course, students should be able to:
 
 6.  Analyze the effectiveness of training and employee development.
 
+---
 
 ## Course Activities/Requirements{-}
 
@@ -55,6 +55,7 @@ Activities include participation in discussions, assignments, and various ungrad
 See **Assessments** section in Moodle for specific assignment details, including
 grading rubrics.
 
+---
 
 ## Course Topics{-}
 
@@ -78,13 +79,12 @@ grading rubrics.
 
  Unit 10: Conclusions  
 
+---
 
 ## Course Resources{-}
  The following are key resources used in LDRS 664.  
 
- 1.  Brookfield, S. & Preskill, S. (2016). *The Discussion Book: 50 Great Ways to Get People Talking*. San Francisco: Jossey-Bass. \*This is an excellent resource book. There is no assigned reading. (also used in LDRS 627)
-
- 1.  Brown, B. (2017). *Braving the wilderness: The quest for true belonging and the courage to stand alone.* New York: Random House.
+  1.  Brown, B. (2017). *Braving the wilderness: The quest for true belonging and the courage to stand alone.* New York: Random House.
 
  1.  Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. *The Leadership Quarterly* 16, pp. 343–372.
 
@@ -94,11 +94,14 @@ grading rubrics.
 
  1.  Wheatley, M. (2017). *Who do we choose to be? Facing reality, claiming leadership, restoring sanity*. Oakland, CA: Berrett-Koehler Publishers.
 
+1.  Brookfield, S. & Preskill, S. (2016). *The discussion book: 50 great ways to get people talking*. San Francisco: Jossey-Bass. (*There is no assigned reading from this text but it is an excellent resource book.*)
+
  1.  All other resources will be provided online.
 
 ```{block, type='caution'}
 Note that not all sections of LDRS 664 use all of the above resources. Please confirm which of the following texts are required by ***checking your course syllabus.***
 ```
+---
 
 ## Course Navigation{-}
 
@@ -143,17 +146,14 @@ This box signifies key notes, such as where to submit assignments.  It may also 
  ```
 
 
-
-## How To Navigate This Book{-}
+### How To Navigate This Book{-}
  To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, change font settings, download a pdf or ebook copy of this book, or get hints on various sections of the book. The faint left and right arrows at the sides of each page (or bottom of the page if it’s narrow enough) allow you to step to the next/previous section. Here’s what they look like:
  ```{r, echo=F, fig.cap="Left and right navigation arrows", fig.show="hold", results='asis'}
  knitr::include_graphics("assets/course-intro/left_arrow.png")
  knitr::include_graphics("assets/course-intro/right_arrow.png")
  ```
 
-
-
-
+ ---
 
 ## Graduate Level Writing Standards{-}
 
