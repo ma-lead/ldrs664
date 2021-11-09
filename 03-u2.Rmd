@@ -149,7 +149,7 @@ Leadership, like teaching, relies not just on the relationships that teachers fo
 These relationships will form the basis for learning in the classroom. Learning is, at its heart, a personal activity. Learners often experience vulnerability as they enter into (and continue through) the learning experience, wondering if they belong, if they are up to the challenge, and if they will succeed.
 
 
-### 👂 Activity: Listen and Reflect
+### 🎵 Activity: Listen and Reflect
 ```{block, type='video'}
 
 Listen to “Brave” sung by Sara Bareilles.

@@ -50,7 +50,7 @@ According to Brower & Dettinger (1998), “Learning communities, to be considere
 
 As you consider the learning community you will facilitate, consider how you might develop or model professional, ethical, and civic responsibility within that community. Do you think leaders should develop these same areas of responsibility with the organizations or companies they lead?
 
-### Activity: Read and Reflect
+### ✏️ Activity: Compare Community Models
 
 ```{block, type='reflect'}
 
@@ -66,7 +66,7 @@ In your Reflective Journal, write down three strengths of this learning communit
 | Trinity Community of Inquiry (Madland, 2017)         |                    |                              |           |
 ```
 
-### Activity: Read and Reflect
+### Activity: 📘 York Reading and Reflection
 
 ```{block, type='reflect'}
 
@@ -95,10 +95,12 @@ Instead of solely focusing on what we must teach (and what students must learn),
 
 Palmer’s (2017) model highlights the relational knowledge of learning communities, underscoring not just the relationship of the people involved, but also the relationships between people and subject. As you consider facilitating learning communities, give some thought to your own relationship to the subject to be taught and learned. Consider whether you “know” this subject objectively or subjectively.
 
-### Activity: Read & Engage
+### Activity: 📘 Palmer Reading and Reflection
 
 ```{block, type='reflect'}
-Read *The Courage to Teach,* Chapter 4 “Knowing in Community” (Palmer, 2017). In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community. Do you think this model accurately reflects the type of learning community you want to create? Why or Why not?
+Read *The Courage to Teach,* Chapter 4 “Knowing in Community” (Palmer, 2017).
+
+In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community. Do you think this model accurately reflects the type of learning community you want to create? Why or Why not?
 ```
 
 ## The TWU Community of Inquiry (Madland, 2017)
@@ -119,11 +121,12 @@ Combined, these three elements can lead to transformational learning – an aspi
 Figure 1. Transformational Learning Model from Madland, C. (2017). The TWU Community of Inquiry. Creative Commons
 License.
 
-### Activity: Review and Reflect
+### Activity: 📘 Madland Reading and Reflection
 
 ```{block, type='reflect'}
 
-Review the [The Trinity Community of Inquiry](assets/unit4/Madland-transformational-learning.pdf)(Madland, 2017). In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community? Do you think this model accurately reflects the type of learning community you want to create? Why or Why not?
+Review the [The Trinity Community of Inquiry](assets/unit4/Madland-transformational-learning.pdf)(Madland, 2017). 
+In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community? Do you think this model accurately reflects the type of learning community you want to create? Why or Why not?
 ```
 
 
