@@ -156,7 +156,6 @@ Listen to *A Place in this World*, sung by Taylor Swift.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DscfyMJP7U4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 Consider the following scenario:
 Imagine a student in a course you are facilitating. A young student submits a poorly written assignment and then does not complete the next week’s assignment. When you ask the student to meet with you, she shares this song with you and shares that she feels all alone, she doesn’t feel confident writing at an academic level, and she didn’t do this week’s assignment because she’s afraid she will fail. She thinks she probably shouldn’t have been admitted to this program.
 
@@ -192,9 +191,9 @@ Based on the learning activities in this unit, create a learning activity you wo
 Please submit your discussion posts and responses in the **Unit 3 Discussion Forum** in Moodle.
 
 See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
+```
 
-
-
+```{block, type='assessment'}
 ### Assignment 1: Identity as a Teacher Paper (20%)
 
 Building on your learning in the first three weeks of class, write a 3-4

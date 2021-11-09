@@ -45,7 +45,7 @@ the-adult-educator-as-creator-and-leader-of-a-learner-centered-learning-environm
 activity-strategies-for-supporting-learners
 the-role-of-information-and-perception-in-choosing-strategies-and-an-appropriate-leadership-model
 the-role-of-information-and-perception-in-growth-and-development
-learning-activity
+activity-read-and-reflect-7
 activity-watch-read-and-reflect
 activity-strategy-hunt
 the-adult-educator-as-servant-leader
@@ -57,11 +57,9 @@ teaching-from-depth-interconnectedness-and-integrity
 topic-1-adult-education-methods-to-teach-from-depth
 activity-8.1-video
 activity-8.2-reading
-activity-8.3-role-play
-activity-8.4-company-website-analysis-assignment-20
+activity-role-play
 topic-2-web-of-relationships-and-impact-on-values
-activity-8.5-read-and-reflect
-activity-8.6-unit-8-discussion
+activity-read-and-reflect-8
 confidence-and-humility
 overview-8
 topics-8

@@ -106,7 +106,6 @@ Donohoo and Velasco (2016), in their work on Collaborative Inquiry, also undersc
 
 ### 📺 🎵 📘 Activity: View and Reflect
 
-
 ```{block, type='reflect'}
 For this activity, you will spend some time reflecting on your own experience as a learner, in order to consider the needs of the students you lead in online and face-to-face learning environments. So pick up your Reflective Learning Journal, grab your laptop, and settle down into a comfy chair (or sit among some trees).
 

@@ -122,11 +122,9 @@ learning principles you looked at in your website analysis assignment.
 
 ```
 
-### Activity 8.3: Role Play
+### Activity: Role Play
 
 ```{block, type='reflect'}
-
-
 Practice using role play by planning a teaching and learning activity
 that utilizes role play. Consider a discipline of interest to you or a
 concept of leadership that you want students to engage with further.
@@ -135,59 +133,6 @@ Alternatively, you may want to practice role play with a colleague,
 family member, or friend. Select a topic, such as belonging or
 community, and develop a role play to teach that concept within an
 online or face-to-face learning environment.
-```
-
-
-### Activity 8.4: Company Website Analysis Assignment (20%)
-
-```{block, type='reflect'}
-
-
-Investigate the Human Resources portion of a company's website, a higher
-education institution or adult learning facility - preferably one with
-which you are familiar. Focus on the training and employee development
-part of the website. This assignment is meant to apply the theory of
-teaching in/for/with depth by looking at the learning culture of an
-organization.
-
-Here are some examples to get you started:
-
-  - McDonald’s:
-    <https://www.mcdonalds.com/ca/en-ca/careers/training-and-benefits.html>
-
-  - TD Bank:
-    <https://jobs.td.com/en-CA/why-choose-us/training-development/>
-
-  - Starbucks:
-    <http://www.starbucks.com.hk/about-us/become-a-partner/learning-and-development>
-
-Answer the following questions in your report:
-
-1)  What can you infer about the company’s learning culture?
-
-2)  From what is visible on the public website, would you say it is an
-    authentic learning community? Why or why not? Discuss whether the
-    website reflects aspects of one or more of the learning community
-    models explored in previous lessons.
-
-3)  Do you see evidence that interconnectedness and integrity are
-    valued?  Explain.
-
-4)  What traits and skills seem to be valued in employees?
-
-5)  How does the company develop skills in its employees (e.g.,
-    workshops, seminars, mentoring)? Are the methods based on the
-    principles of andragogy? (see Smith YouTube video). What specific
-    adult learning strategies do you see reflected in the
-    development/training opportunities for employees?
-
-Your paper should be 4-5 pages and should incorporate references to at least five scholarly sources you have studied in this course, or other scholarly sources you have identified.
-
-The paper should include:
-- Introduction
-- Analysis (responding to the prompts)
-- Conclusion
-- Reference List
 ```
 
 ## Topic 2: Web of Relationships and Impact on Values
@@ -199,10 +144,9 @@ In her book *Executive Presence*, Sylvia Ann Hewlett (2014) emphasizes how conne
 Who we associate with impacts our values and our values have the potential to impact those with whom we associate. Being reliable, consistently following through on commitments is a foundational value that impacts and is impacted by the web of relationships we encounter in our work and life generally. Lytkina Botelho et al. (2017) did a ten-year study that identified specific attributes of high-performing CEOs. I would suggest that one of the attributes in particular can also describe high-performing adult educators and learners, that is, ‘delivering reliably’ (p. 10): “The ability to reliably produce results was possibly the most powerful of the four essential CEO behaviors.” (I encourage you to read the [article](https://hbr.org/2017/05/what-sets-successful-ceos-apart) to learn more about the other essential behaviors for CEO success: deciding with speed and conviction, engaging for impact and adapting proactively.). Consider how your values are impacted by your associates and how your values impact others. Wheatley emphasizes the power of this network: “people adopt the mores of a culture, even those that contradict their personal values. … The culture is in control, and most people unconsciously adapt” (p. 229). She encourages us to be conscious in our rebellion and reclaim life-affirming identities by being “fully engaged, carefully observing what’s going on as we do our work, learning from experience, applying those learnings, adapting, changing” (p. 231). How might you foster life-affirming identities in your particular learning environment?
 
 
-### Activity 8.5: Read and Reflect
+### Activity: Read and Reflect
 
 ```{block, type='reflect'}
-
 Read Chapter 6 (pages 211-243) of Wheatley, M. (2017). *Who Do We Choose
 to Be: Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland,
 CA: Berrett-Koehler Publishers.
@@ -214,29 +158,6 @@ human because I belong. I participate, I share” (Wheatley, p. 223).
 ```
 
 
-
-### Activity 8.6: Unit 8 Discussion
-
-```{block, type='reflect'}
-
-
-After reading Wheatley chapter 6, prepare the following for your discussion post:
-
-a) Who has influenced you to become the person you are? Who do you
-depend on as ground and support for your life?
-
-b) Demonstrate your network of relationships and annotate with the key
-values or wisdom you have learned from each person.
-
-c) Because of the influence of these individuals on your values, choose
-two (not previously described in your blog) strategies from Brookfield
-or Silberman and show how they align with these values.
-
-Create a concept map to show your networks of relationships using free
-Web 2.0 tools such as [bubbl.us](https://bubbl.us/) or [popplet.com](http://popplet.com/), or draw a concept map on
-paper, take a picture and include it in your post. Reflect on how this
-relates to your teaching/facilitating work.
-```
 ## Unit 8 Summary {-}
 
 In this unit, you have had the opportunity to learn about teaching with
@@ -287,7 +208,16 @@ website, a higher education institution or adult learning facility, preferably
 one with which you are familiar. Focus on the faculty or employee development
 part of the website. In this assignment, you will apply the theory of teaching
 in/for/with depth by analyzing the learning culture of an organization.
+Here are some examples to get you started:
 
+  - McDonald’s:
+    <https://www.mcdonalds.com/ca/en-ca/careers/training-and-benefits.html>
+
+  - TD Bank:
+    <https://jobs.td.com/en-CA/why-choose-us/training-development/>
+
+  - Starbucks:
+    <http://www.starbucks.com.hk/about-us/become-a-partner/learning-and-development>
 In a 4-5 page APA formatted paper, analyze the website by responding to the
 following questions in your report:
 
@@ -321,14 +251,12 @@ The paper should include:
 3.  Conclusion
 
 4.  Reference List
+
+Please submit your assignment in the **Company Website Analysis** dropbox in Moodle.
+
+See the Assessment section for the Grading Criteria that explains how your assignment will be evaluated.
+
 ```
-
-### Company Website Analysis Rubric {-}
-The following grading [rubric](Company-Website-Analysis-RUBRIC.pdf) will be used to evaluate your work.
-
-
-
-
 
 ## Assignment 3: Platform Paper - DRAFT (30%) {-}
 
@@ -385,15 +313,15 @@ This paper will be 12-15 pages long, and should include:
 -   **References:** Include a reference list with references to at least 10
     scholarly sources.
 
+Please submit your assignment in the **Platform Paper - DRAFT for Peer Review** dropbox in Moodle.
 
-#### Platform Paper Rubric
-The following grading [rubric](Platform-Paper-RUBRIC.pdf) will be used to evaluate your work.
+See the Assessment section for the Grading Criteria that explains how your assignment will be evaluated.
 
 ```
 
 
 ## 🎯 Checking your Learning {-}
-
+```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit. Can you:
 
@@ -406,7 +334,7 @@ before you move to the next unit. Can you:
     organizational culture?
 
   - articulate your personal web of relationship and impact on values?
-
+```
 
 ## References {-}
 
