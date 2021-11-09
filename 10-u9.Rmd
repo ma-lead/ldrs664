@@ -1,6 +1,6 @@
 # Confidence and Humility
 
-## Overview
+## Overview {-}
 
 In this unit, you will explore the role of trust, confidence and
 intellectual humility in the practice and dispositions of the adult
@@ -8,14 +8,14 @@ educator who is trying to establish an authentic learning community. You
 will consider your values as an individual as well as an educator and
 help you to define your role and purpose as an adult educator.
 
-## Topics
+## Topics {-}
 
 1.  Learning to Trust Ourselves in Difficult Situations
 
 2.  Approaches to Making a Contribution in an Intellectually Humble Way
 
 
-## Learning Outcomes:
+## Learning Outcomes: {-}
 
 When you have completed this unit you should be able to:
 
@@ -30,7 +30,7 @@ When you have completed this unit you should be able to:
   - Describe strategies to foster intellectual humility in yourself and
     in your learning environment.
 
-## Activity Checklist
+## Activity Checklist {-}
 
 Here is a checklist of learning activities you will benefit from in
 completing this unit. You may find it useful for planning your work.
@@ -109,7 +109,7 @@ self-knowledge and will research the strategies and methods as well as
 the content that will be most helpful for their learners to be
 successful.
 
-#### Activity 9.1: Read and Reflect
+### Activity 9.1: Read and Reflect
 
 Read Wheatley, M. (2017). *Who Do We Choose to Be?: Facing Reality,
 Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler
@@ -118,7 +118,7 @@ Publishers. Chapter 8 (pages 273-288 ) and Coda (pages 292-294).
 As you read this chapter and Coda, think about your own self perceptions
 and what you believe is worth doing as an adult educator.
 
-#### Activity 9.2: Discussion Post
+### Activity 9.2: Discussion Post
 
 After having read the introductory notes, Wheatley chapter 8 and Coda:
 
@@ -128,7 +128,7 @@ quoted in Wheatley p. 294:
 !!! “Humans have a responsibility to find themselves where they are, in their own proper time and place, in the history to which they belong and to which they must inevitably contribute either their response or their evasions, either truth and act, or mere slogan and gesture.”
 
 
-#### Activity 9.3: Did You Know?
+### Activity 9.3: Did You Know?
 
 We will learn to trust ourselves more and build our confidence if we are
 able to convince even ourselves of our own self-efficacy\! Watch this
@@ -179,49 +179,18 @@ learn, I don’t give up on students and I try to find ways to help them
 learn through different methods and alternate ways that they can
 demonstrate their learning.
 
-These values direct my entire teaching methodology; I espouse the goals
-of differentiated instruction (basically changing instructional methods
-to adapt to different learners) and aim to create a space for learning
-that empowers all students to succeed. (See
-[here](https://study.com/academy/lesson/what-is-differentiated-instruction-examples-definition-activities.html)
-for more information). Differentiated instruction is a seamless part of
-my instructional planning and practice and I intentionally create
-opportunities to learn about students’ strengths, needs, interests,
-preferences and ways of learning.
-[Here](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
-is an example of a self-assessment tool to help identify a learner’s
-learning style. To this end I use meaningful [engaging tasks](https://www.prolaera.com/7-effective-way-to-engage-adult-learners/),
-[flexible grouping](https://www.kpu.ca/sites/default/files/Teaching%20and%20Learning/TD.1.3_Bedford%26Wiebe%26Tschida_Flexible_Grouping.pdf),
-and ongoing [assessment and adjustment](https://lincs.ed.gov/state-resources/federal-initiatives/teal/guide/formativeassessment).
-I differentiate the content, process, or product components of the
-educational experience by using a range of strategies and methods, e.g.,
-anchor activities, tiered lessons, small-group instruction, and varied
-tasks.
+These values direct my entire teaching methodology; I espouse the goals of differentiated instruction (basically changing instructional methods to adapt to different learners) and aim to create a space for learning that empowers all students to succeed. (See [here](https://study.com/academy/lesson/what-is-differentiated-instruction-examples-definition-activities.html) for more information). Differentiated instruction is a seamless part of my instructional planning and practice and I intentionally create opportunities to learn about students’ strengths, needs, interests, preferences and ways of learning. [Here](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml) is an example of a self-assessment tool to help identify a learner’s learning style. To this end I use meaningful [engaging tasks](https://www.prolaera.com/7-effective-way-to-engage-adult-learners/), [flexible grouping](https://www.kpu.ca/sites/default/files/Teaching%20and%20Learning/TD.1.3_Bedford%26Wiebe%26Tschida_Flexible_Grouping.pdf), and ongoing [assessment and adjustment](https://lincs.ed.gov/state-resources/federal-initiatives/teal/guide/formativeassessment). I differentiate the content, process, or product components of the educational experience by using a range of strategies and methods, e.g., anchor activities, tiered lessons, small-group instruction, and varied tasks.
 
-I’ve used my own practice as a Christian educator as an example to give
-you some ideas and direction. Please take the time to explore the
-resources linked in the notes and other resources in your Brookfield and
-Silberman texts. The approach taken throughout this course is an
-intellectually humble one. In chapters five and six Brookfield (2013)
-particularly addresses the power dynamic in the classroom, awareness of
-which may foster a more intellectually humble approach. You are
-encouraged to use your texts as primary resources for more detailed
-information about specific strategies and approaches to making a
-contribution as an adult educator while remaining intellectually humble.
+I’ve used my own practice as a Christian educator as an example to give you some ideas and direction. Please take the time to explore the resources linked in the notes and other resources in your Brookfield and Silberman texts. The approach taken throughout this course is an intellectually humble one. In chapters five and six Brookfield (2013) particularly addresses the power dynamic in the classroom, awareness of which may foster a more intellectually humble approach. You are encouraged to use your texts as primary resources for more detailed information about specific strategies and approaches to making a contribution as an adult educator while remaining intellectually humble.
 
-#### Activity 9.4: Reading
+### Activity 9.4: Reading
 
-Read this article: Leary, Mark & J. Diebels, Kate & K. Davisson, Erin &
-P. Jongman-Sereno, Katrina & Isherwood, Jennifer & Raimi, Kaitlin &
-Deffler, Samantha & Hoyle, Rick. (2017). Cognitive and Interpersonal
-Features of Intellectual Humility. *Personality and Social Psychology
-Bulletin. 43*. 014616721769769. 10.1177/0146167217697695.
+Read this article: Leary, Mark & J. Diebels, Kate & K. Davisson, Erin & P. Jongman-Sereno, Katrina & Isherwood, Jennifer & Raimi, Kaitlin & Deffler, Samantha & Hoyle, Rick. (2017). Cognitive and Interpersonal Features of Intellectual Humility. *Personality and Social Psychology Bulletin. 43*. 014616721769769. 10.1177/0146167217697695.
 
 The above [article](https://journals-sagepub-com.ezproxy.student.twu.ca/doi/pdf/10.1177/0146167217697695?) can be accessed through the TWU
 library:
 
-As you read this article, self-evaluate your level of openness,
-curiosity, tolerance of ambiguity and dogmaticism.
+As you read this article, self-evaluate your level of openness, curiosity, tolerance of ambiguity and dogmaticism.
 
 In your reflective journal, consider:
 
@@ -229,7 +198,7 @@ In your reflective journal, consider:
 adult educator and leader to nurture your own intellectual humility and
 foster it in your students?
 
-####  Activity 9.5: Videos
+### Activity 9.5: Videos
 
 Watch this [video](https://youtu.be/ny5m64sjm14) (2016) where Andrew
 Pinsent, Research Director at Oxford University answers the question:
@@ -242,7 +211,7 @@ As you view the short video clips jot down some notes in your own words
 or any questions that you want to explore further about the topic of
 intellectual humility.
 
-## Unit 9 Summary
+## Unit 9 Summary {-}
 
 In this unit, you have had the opportunity to learn about the role of
 trust, confidence and intellectual humility in the practice and
@@ -254,9 +223,9 @@ educator. The culminating assignment is a platform of beliefs where this
 will be important.
 
 
-## Assessment
+## Assessment {-}
 
-### Unit 9 Discussion
+### Unit 9 Discussion {-}
 
 After having read the introductory notes, Wheatley chapter 8 and Coda:
 
@@ -266,7 +235,7 @@ quoted in Wheatley p. 294:
 !!! “Humans have a responsibility to find themselves where they are, in their own proper time and place, in the history to which they belong and to which they must inevitably contribute either their response or their evasions, either truth and act, or mere slogan and gesture.”
 
 
-## Assignment 3: Platform Paper - Peer Review Feedback (30%)
+## Assignment 3: Platform Paper - Peer Review Feedback (30%) {-}
 
 For this assignment, you will write a contextualized Platform Paper in which you
 discuss your ideal learning community and your role as teacher/leader of that
@@ -320,13 +289,13 @@ This paper will be 12-15 pages long, and should include:
     scholarly sources.
 
 
-#### Platform Paper Rubric
+#### Platform Paper Rubric {-}
 The following grading [rubric](Platform-Paper-RUBRIC.pdf) will be used to evaluate your work.
 
 
 
 
-## Checking your Learning
+## Checking your Learning {-}
 
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit.
@@ -345,7 +314,7 @@ before you move to the next unit.
 
 
 
-## References
+## References {-}
 
 Arntz, V. 2018. Flannery O’Connor & redemption amidst the grotesque.
 Available at
