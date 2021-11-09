@@ -65,7 +65,7 @@ These principles can serve as a guide for facilitating online discussions, desig
 
 Likewise, the “Free-Choice Principle” contends that “people perform better and are more committed when they have freedom to choose how and what they contribute” (Whitney & Trosten-Bloom, 2010, p. 52). Facilitating discussions that allow learners to engage in conversation (whether face-to-face or online), determine some aspects of their assignments, select topics, etc., can have a powerful influence on student engagement with learning.
 
-### Activity: Read and Reflect
+### 📘 Activity: Read and Reflect
 
 ```{block, type='reflect'}
 
@@ -76,7 +76,7 @@ Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 5 Teaching in Community;
 ```
 
 
-### Activity: Read and Discuss
+### 📘 Activity: Read and Discuss
 
 ```{block, type='reflect'}
 Review the [“Principles of Appreciative Inquiry”](https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introduction/5-classic-principles-ai/) from the Appreciative Inquiry Commons at Champlain University, or in Whitney & Trosten-Bloom. (2010). *The power of appreciative inquiry: A practical guide to positive change.*
@@ -104,20 +104,27 @@ In this course, we are exploring concepts of education that include our emotiona
 
 Donohoo and Velasco (2016), in their work on Collaborative Inquiry, also underscore the importance of acknowledging the emotional experiences of student. “There is no doubt that learning is interrupted when negative emotions and attitudes surface, as such feelings hinder our ability to make sense of things” (Donohoo and Velasco, 2016, p. 36).
 
-### Activity: Reflect
+### 📺 🎵 📘 Activity: View and Reflect
+
 
 ```{block, type='reflect'}
 For this activity, you will spend some time reflecting on your own experience as a learner, in order to consider the needs of the students you lead in online and face-to-face learning environments. So pick up your Reflective Learning Journal, grab your laptop, and settle down into a comfy chair (or sit among some trees).
 
-1.  Watch the short film [*Identity*](https://www.youtube.com/watch?v=ikGVWEvUzNM) by Kalhil KJ Adames (5 minutes).
-2.  Listen to the song ["Brave"](https://www.youtube.com/watch?v=QUQsqBqxoR4) sung by Sarah Barreilles.
+1.  Watch the short film *Identity* by Kalhil KJ Adames (5 minutes).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=ikGVWEvUzNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2.  Listen to the song "Brave" sung by Sarah Barreilles.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=QUQsqBqxoR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 3.  Read Brown (2017) *Braving the Wilderness,* Chapter 7 Strong Back. Soft Front. Wild Heart.
 
 Jot down some of your notes describing your own identity as a student. List 2-3 times in your educational experience where you have been “brave” by sharing your thoughts or concerns in a learning environment – whether with other learners or teachers. List 2-3 times when you wanted to speak up, but chose instead to remain silent. Reflect on how these actions impacted your experience as a learner. Consider what you might do, as a course facilitator, to encourage learners to speak up.
 ```
 
 
-### Activity: Read and Strategize
+### 📘 Activity: Read and Strategize
 
 ```{block, type='reflect'}
 Read Burwell & Huyser (2013). Practicing hospitality in the classroom (available through the [TWU Library](https://www.twu.ca/library)). In your Reflective Learning Journal, make a note of the “stances” described by the authors. For each Stance, list one strategy you can employ to practice hospitality in your classes. Be as specific as possible.
@@ -131,8 +138,6 @@ In this unit, we have considered how we can create learning environments where s
 ## ✏️ Assessment {-}
 ```{block, type='assessment'}
 ### Unit 5 Discussion
-
-```{block, type='assessment'}
 
 After completing this unit, including the learning activities, you are asked to write a discussion post on the following:
 
@@ -156,11 +161,14 @@ After you have completed the interview, prepare a 250-word blog post, identifyin
 
 
 ## 🎯 Checking your Learning {-}
+```{block, type='progress'}
 
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 
   - Identify facilitator strategies that invite students to engage in collaborative learning?
   - Identify strategies in online learning environments that support connections between students?
+
+```
 
 ## References {-}
 

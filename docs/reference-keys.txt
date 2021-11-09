@@ -35,7 +35,7 @@ creating-collaborative-learning-in-an-online-environment
 activity-read-and-reflect-4
 activity-read-and-discuss
 supporting-connections-between-learners
-activity-reflect
+activity-view-and-reflect-1
 activity-read-and-strategize
 authentic-learning-and-identity
 the-impact-of-identity-in-a-learning-environment
