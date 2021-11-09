@@ -63,8 +63,7 @@ activity-9.3-did-you-know
 topic-2-approaches-to-making-a-contribution-in-an-intellectually-humble-way
 activity-9.4-reading
 activity-9.5-videos
-conclusions
-unit-10-bringing-it-all-together
+bringing-it-all-together
 topic-1-teaching-learning-and-context
 activity-10.1-sticky-note-challenge
 activity-10.2-learning-styles-video
