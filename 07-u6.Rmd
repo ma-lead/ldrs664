@@ -115,7 +115,6 @@ In this unit, you have had the opportunity to learn about the adult educator as 
 ## ✏️ Assessment {-}
 ```{block, type='assessment'}
 ### Unit 6 Discussion
-```{block, type='assessment'}
 After completing this unit, including the learning activities, you are asked to choose one of the two themes to write on:
 
 Do some research about a marginalized group related to your current or future working context.  What will be important for you to understand about this group in order to teach authentically in that space?  What indigenous perspectives need to be considered? Consider how your own
@@ -126,7 +125,10 @@ OR
 Explore the concept of Assimilation
 
 Have you ever tried to hide your home language, religion or any other aspect of your family’s culture from your friends or classmates? If so, why? Describe the experience, how it felt, and what, if anything, about the situation you would change if you could.
-Post your response to the Discussion Forum and respond to at least two of your peers' posts.
+
+Please submit your discussion posts and responses in the **Unit 6 Discussion Forum** in Moodle.
+
+See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
 ```
 
 ## 🎯 Checking your Learning {-}

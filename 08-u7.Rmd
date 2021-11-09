@@ -72,7 +72,7 @@ As you read answer the following questions in your Reflective Learning Journal:
 - How does this relate specifically to your present or future context?
 ```
 
-### Learning Activity
+### Activity: Watch, Read and Reflect
 
 ```{block, type='reflect'}
 View Margaret Wheatley's *Islands of Sanity* (42 minutes).
@@ -87,7 +87,7 @@ After viewing the video and reading chapters 3, 5 and 7 of Wheatley, consider th
 ```
 
 
-### Learning Activity
+### Activity: Strategy Hunt
 
 ```{block, type='reflect'}
 Browse the following two resources and choose strategies that could be used to encourage critical thinking about information. Think about how you might adapt these strategies for your context. Jot down your ideas in your reflective journal.
@@ -95,3 +95,120 @@ Browse the following two resources and choose strategies that could be used to e
 - Brookfield, Stephen and Preskill, S. (2016). *The discussion book: 50 great ways to get people talking*. San Francisco: Jossey Bass.  
 - Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley.
 ```
+
+## The Adult Educator as Servant Leader
+
+Servant Leadership requires a strong orientation to values that allow adult
+educators to know, care about, and serve their learners well. Since beliefs,
+influenced by context and culture influence decision making, expectations and
+emotions, it matters greatly what leadership model you adhere and aspire to.
+What we value, we prioritize and this shapes our work and lives.
+
+By way of example of what servant leadership can look like as an adult educator,
+I share part of my own journey with you. As a Canadian educator one key
+challenge I face is the mandate to indigenize the curriculum. This is part of a
+broader call to educational leaders to work toward healing and reconciliation.
+In Canadian history, education was used as a tool of assimilation to extricate
+children from their culture and language. A statement of the Indigenous Healing
+Foundation succinctly summarizes the gravity of this call to action:
+
+> No other population group in Canada’s history has endured such a deliberate,
+comprehensive, and prolonged assault on their human rights as that of Indigenous
+people. Yet, despite growing recognition of past wrongs, many Canadians remain
+unaware of the full scope of these injustices or their impacts.
+
+More than a political mandate however, educators need to realize our moral
+responsibilities to relate accurately and acknowledge fully our regrettable
+past. I propose that the effort educators in Canada are undergoing requires
+servant leadership dispositions. For me, this has been, and continues to be, a
+process of developing knowledge of my own ignorance, discovering my own
+prejudices and myths and having the courage to change views and practices. It
+has required the disposition to work through intellectual and emotional
+complexities that have caused confusion and frustration. But I am willing to be
+disturbed and unsettled. As I strive to live servant leadership principles, I
+approach this challenge with intellectual humility, curiosity and respect for
+all people which has taken much of the fear of 'doing it wrong' away.
+
+Our world is in need of adult educators who strive to live servant leadership
+principles in their practice. The resulting wideness of spirit dedicated toward
+the welfare of others is magnanimity - what Aristotle called the crowing virtue
+in his hierarchy of virtues. The adult educator has an important role in
+creating a more peaceful world through education that serves people and
+influences others to do the same.
+
+For more information about servant leadership, please see the resource section
+for this unit.
+
+### Activity: Video
+```{block, type='reflect'}
+Watch the video, *Ali Fett: Servant Leadership - How a jar can change the way
+you lead and serve* at <https://youtu.be/1vIPrR_clEg>. As you view this 18
+minute video, consider the following:
+
+-   How might assumption and perceptions impact your role as an adult educator?
+
+-   How are adult educators servant leaders?
+```
+
+## ✏️ Assessment {-}
+```{block, type='assessment'}
+### Unit 7 Discussion
+
+Ffter viewing Fett’s Ted Talk (Sept. 2017), write a discussion post on the
+following:
+
+-   How are you going to live out the seven concepts of intentional practice
+    Frett outlines? List each of the concepts and how you could live each one.
+
+-   Reference the Silberman and Brookfield texts and find one strategy to apply
+    to each of the seven concepts. List each concept of intentional practice and
+    your chosen strategy beside it, include a brief description of the strategy.
+
+-   In a general manner, explain how to use the strategies with intentionality
+    to be a servant leader in the adult learning environment.   
+```
+
+## Unit Summary
+
+In this unit, you have had the opportunity to learn about the role of
+information and perception in growth and development. You explored the role of
+adult educator to be an advocate for adult learners. Hopefully the term 'warrior
+for the human spirit' is a compelling call to action for you as a result.
+
+You also explored the concept of the adult educator as servant leader and the
+importance of intentional practice based on this model of leadership. An adult
+educator who acts and interacts for the good of learners brings meaning to work
+and can motivate learners to also find meaning beyond an instrumental,
+skills-focused view of education. This can lead to a sense of fulfillment and
+flourishing built on a greater purpose.
+
+
+## Checking your Learning
+```{block, type='progress'}
+Use the learning outcomes for this unit as a checklist of understanding before
+you move to the next unit.
+
+-   Can you choose and/or design strategies with a critical lens for using
+    information to influence growth and development of learners?
+
+-   Can you explain how an adult educator can be a servant leader?
+```
+
+## Resources
+
+Atha, D.L., Castellon, A.R., Strong, H., & Wu, T. (2017). *MA Leadership and MA
+in Educational Leadership Monograph 2018*. Unpublished Manuscript Trinity
+Western University, Langley BC, (70), 22–32.
+
+Cahalan, K. (2016). Integrative knowing and practica wisdom in Reflective
+practice: *Formation and supervision in ministry.*
+
+Castellon, A. (2017). *Indigenous Integration: 100+ Lesson Ideas for Secondary
+and College Teachers*. Vic: Tellwell.
+
+Greenleaf, R. 1998. *The power of servant-leadership*. San Francisco, CA:
+Berrett-Koehler.
+
+Parris, D.L. & Welty Peachey, J. (20130. A Systematic Literature Review of
+Servant Leadership Theory in Organizational Contexts. *J. of Bus. Ethics 113*:
+377-393.
