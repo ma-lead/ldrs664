@@ -9,7 +9,7 @@ Unit 5 focuses on two guiding questions:
 ![Guiding Questions](assets/unit5/LDRS664-BannerUnit5.jpg)
 
 
-## 📖 Topics{-}
+##  Topics{-}
 1. Creating Collaborative Learning in an Online Environment
 2. Supporting Connections Between Learners
 

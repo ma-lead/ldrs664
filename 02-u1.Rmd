@@ -15,7 +15,7 @@ Unit 1 focuses on two guiding questions:
 ![Guiding Questions](assets/unit1/LDRS664-BannerUnit1.jpg)
 
 
-## 📖 Topics{-}
+##  Topics{-}
 
 1.  Authenticity in Teaching and Learning
 

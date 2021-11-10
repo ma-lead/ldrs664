@@ -12,7 +12,7 @@ Unit 2 focuses on two guiding questions:
 ![Guiding Questions](assets/unit2/LDRS664-BannerUnit2-v3.jpg)
 
 
-## 📖 Topics{-}
+##  Topics{-}
  1. Belonging to Myself
  2. Vulnerability in Learning Communities
  3. Creating Connections with Learners
