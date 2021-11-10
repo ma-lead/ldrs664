@@ -168,5 +168,3 @@ For students in LDRS 664, graduate level writing standards following APA 7 are e
 ```{block, type='caution'}
 ***It will be assumed that you have read, understand, and agree to the information provided at the [Academic Dishonesty Policy website](https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0). If you have any questions at all please contact your instructor.***
 ```
-
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=VfFOK3MW70OkgCMMPUg_FteusR5eeN9KgUNJGNb99GpUOTJaTUNVWlc5MEhLRUVROEMxQ1VZUEpJTS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
