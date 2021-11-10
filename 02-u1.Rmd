@@ -84,7 +84,7 @@ In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's
 
 >*Teachers possess the power to create conditions that can help students learn a great deal -- or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act.* -- Palmer (2017, p. 7)
 
-### 📘 Activity: Reading{-}
+### 📘 Activity: Reading
 
 ```{block, type='reflect'}
 As we explore the importance of the “inner life of the teacher” as a foundation for authentic learning, read Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching in The Courage to Teach (Palmer, 2017).
@@ -108,7 +108,7 @@ In order to have integrity, we must know our own values and strengths, our own b
 
 > If the work we do lacks integrity for us, then we, the work, and the people we do it with will suffer. -- Palmer (2017, p. 16)
 
-### ✏️ Activity: Reflect and Respond{-}
+### ✏️ Activity: Reflect and Respond
 ```{block, type='reflect'}
 As teachers, it’s important to identify and reflect on your own values.   
 💭 Consider why you are taking this course. Why do you want to coach/facilitate learning? What are your beliefs about learning? What are your values about learning? What are your strengths? Where do you need help?
@@ -143,7 +143,7 @@ But how is this done?
 
 In “*To Know As We Are Known,*” Palmer (1993) suggests that learning spaces must include openness, boundaries, and an air of hospitality. These learning spaces, according to Palmer (1993) can be spaces “both to be and to become” (p. 71).
 
-### ✏️ Activity: Ranking{-}
+### ✏️ Activity: Ranking
 ```{block, type='reflect'}
 Rank the following strategies according to your comfort level. For each strategy, list one practical action you can take in an online learning environment (as facilitator or learner) to create an authentic learning space that is hospitable and open.*
 
