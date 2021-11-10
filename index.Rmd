@@ -172,3 +172,6 @@ For students in LDRS 664, graduate level writing standards following APA 7 are e
 ```{block, type='video'}
 <iframe width="560" height="315" src="https://forms.office.com/r/pwaw86GHJ1" frameborder="0" allowfullscreen></iframe>
 ```
+
+<blockquote class="embedly-card" data-card-key="05acda8fea1b4f099c92b66268f422dd" data-card-branding="0" data-card-type="article-full"><h4><a href="https://forms.office.com/pages/responsepage.aspx?id=VfFOK3MW70OkgCMMPUg_FteusR5eeN9KgUNJGNb99GpUOTJaTUNVWlc5MEhLRUVROEMxQ1VZUEpJTS4u">Microsoft Forms</a></h4><p>(null)</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
