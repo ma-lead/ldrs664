@@ -50,7 +50,7 @@ Figuring out how our identity impacts the learning environment involves discerni
 8. How do I treat others?
 
 
-### 📘 ✏️ Activity: Wheatley Reading and Reflection
+###  ✏️ Activity: Wheatley Reading and Reflection
 
 ```{block, type='reflect'}
 Read Wheatley, M. (2017). *Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Opening pages 2-25; Chapters 1 (pages 28-61 and 2 (pages 63-97). As you read these pages think about a teacher, instructor or professor who is/was a leader in your eyes - someone you’ve most admired. What were their behaviours? How did you feel in their classroom? What kind of student were you, including the quality of what you produced? How do you feel about them now?

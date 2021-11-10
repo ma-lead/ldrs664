@@ -111,7 +111,7 @@ self-knowledge and will research the strategies and methods as well as
 the content that will be most helpful for their learners to be
 successful.
 
-### 📘 Activity: Read and Reflect
+###  Activity: Read and Reflect
 ```{block, type='reflect'}
 
 Read Wheatley, M. (2017). *Who Do We Choose to Be?: Facing Reality,
@@ -181,7 +181,7 @@ These values direct my entire teaching methodology; I espouse the goals of diffe
 
 I’ve used my own practice as a Christian educator as an example to give you some ideas and direction. Please take the time to explore the resources linked in the notes and other resources in your Brookfield and Silberman texts. The approach taken throughout this course is an intellectually humble one. In chapters five and six Brookfield (2013) particularly addresses the power dynamic in the classroom, awareness of which may foster a more intellectually humble approach. You are encouraged to use your texts as primary resources for more detailed information about specific strategies and approaches to making a contribution as an adult educator while remaining intellectually humble.
 
-### 📘 Activity: Reading
+###  Activity: Reading
 ```{block, type='reflect'}
 Read this article: Leary, Mark & J. Diebels, Kate & K. Davisson, Erin & P. Jongman-Sereno, Katrina & Isherwood, Jennifer & Raimi, Kaitlin & Deffler, Samantha & Hoyle, Rick. (2017). Cognitive and Interpersonal Features of Intellectual Humility. *Personality and Social Psychology Bulletin. 43*. 014616721769769. 10.1177/0146167217697695.
 

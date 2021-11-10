@@ -115,7 +115,7 @@ backgrounds contribute to the collaborative efforts to achieve the
 community’s goals” (Brower & Dettinger, 1998, p. 16).
 
 
-### 📘 Activity: Brown Reading and Reflection
+###  Activity: Brown Reading and Reflection
 ```{block, type='reflect'}
 
 Read: Brown (2017). Chapters 3-4.
@@ -135,7 +135,7 @@ Consider how you have, in your own learning experiences, experienced
 ```
 
 
-### 📘 Activity: Palmer Reading and Reflection
+###  Activity: Palmer Reading and Reflection
 ```{block, type='reflect'}
 Read Palmer (2017) Chapter 2. As you read, consider these
 questions:

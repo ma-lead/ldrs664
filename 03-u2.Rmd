@@ -74,7 +74,7 @@ As poet [Maya Angelou](http://billmoyers.com/content/conversation-maya-angelou/)
 For this activity, you are asked to share a little more about yourself with your peers. First, find a quote about either identity or integrity. For example, you may want to perform a Google image search for “identity quote.” Find one that resonates with you, and then include a picture of something that tells us something about you. Post the quote and your image to the Unit 2 Discussion forum with a 1-2 sentence explanation. This is a non-graded activity, but may help you reflect on this topic and to prepare for the assignment in this unit.
 ```
 
-### 📘 Activity: View and Reflect
+###  Activity: View and Reflect
 ```{block, type='reflect'}
 
 View the following resources and reflect on your learning:  
@@ -114,7 +114,7 @@ Watch the TedTalk by Brene Brown: (20 minutes)
 You may want to answer these questions in your Reflective Learning Journal, and refer back to them as you complete the assessment for this unit.
 ```
 
-### 📘 Activity: Brown Reading & Reflection
+###  Activity: Brown Reading & Reflection
 ```{block, type='reflect'}
 
 Brown (2017) argues that authenticity is essential to belonging.
@@ -173,7 +173,7 @@ Take the [Clance Imposter Phenomenon test](http://paulineroseclance.com/pdf/IPsc
 
 ```
 
-### 📘 Activity: Readings
+###  Activity: Readings
 ```{block, type='reflect'}
 
 Read: Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. The Leadership Quarterly 16, pp. 343–372.

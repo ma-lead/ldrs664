@@ -84,7 +84,7 @@ In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's
 
 >*Teachers possess the power to create conditions that can help students learn a great deal -- or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act.* -- Palmer (2017, p. 7)
 
-### 📘 Activity: Reading
+###  Activity: Reading
 
 ```{block, type='reflect'}
 As we explore the importance of the “inner life of the teacher” as a foundation for authentic learning, read Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching in The Courage to Teach (Palmer, 2017).
@@ -165,7 +165,7 @@ Rank the following strategies according to your comfort level. For each strategy
 
 Next, read the discussion of authentic learning environments in Herrington and Oliver (2000), consider how the elements they discuss align with or differ from Palmer’s (2017) description of learning communities.
 
-📘 Herrington, J. and Oliver, R. (2000). [An instructional design framework for authentic learning environments](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers).
+ Herrington, J. and Oliver, R. (2000). [An instructional design framework for authentic learning environments](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers).
 
 💭 ***Questions to Consider***
 

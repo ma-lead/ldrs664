@@ -105,7 +105,7 @@ how you might apply them to practice, and also how they relate to your
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v=vLJ7cRwKI-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
-### 📘 Activity: Reading
+###  Activity: Reading
 
 ```{block, type='reflect'}
 Read Fenwick, T. (2010). [Workplace ‘Learning’ and Adult Education:
@@ -140,7 +140,7 @@ In her book *Executive Presence*, Sylvia Ann Hewlett (2014) emphasizes how conne
 Who we associate with impacts our values and our values have the potential to impact those with whom we associate. Being reliable, consistently following through on commitments is a foundational value that impacts and is impacted by the web of relationships we encounter in our work and life generally. Lytkina Botelho et al. (2017) did a ten-year study that identified specific attributes of high-performing CEOs. I would suggest that one of the attributes in particular can also describe high-performing adult educators and learners, that is, ‘delivering reliably’ (p. 10): “The ability to reliably produce results was possibly the most powerful of the four essential CEO behaviors.” (I encourage you to read the [article](https://hbr.org/2017/05/what-sets-successful-ceos-apart) to learn more about the other essential behaviors for CEO success: deciding with speed and conviction, engaging for impact and adapting proactively.). Consider how your values are impacted by your associates and how your values impact others. Wheatley emphasizes the power of this network: “people adopt the mores of a culture, even those that contradict their personal values. … The culture is in control, and most people unconsciously adapt” (p. 229). She encourages us to be conscious in our rebellion and reclaim life-affirming identities by being “fully engaged, carefully observing what’s going on as we do our work, learning from experience, applying those learnings, adapting, changing” (p. 231). How might you foster life-affirming identities in your particular learning environment?
 
 
-### 📘 Activity: Wheatley Reading and Reflection
+###  Activity: Wheatley Reading and Reflection
 
 ```{block, type='reflect'}
 Read Chapter 6 (pages 211-243) of Wheatley, M. (2017). *Who Do We Choose
