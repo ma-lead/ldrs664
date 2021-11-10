@@ -7,9 +7,7 @@ url: https://ma-lead.github.io/ldrs664
 biblio-style: apalike
 ---
 
-```{block, type='video'}
-<iframe width="560" height="315" src="https://forms.office.com/r/pwaw86GHJ1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+
 
 # Course Description{-}
 
@@ -169,4 +167,8 @@ For students in LDRS 664, graduate level writing standards following APA 7 are e
 
 ```{block, type='caution'}
 ***It will be assumed that you have read, understand, and agree to the information provided at the [Academic Dishonesty Policy website](https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0). If you have any questions at all please contact your instructor.***
+```
+
+```{block, type='video'}
+<iframe width="560" height="315" src="https://forms.office.com/r/pwaw86GHJ1" frameborder="0" allowfullscreen></iframe>
 ```
