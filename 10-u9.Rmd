@@ -8,14 +8,14 @@ educator who is trying to establish an authentic learning community. You
 will consider your values as an individual as well as an educator and
 help you to define your role and purpose as an adult educator.
 
-## Topics {-}
+## 📖 Topics {-}
 
 1.  Learning to Trust Ourselves in Difficult Situations
 
 2.  Approaches to Making a Contribution in an Intellectually Humble Way
 
 
-## Learning Outcomes: {-}
+## 🎯 Learning Outcomes: {-}
 
 When you have completed this unit you should be able to:
 
@@ -30,18 +30,18 @@ When you have completed this unit you should be able to:
   - Describe strategies to foster intellectual humility in yourself and
     in your learning environment.
 
-## Activity Checklist {-}
+## ✔️ Activity Checklist {-}
 
 Here is a checklist of learning activities you will benefit from in
 completing this unit. You may find it useful for planning your work.
 
-| ☑ | **Activities**                                                                                                                                        |
+| ☑ | **Learning Activities**                                                                                                                                        |
 |---|----|
-|   | Activity 9.1: Read assigned pages from Wheatley chapter 8 and Coda. Consider the reflection question.  |
-|   | Activity 9.2: Write a discussion post about the Merton quote.  |
-|   | Activity 9.3: Watch [TedX talk](https://youtu.be/Xlg8zdSVjgg) by Sam Horn and practice the technique.   |
-|   | Activity 9.4: Read Leary et al. article and engage in self-evaluation. Jot down practices related to intellectual humility.  |
-|   | Activity 9.5: Watch two videoclips of Andrew pinsent and jot down some notes in your own words.  |
+|   | Activity: Read assigned pages from Wheatley chapter 8 and Coda. Consider the reflection question.  |
+|   | Activity: Write a discussion post about the Merton quote.  |
+|   | Activity: Watch [TedX talk](https://youtu.be/Xlg8zdSVjgg) by Sam Horn and practice the technique.   |
+|   | Activity: Read Leary et al. article and engage in self-evaluation. Jot down practices related to intellectual humility.  |
+|   | Activity: Watch two videoclips of Andrew pinsent and jot down some notes in your own words.  |
 
 ## Topic 1: Learning to Trust Ourselves in Difficult Situations
 
@@ -109,7 +109,8 @@ self-knowledge and will research the strategies and methods as well as
 the content that will be most helpful for their learners to be
 successful.
 
-### Activity 9.1: Read and Reflect
+### Activity: Read and Reflect
+```{block, type='reflect'}
 
 Read Wheatley, M. (2017). *Who Do We Choose to Be?: Facing Reality,
 Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler
@@ -117,19 +118,20 @@ Publishers. Chapter 8 (pages 273-288 ) and Coda (pages 292-294).
 
 As you read this chapter and Coda, think about your own self perceptions
 and what you believe is worth doing as an adult educator.
+```
 
-### Activity 9.2: Discussion Post
-
+### Activity: Discussion Post
+```{block, type='reflect'}
 After having read the introductory notes, Wheatley chapter 8 and Coda:
 
 Write 300 words in response to the following quote by Thomas Merton,
 quoted in Wheatley p. 294:
 
-!!! “Humans have a responsibility to find themselves where they are, in their own proper time and place, in the history to which they belong and to which they must inevitably contribute either their response or their evasions, either truth and act, or mere slogan and gesture.”
-
+> Humans have a responsibility to find themselves where they are, in their own proper time and place, in the history to which they belong and to which they must inevitably contribute either their response or their evasions, either truth and act, or mere slogan and gesture.
+```
 
 ### Activity 9.3: Did You Know?
-
+```{block, type='reflect'}
 We will learn to trust ourselves more and build our confidence if we are
 able to convince even ourselves of our own self-efficacy\! Watch this
 [video](https://youtu.be/Xlg8zdSVjgg) (2014) ‘How to create interest and
@@ -148,12 +150,13 @@ Practice this by asking yourself:
 Follow Sam Horn’s suggested process to create your own intriguing pitch
 and try it out with others until it sounds natural and comes easily to
 you.
+```
 
 ## Topic 2: Approaches to Making a Contribution in an Intellectually Humble Way
 
 The Foundation for Critical Thinking defines [intellectual humility](http://www.criticalthinking.org/pages/valuable-intellectual-traits/528):
 
-! Having a consciousness of the limits of one's knowledge, including a sensitivity to circumstances in which one's native egocentrism is likely to function self-deceptively; sensitivity to bias, prejudice and limitations of one's viewpoint. Intellectual humility depends on recognizing that one should not claim more than one actually knows. It does not imply spinelessness or submissiveness. It implies the lack of intellectual pretentiousness, boastfulness, or conceit, combined with insight into the logical foundations, or lack of such foundations, of one's beliefs. 
+> Having a consciousness of the limits of one's knowledge, including a sensitivity to circumstances in which one's native egocentrism is likely to function self-deceptively; sensitivity to bias, prejudice and limitations of one's viewpoint. Intellectual humility depends on recognizing that one should not claim more than one actually knows. It does not imply spinelessness or submissiveness. It implies the lack of intellectual pretentiousness, boastfulness, or conceit, combined with insight into the logical foundations, or lack of such foundations, of one's beliefs. 
 
 As a Christian adult educator, aim to be a servant leader-teacher. As
 servant leader *teacher*, seek to engage people’s heads, hearts and
@@ -183,8 +186,8 @@ These values direct my entire teaching methodology; I espouse the goals of diffe
 
 I’ve used my own practice as a Christian educator as an example to give you some ideas and direction. Please take the time to explore the resources linked in the notes and other resources in your Brookfield and Silberman texts. The approach taken throughout this course is an intellectually humble one. In chapters five and six Brookfield (2013) particularly addresses the power dynamic in the classroom, awareness of which may foster a more intellectually humble approach. You are encouraged to use your texts as primary resources for more detailed information about specific strategies and approaches to making a contribution as an adult educator while remaining intellectually humble.
 
-### Activity 9.4: Reading
-
+### 📘 Activity: Reading
+```{block, type='reflect'}
 Read this article: Leary, Mark & J. Diebels, Kate & K. Davisson, Erin & P. Jongman-Sereno, Katrina & Isherwood, Jennifer & Raimi, Kaitlin & Deffler, Samantha & Hoyle, Rick. (2017). Cognitive and Interpersonal Features of Intellectual Humility. *Personality and Social Psychology Bulletin. 43*. 014616721769769. 10.1177/0146167217697695.
 
 The above [article](https://journals-sagepub-com.ezproxy.student.twu.ca/doi/pdf/10.1177/0146167217697695?) can be accessed through the TWU
@@ -197,9 +200,10 @@ In your reflective journal, consider:
 - What two or three actions can you incorporate into your practice as an
 adult educator and leader to nurture your own intellectual humility and
 foster it in your students?
+```
 
-### Activity 9.5: Videos
-
+### 📺 Activity: Pinsent Videos
+```{block, type='video'}
 Watch this [video](https://youtu.be/ny5m64sjm14) (2016) where Andrew
 Pinsent, Research Director at Oxford University answers the question:
 ’Why is intellectual humility important for the flourishing of
@@ -210,6 +214,7 @@ concept of humility?’
 As you view the short video clips jot down some notes in your own words
 or any questions that you want to explore further about the topic of
 intellectual humility.
+```
 
 ## Unit 9 Summary {-}
 
@@ -223,8 +228,8 @@ educator. The culminating assignment is a platform of beliefs where this
 will be important.
 
 
-## Assessment {-}
-
+## ✏️ Assessment {-}
+```{block, type='assessment'}
 ### Unit 9 Discussion {-}
 
 After having read the introductory notes, Wheatley chapter 8 and Coda:
@@ -289,14 +294,10 @@ This paper will be 12-15 pages long, and should include:
     scholarly sources.
 
 
-#### Platform Paper Rubric {-}
-The following grading [rubric](Platform-Paper-RUBRIC.pdf) will be used to evaluate your work.
+```
 
-
-
-
-## Checking your Learning {-}
-
+## 🎯 Checking your Learning {-}
+```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit.
 
@@ -312,7 +313,7 @@ before you move to the next unit.
   - Can you describe strategies to foster intellectual humility in
     yourself and in your learning environment?
 
-
+```
 
 ## References {-}
 

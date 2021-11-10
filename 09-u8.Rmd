@@ -33,7 +33,7 @@ When you have completed this unit, you should be able to:
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
 
- | Activities|
+ | Learning Activities|
  |----|
  | Activity: View the *The Six Adult Learning Principles* video. Jot down the six principles in your reflection journal.  |
  | Activity: Read the Fenwick article. Jot down the eight categories of workplace learning in your journal.   |
@@ -105,7 +105,7 @@ how you might apply them to practice, and also how they relate to your
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v=vLJ7cRwKI-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
-### Activity: Reading
+### 📘 Activity: Reading
 
 ```{block, type='reflect'}
 Read Fenwick, T. (2010). [Workplace ‘Learning’ and Adult Education:
