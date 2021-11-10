@@ -58,11 +58,11 @@ unit-summary
 checking-your-learning-6
 resources-1
 teaching-from-depth-interconnectedness-and-integrity
-topic-1-adult-education-methods-to-teach-from-depth
+adult-education-methods-to-teach-from-depth
 activity-video-on-adult-learning-principles
 activity-reading-1
 activity-role-play
-topic-2-web-of-relationships-and-impact-on-values
+web-of-relationships-and-impact-on-values
 activity-wheatley-reading-and-reflection-2
 confidence-and-humility
 topic-1-learning-to-trust-ourselves-in-difficult-situations

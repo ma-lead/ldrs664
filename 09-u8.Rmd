@@ -42,7 +42,7 @@ These learning activities will engage you in considering the guiding questions 
  | **Assessment**: Complete your Unit 8 Discussion post.   |
  | **Assessment**: Company Website Analysis (20%). Analyze the learning culture of an organization.   |
 
-## Topic 1: Adult Education Methods to Teach from Depth
+## Adult Education Methods to Teach from Depth
 
 What does it mean to teach from depth? It connects to the principle of
 adult learning that adults are internally motivated and build on prior
@@ -130,7 +130,7 @@ community, and develop a role play to teach that concept within an
 online or face-to-face learning environment.
 ```
 
-## Topic 2: Web of Relationships and Impact on Values
+## Web of Relationships and Impact on Values
 
 We are who we are partly because of who we associate with. Perhaps you remember your parents cautioning you to choose your friends wisely.
 Perhaps you are a parent who understands this and has given similar advice to your own children. Even the contemporary business literature recommends that as adults we are aware of whom we choose to associate.
@@ -193,9 +193,9 @@ Please submit your discussion posts and responses in the **Unit 8 Discussion For
 See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
 ```
 
+```{block, type='assessment'}
 ## Assignment 2: Company Website Analysis (20%) {-}
 
-```{block, type='assessment'}
 Investigate the Human Resources or Faculty Development portion of a company's
 website, a higher education institution or adult learning facility, preferably
 one with which you are familiar. Focus on the faculty or employee development
@@ -247,9 +247,8 @@ See the Assessment section for the Grading Criteria that explains how your assig
 
 ```
 
-## Assignment 3: Platform Paper - DRAFT (30%) {-}
-
 ```{block, type='assessment'}
+## Assignment 3: Platform Paper - DRAFT (30%) {-}
 
 For this assignment, you will write a contextualized Platform Paper in which you
 discuss your ideal learning community and your role as teacher/leader of that
