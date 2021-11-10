@@ -108,7 +108,7 @@ In order to have integrity, we must know our own values and strengths, our own b
 
 > If the work we do lacks integrity for us, then we, the work, and the people we do it with will suffer. -- Palmer (2017, p. 16)
 
-### ✏️ Activity: Reflect and Respond
+###  Activity: Reflect and Respond
 ```{block, type='reflect'}
 As teachers, it’s important to identify and reflect on your own values.   
 💭 Consider why you are taking this course. Why do you want to coach/facilitate learning? What are your beliefs about learning? What are your values about learning? What are your strengths? Where do you need help?
@@ -143,7 +143,7 @@ But how is this done?
 
 In “*To Know As We Are Known,*” Palmer (1993) suggests that learning spaces must include openness, boundaries, and an air of hospitality. These learning spaces, according to Palmer (1993) can be spaces “both to be and to become” (p. 71).
 
-### ✏️ Activity: Ranking
+###  Activity: Ranking
 ```{block, type='reflect'}
 Rank the following strategies according to your comfort level. For each strategy, list one practical action you can take in an online learning environment (as facilitator or learner) to create an authentic learning space that is hospitable and open.*
 
@@ -180,7 +180,7 @@ After completing the activities above, consider the following questions:
 
 In this first unit, you have had the opportunity to think and learn about your identify and beliefs about your role as a facilitator/teacher, and consider key elements of authentic learning communities. The hunger for authentic human relationships and authentic learning can and should compel us to consider our own identity and integrity, both as teachers and learners. In our next unit, we will explore ideas related to vulnerability in leadership, and learning to be “at home” with ourselves so we can, in turn, lead and teach others.
 
-## ✏️ Assessment{-}
+##  Assessment{-}
 ```{block, type='assessment'}
 ### Unit 1 Discussion {-}
  After completing this unit, including the learning activities, you are asked to write a discussion post on the following:

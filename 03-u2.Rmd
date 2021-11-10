@@ -132,7 +132,7 @@ As you read Brown (2017) Chapter 2, answer the following questions in your Refle
 - As you prepare your discussion post, refer to these notes.
 ```
 
-### ✏️ Activity: Sharing your Identity
+###  Activity: Sharing your Identity
 ```{block, type='reflect'}
 
 Being vulnerable involves sharing something of our true selves, which we might not always be comfortable doing in certain environments. In your Reflective Learning Journal, consider a time when you were your “true self” in a professional or personal setting in which you wondered if you really “belonged.” Perhaps this is a time when shared your spoke up about an issue that was important to you, lead a team in a new direction, or created a process that felt more authentic to you. What part of yourself did you share? How did this make you feel vulnerable? What were the results?
@@ -149,7 +149,7 @@ Leadership, like teaching, relies not just on the relationships that teachers fo
 These relationships will form the basis for learning in the classroom. Learning is, at its heart, a personal activity. Learners often experience vulnerability as they enter into (and continue through) the learning experience, wondering if they belong, if they are up to the challenge, and if they will succeed.
 
 
-### 🎵 Activity: Listen and Reflect
+###  Activity: Listen and Reflect
 ```{block, type='video'}
 
 Listen to “Brave” sung by Sara Bareilles.
@@ -166,7 +166,7 @@ Listen to “Brave” sung by Sara Bareilles.
 3.  How will I create a learning community that allows learners to share their thoughts authentically?
 ```
 
-### ✏️ Activity: Self-Test (non-graded)
+###  Activity: Self-Test (non-graded)
 ```{block, type='assessment'}
 
 Take the [Clance Imposter Phenomenon test](http://paulineroseclance.com/pdf/IPscoringtest.pdf). As you take the test, consider the areas in which you feel vulnerable in your work as a learner. How would you address these concerns for learners in courses you facilitate?
@@ -203,7 +203,7 @@ As you complete this exercise, take detailed notes in your Reflective Learning J
 
 In this unit, we have explored the importance of identity, authenticity, and vulnerability in creating authentic learning communities. Our own identity as a teacher will go with us into the classroom, and we will be able to build on our own abilities to create connections as we share our authentic selves with students. In the next unit, we will focus on strategies to create a sense of belonging among students, building on our own understanding of vulnerability to create spaces where students, too, can bring their authentic selves to the learning experience.
 
-## ✏️ Assessment{-}
+##  Assessment{-}
 ```{block, type='assessment'}
 
 ### Unit 2 Discussion{-}

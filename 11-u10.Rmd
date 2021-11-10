@@ -88,7 +88,7 @@ that offer mutual support and opportunities to develop a shared vision”
 
 
 
-### 🎵 Activity: Closing Song
+###  Activity: Closing Song
 ```{block, type='video'}
 
 As a closing activity, enjoy listening to this song. The whole effort of
@@ -149,7 +149,7 @@ grow within you a greatness of vision, stir your spirit so that you can
 see and love the common good more, and create an environment where all
 whom you serve can thrive.
 
-## ✏️ Assessment {-}
+##  Assessment {-}
 ```{block, type='assessment'}
 
 ### Assignment 3: Platform Paper (30%)

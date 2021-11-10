@@ -50,7 +50,7 @@ Figuring out how our identity impacts the learning environment involves discerni
 8. How do I treat others?
 
 
-###  ✏️ Activity: Wheatley Reading and Reflection
+###   Activity: Wheatley Reading and Reflection
 
 ```{block, type='reflect'}
 Read Wheatley, M. (2017). *Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Opening pages 2-25; Chapters 1 (pages 28-61 and 2 (pages 63-97). As you read these pages think about a teacher, instructor or professor who is/was a leader in your eyes - someone you’ve most admired. What were their behaviours? How did you feel in their classroom? What kind of student were you, including the quality of what you produced? How do you feel about them now?
@@ -92,7 +92,7 @@ Skillful adult educators try to avoid what Lipmanowicz and McCandless
 
 By incorporating liberating structures or those suggested by Brookfield and Silberman, you will indeed avoid methods and processes that stifle. Instead, you will liberate learners to express themselves and be transformed into agents of transformation. Strategies for engagement build confidence and can have a strong, positive impact on self-efficacy and identity in the sense of empowering learners to take action. As an adult educator you have a role of equipping leaders – whether for self-leadership or leadership with others. This broader view of the role can also be purpose-filled and motivating so embrace and enjoy it!
 
-### ✏️ Activity: Strategies for Supporting Learners
+###  Activity: Strategies for Supporting Learners
 
 ```{block, type='reflect'}
 > The belief in technology to fix the messes we’ve made and to save us from decline has been labeled by Ronald Wright, ‘The Progress Trap’ (Wheatley, p. 41).
@@ -109,7 +109,7 @@ Browse through the Brookfield, Silberman texts and the [*Liberating Structures* 
 In this unit, you have had the opportunity to learn about the adult educator as authentic leader and facilitator in the learning environment. You have considered the impact of identity in a learning environment and the adult educator as creator and leader of a learner centered environment.
 
 
-## ✏️ Assessment {-}
+##  Assessment {-}
 ```{block, type='assessment'}
 ### Unit 6 Discussion
 After completing this unit, including the learning activities, you are asked to choose one of the two themes to write on:

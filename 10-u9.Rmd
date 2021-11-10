@@ -123,7 +123,7 @@ and what you believe is worth doing as an adult educator.
 ```
 
 
-### 🤔  Activity: Did You Know?
+###   Activity: Did You Know?
 ```{block, type='reflect'}
 We will learn to trust ourselves more and build our confidence if we are
 able to convince even ourselves of our own self-efficacy! Watch this
@@ -219,7 +219,7 @@ As you view the short video clips jot down some notes in your own words or any q
 In this unit, you have had the opportunity to learn about the role of trust, confidence and intellectual humility in the practice and dispositions of the adult educator. You have considered your values as an individual as well as an educator and further defined your role and purpose as an adult educator. As you move on to the last unit of this course, consider your values and how you view your role as an adult educator. The culminating assignment is a platform of beliefs where this will be important.
 
 
-## ✏️ Assessment {-}
+##  Assessment {-}
 ```{block, type='assessment'}
 ### Unit 9 Discussion {-}
 

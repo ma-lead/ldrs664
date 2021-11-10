@@ -50,7 +50,7 @@ According to Brower & Dettinger (1998), “Learning communities, to be considere
 
 As you consider the learning community you will facilitate, consider how you might develop or model professional, ethical, and civic responsibility within that community. Do you think leaders should develop these same areas of responsibility with the organizations or companies they lead?
 
-### ✏️ Activity: Compare Community Models
+###  Activity: Compare Community Models
 
 ```{block, type='reflect'}
 
@@ -136,7 +136,7 @@ The learning community models we have considered in this unit share some similar
 
 Palmer (2017) puts it this way: “The reality we belong to, the reality we long to know, extends far beyond human beings interacting with one another… This is a community held together not only by our personal powers of thought and feeling but also by the power of ‘the grace of great things’” (p. 109). As Palmer (2017) points out, learning includes both thought (cognitive) and feeling (social), but also something beyond those – the overarching spiritual nature of life and learning.
 
-## ✏️ Assessment {-}
+##  Assessment {-}
 ```{block, type='assessment'}
 ### Unit 4 Discussion
 

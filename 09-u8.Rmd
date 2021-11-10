@@ -117,7 +117,7 @@ you are interested. Consider how these categories connect with the adult
 learning principles you looked at in your website analysis assignment.
 ```
 
-### 🧑🏽‍🤝‍🧑🏻 Activity: Role Play
+###  Activity: Role Play
 
 ```{block, type='reflect'}
 Practice using role play by planning a teaching and learning activity
@@ -168,7 +168,7 @@ leading to growth and transformation. When we are intentional about
 doing this, we develop our web of interconnectedness and strengthen our
 personal and professional integrity. Powerful indeed\!
 
-## ✏️ Assessment {-}
+##  Assessment {-}
 ```{block, type='assessment'}
 ### Unit 8 Discussion {-}
 

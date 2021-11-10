@@ -148,7 +148,7 @@ questions:
     for students to express their fears?
 ```
 
-### 🎵 Activity: Listen and Reflect
+###  Activity: Listen and Reflect
 ```{block, type='video'}
 Listen to *A Place in this World*, sung by Taylor Swift.
 
@@ -176,7 +176,7 @@ form connections with other learners. In the next unit, we will move
 from the philosophical and self-reflective to explore practical
 strategies for creating authentic learning communities.
 
-## ✏️ Assessment{-}
+##  Assessment{-}
 ```{block, type='assessment'}
 
 ### Unit 3 Discussion

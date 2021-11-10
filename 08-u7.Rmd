@@ -148,7 +148,7 @@ As you view this 18 minute video, consider the following:
 
 ```
 
-## ✏️ Assessment {-}
+##  Assessment {-}
 ```{block, type='assessment'}
 ### Unit 7 Discussion
 After viewing Fett’s Ted Talk (Sept. 2017), write a discussion post on the
