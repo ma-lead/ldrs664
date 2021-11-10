@@ -13,6 +13,7 @@ to an analysis of a company’s adult learning initiatives.
 
 2.  Web of Relationships and Impact on Values
 
+
 ## 🎯 Learning Outcomes{-}
 
 When you have completed this unit, you should be able to:
@@ -34,13 +35,12 @@ These learning activities will engage you in considering the guiding questions 
 
  | Activities|
  |----|
- | Activity 8.1: View the [The Six Adult Learning Principles](https://youtu.be/vLJ7cRwKI-I) video. Jot down the six principles in your reflection journal.  |
- | Activity 8.2: Read the Fenwick article. Jot down the eight categories of workplace learning in your journal.   |
- | Activity 8.3: Practice using role play by planning a teaching and learning activity that utilizes role play.    |
- | Activity 8.4: Complete website analysis assignment. (20%)   |
- | Activity 8.5: Read Wheatley chapter 6 and take notes in your reflection journal.   |
- | Activity 8.6: Complete your Unit 8 Discussion post.   |
- | Assignment 2: Company Website Analysis (20%). Analyze the learning culture of an organization.   |
+ | Activity: View the *The Six Adult Learning Principles* video. Jot down the six principles in your reflection journal.  |
+ | Activity: Read the Fenwick article. Jot down the eight categories of workplace learning in your journal.   |
+ | Activity: Practice using role play by planning a teaching and learning activity that utilizes role play.    |
+ | Activity: Read Wheatley chapter 6 and take notes in your reflection journal.   |
+ | **Assessment**: Complete your Unit 8 Discussion post.   |
+ | **Assessment**: Company Website Analysis (20%). Analyze the learning culture of an organization.   |
 
 ## Topic 1: Adult Education Methods to Teach from Depth
 
@@ -91,38 +91,33 @@ Among the many examples in Brookfield’s *Discussion Book* some of the strategi
 I encourage you to review these particular strategies and add to your proverbial ‘toolkit’.
 
 
-### Activity 8.1: Video
-
+### 📺 Activity: Video on Adult Learning Principles
 ```{block, type='reflect'}
 
-:fa-film: View: Cason Smith, "The Six Adult Learning
-Principles."
+Watch Cason Smith's, *The Six Adult Learning Principles*.
 
-[plugin:youtube](https://www.youtube.com/watch?v=vLJ7cRwKI-I)
-
-:fa-pencil: As you view this video, jot down the principles in your reflection
+As you view this video, jot down the principles in your reflection
 journal for future reference when you complete the company website
 analysis assignment. Reflect one or two of these principles and consider
 how you might apply them to practice, and also how they relate to your
 “Philosophy of Learning Communities” you developed in Unit 5.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=vLJ7cRwKI-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
-### Activity 8.2: Reading
+### Activity: Reading
 
 ```{block, type='reflect'}
-
-
 Read Fenwick, T. (2010). [Workplace ‘Learning’ and Adult Education:
-Messy Objects, blurry maps and making difference.](Fenwick_2010.pdf) *European Journal for Research on the Education and Learning of Adults.* *I,* 79-95.
+Messy Objects, blurry maps and making difference.](/assets/unit8/Fenwick_2010.pdf) *European Journal for Research on the Education and Learning of Adults.* *I,* 79-95.
 
 As you read this article, focus on the eight categories of workplace
 learning beginning on page 81 and only read the rest of the article if
 you are interested. Consider how these categories connect with the adult
 learning principles you looked at in your website analysis assignment.
-
 ```
 
-### Activity: Role Play
+### 🧑🏽‍🤝‍🧑🏻 Activity: Role Play
 
 ```{block, type='reflect'}
 Practice using role play by planning a teaching and learning activity
@@ -139,12 +134,13 @@ online or face-to-face learning environment.
 
 We are who we are partly because of who we associate with. Perhaps you remember your parents cautioning you to choose your friends wisely.
 Perhaps you are a parent who understands this and has given similar advice to your own children. Even the contemporary business literature recommends that as adults we are aware of whom we choose to associate.
+
 In her book *Executive Presence*, Sylvia Ann Hewlett (2014) emphasizes how connections are fostered through eye contact, ‘commanding a room’ and ‘right-sizing your reputation’. To deepen gravitas, the chief component of executive presence, she suggests “living intentionally, guided by a set of values… surround[ing] yourself with people who are better than you… [and] empower[ing] others’ presence to build your own” (p. 40-41). Our interconnectedness and relationships incrementally construct a living, learning, self-organizing group or organization (Wheatley, p. 226-240). Chapter 6 encourages us to prioritize collaboration, belonging and community. As adult educators and transformational servant leaders, we should heed this call to action for the benefit of our learners.
 
 Who we associate with impacts our values and our values have the potential to impact those with whom we associate. Being reliable, consistently following through on commitments is a foundational value that impacts and is impacted by the web of relationships we encounter in our work and life generally. Lytkina Botelho et al. (2017) did a ten-year study that identified specific attributes of high-performing CEOs. I would suggest that one of the attributes in particular can also describe high-performing adult educators and learners, that is, ‘delivering reliably’ (p. 10): “The ability to reliably produce results was possibly the most powerful of the four essential CEO behaviors.” (I encourage you to read the [article](https://hbr.org/2017/05/what-sets-successful-ceos-apart) to learn more about the other essential behaviors for CEO success: deciding with speed and conviction, engaging for impact and adapting proactively.). Consider how your values are impacted by your associates and how your values impact others. Wheatley emphasizes the power of this network: “people adopt the mores of a culture, even those that contradict their personal values. … The culture is in control, and most people unconsciously adapt” (p. 229). She encourages us to be conscious in our rebellion and reclaim life-affirming identities by being “fully engaged, carefully observing what’s going on as we do our work, learning from experience, applying those learnings, adapting, changing” (p. 231). How might you foster life-affirming identities in your particular learning environment?
 
 
-### Activity: Read and Reflect
+### 📘 Activity: Wheatley Reading and Reflection
 
 ```{block, type='reflect'}
 Read Chapter 6 (pages 211-243) of Wheatley, M. (2017). *Who Do We Choose
@@ -152,9 +148,10 @@ to Be: Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland,
 CA: Berrett-Koehler Publishers.
 
 As you read this chapter think about Archbishop Desmond Tutu’s comment
-“We exist in a bundle of life. We say, ‘A person is a person through
-other people.’ It is not ‘I think therefore I am’ \[but rather\] I am
-human because I belong. I participate, I share” (Wheatley, p. 223).
+
+>We exist in a bundle of life. We say, ‘A person is a person through
+other people.’ It is not ‘I think therefore I am’ [but rather] I am
+human because I belong. I participate, I share (Wheatley, p. 223).
 ```
 
 
@@ -184,15 +181,16 @@ b) Demonstrate your network of relationships and annotate with the key
 values or wisdom you have learned from each person.
 
 c) Because of the influence of these individuals on your values, choose
-two strategies from Brookfield or Silberman and show how they align with these values. (Choose strategies not previously described in your discussion posts.) 
+two strategies from Brookfield or Silberman and show how they align with these values. (Choose strategies not previously described in your discussion posts.)
 
 Create a concept map to show your networks of relationships using free
 Web 2.0 tools such as [bubbl.us](https://bubbl.us/) or [popplet.com](http://popplet.com/), or draw a concept map on
 paper, take a picture and include it in your post. Reflect on how this
 relates to your teaching/facilitating work.
 
-Respond to at least two of your peers' posts.
+Please submit your discussion posts and responses in the **Unit 8 Discussion Forum** in Moodle.
 
+See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
 ```
 
 ## Assignment 2: Company Website Analysis (20%) {-}
@@ -323,15 +321,12 @@ See the Assessment section for the Grading Criteria that explains how your assig
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit. Can you:
 
-  - analyze the effectiveness of training and employee development?
-
+  - analyze the effectiveness of training and employee development?  
   - explain how to teach and lead for depth using discussion strategies
-    and compelling, provocative questions?
-
+    and compelling, provocative questions?  
   - evaluate adult education methods considering impact on
-    organizational culture?
-
-  - articulate your personal web of relationship and impact on values?
+    organizational culture?  
+  - articulate your personal web of relationship and impact on values?  
 ```
 
 ## References {-}
@@ -354,13 +349,3 @@ San Francisco: Jossey-Bass.
 Wheatley, M. (2017). *Who do we choose to be: Facing reality, claiming
 leadership, restoring sanity*. Oakland, CA. Berrett-Koehler Publishers
 Inc.
-
-
-
-<div class="video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_4kHxtiuML0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>
-<strong><a href="https://www.youtube.com/embed/_4kHxtiuML0" class="uri">https://www.youtube.com/embed/_4kHxtiuML0</strong></a>
-</center>
-</div>
-</div>
