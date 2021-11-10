@@ -39,7 +39,7 @@ These learning activities will engage you in considering the guiding questions 
 | **Assessment**: Submit your final draft of platform paper, incorporating Peer Feedback from last week (30%).    |
 
 
-## Topic 1: Teaching, Learning and Context
+## Teaching, Learning and Context
 
 What is your ideal learning environment? You can learn a lot about your own teaching style from the way you like to be taught. Thinking about teachers you’ve liked will also give you clues to the sorts of things that are important to you, such as using critical thinking, humour, precise details, or visual reinforcement in the lesson. These are practical aspects of the role that you need to consider in addition to the methods and strategies you have been reading about in the course and in other certificate courses.
 
@@ -54,7 +54,7 @@ you like these facilitation techniques and what they say about your
 teaching and learning style.
 ```
 
-###   Activity: Learning Styles Video
+### Activity: Learning Styles Video
 ```{block, type='reflect'}
 
 Watch this 5 minute video about the 4
@@ -69,7 +69,7 @@ learners’ lives?
 
 ```
 
-## Topic 2: Administrative and Supervisory Aspects of an Adult Educator
+## Administrative and Supervisory Aspects of an Adult Educator
 
 Teaching a group of learners also involves non-instructional duties. Sometimes there is a tension between our philosophical beliefs about authentic teaching and learning and the organizational realities we face. In addition to creating authentic learning experiences, your teaching responsibilities will often require you to track and report on learners’ progress, submit grades or summary reports to the organization, order textbooks or supplies, work with an assistant such as a learning coach or teacher assistant, book classrooms…. The possibilities are many\!
 
