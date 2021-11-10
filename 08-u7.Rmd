@@ -70,7 +70,7 @@ As you read answer the following questions in your Reflective Learning Journal:
 - How does this relate specifically to your present or future context?
 ```
 
-### 📺 Activity: Wheatley Video
+###  Activity: Wheatley Video
 ```{block, type='video'}
 View Margaret Wheatley's *Islands of Sanity* (42 minutes).
 
@@ -135,7 +135,7 @@ influences others to do the same.
 For more information about servant leadership, please see the resource section
 for this unit.
 
-### 📺 Activity: Servant Leadership Video
+###  Activity: Servant Leadership Video
 ```{block, type='reflect'}
 Watch the video, *Ali Fett: Servant Leadership - How a jar can change the way
 you lead and serve*.

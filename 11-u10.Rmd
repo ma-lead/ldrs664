@@ -54,7 +54,7 @@ you like these facilitation techniques and what they say about your
 teaching and learning style.
 ```
 
-###  📺 Activity: Learning Styles Video
+###   Activity: Learning Styles Video
 ```{block, type='reflect'}
 
 Watch this 5 minute video about the 4

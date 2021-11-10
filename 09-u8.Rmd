@@ -91,7 +91,7 @@ Among the many examples in Brookfield’s *Discussion Book* some of the strategi
 I encourage you to review these particular strategies and add to your proverbial ‘toolkit’.
 
 
-### 📺 Activity: Video on Adult Learning Principles
+###  Activity: Video on Adult Learning Principles
 ```{block, type='reflect'}
 
 Watch Cason Smith's, *The Six Adult Learning Principles*.

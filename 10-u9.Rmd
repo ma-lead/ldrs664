@@ -123,7 +123,7 @@ and what you believe is worth doing as an adult educator.
 ```
 
 
-### 🤔📺  Activity: Did You Know?
+### 🤔  Activity: Did You Know?
 ```{block, type='reflect'}
 We will learn to trust ourselves more and build our confidence if we are
 able to convince even ourselves of our own self-efficacy! Watch this
@@ -197,7 +197,7 @@ adult educator and leader to nurture your own intellectual humility and
 foster it in your students?
 ```
 
-### 📺 Activity: Pinsent Videos
+###  Activity: Pinsent Videos
 ```{block, type='video'}
 Watch this video (2016) where Andrew
 Pinsent, Research Director at Oxford University answers the question:
