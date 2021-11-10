@@ -112,7 +112,7 @@ self-knowledge and will research the strategies and methods as well as
 the content that will be most helpful for their learners to be
 successful.
 
-### Activity: Read and Reflect
+### 📘 Activity: Read and Reflect
 ```{block, type='reflect'}
 
 Read Wheatley, M. (2017). *Who Do We Choose to Be?: Facing Reality,
@@ -133,13 +133,15 @@ quoted in Wheatley p. 294:
 > Humans have a responsibility to find themselves where they are, in their own proper time and place, in the history to which they belong and to which they must inevitably contribute either their response or their evasions, either truth and act, or mere slogan and gesture.
 ```
 
-### Activity 9.3: Did You Know?
+### 🤔📺  Activity 9.3: Did You Know?
 ```{block, type='reflect'}
 We will learn to trust ourselves more and build our confidence if we are
-able to convince even ourselves of our own self-efficacy\! Watch this
-[video](https://youtu.be/Xlg8zdSVjgg) (2014) ‘How to create interest and
-connect with anyone’ by Sam Horn. The process described in this TedXtalk
-teaches the power of three ‘did you know’ questions followed by three
+able to convince even ourselves of our own self-efficacy! Watch this
+video (2014) ‘How to create interest and connect with anyone’ by Sam Horn.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xlg8zdSVjgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The process described in this TedXtalk teaches the power of three ‘did you know’ questions followed by three
 attributes or solutions as a way to connect with others and help them
 understand what’s important to you and how you can help them.
 
@@ -207,12 +209,16 @@ foster it in your students?
 
 ### 📺 Activity: Pinsent Videos
 ```{block, type='video'}
-Watch this [video](https://youtu.be/ny5m64sjm14) (2016) where Andrew
+Watch this video (2016) where Andrew
 Pinsent, Research Director at Oxford University answers the question:
-’Why is intellectual humility important for the flourishing of
-persons?' Then watch this [video](https://youtu.be/j25KL5qw_tY) (2016)
-where he answers the question: ‘What is still interesting about Aquinas’
-concept of humility?’
+"Why is intellectual humility important for the flourishing of
+persons?"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ny5m64sjm14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Then watch this video (2016)
+where he answers the question: "What is still interesting about Aquinas’
+concept of humility?"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j25KL5qw_tY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As you view the short video clips jot down some notes in your own words
 or any questions that you want to explore further about the topic of
@@ -240,7 +246,7 @@ After having read the introductory notes, Wheatley chapter 8 and Coda:
 Write 300 words in response to the following quote by Thomas Merton,
 quoted in Wheatley p. 294:
 
-!!! “Humans have a responsibility to find themselves where they are, in their own proper time and place, in the history to which they belong and to which they must inevitably contribute either their response or their evasions, either truth and act, or mere slogan and gesture.”
+> “Humans have a responsibility to find themselves where they are, in their own proper time and place, in the history to which they belong and to which they must inevitably contribute either their response or their evasions, either truth and act, or mere slogan and gesture.”
 
 
 ## Assignment 3: Platform Paper - Peer Review Feedback (30%) {-}
@@ -296,7 +302,9 @@ This paper will be 12-15 pages long, and should include:
 -   **References:** Include a reference list with references to at least 10
     scholarly sources.
 
+Please submit your feedback to your peer by emailing them through Moodle or their TWU account. 
 
+See the Assessment section for the Grading Criteria that explains how your assignment will be evaluated.
 ```
 
 ## 🎯 Checking your Learning {-}

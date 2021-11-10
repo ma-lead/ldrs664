@@ -38,7 +38,6 @@ These learning activities will engage you in considering the guiding questions 
 | **Assessment**: Complete your Unit 10 Discussion post.   |
 | **Assessment**: Submit your final draft of platform paper, incorporating Peer Feedback from last week (30%).    |
 
-                                    |
 
 ## Topic 1: Teaching, Learning and Context
 
@@ -58,13 +57,16 @@ teaching and learning style.
 ###  📺 Activity: Learning Styles Video
 ```{block, type='reflect'}
 
-Watch [this 5 minute video](https://youtu.be/5mApEVWZESA) about the 4
+Watch this 5 minute video about the 4
 Adult Learning Styles explained with JC Melvin.
 
 As you watch, consider how you can best get through to learners. What
 activities might you use to motivate, inform, coach for implementation
 and evaluate how the information will be applicable and helpful in
 learners’ lives?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5mApEVWZESA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ```
 
 ## Topic 2: Administrative and Supervisory Aspects of an Adult Educator
@@ -84,36 +86,6 @@ more,’* finding a center for their lives outside of institutions” and
 that offer mutual support and opportunities to develop a shared vision”
 (pp. 172-3).
 
-### Activity: Platform Paper (30%)
-
-This is a two-part assignment. Please organize your paper with
-subheadings according to the following.
-
-Part A:
-
-In the first part, consider teaching, learning and context with a focus
-on learning communities. In this section depict your ideal adult
-learning environment in all its facets. Consider student outcomes,
-instructional climate, instructional organization, community, personal
-beliefs. Draw on your philosophy of learning communities from Unit 5 and
-one of the three learning community models discussed in units 4-5.
-
-Part B:
-
-In the second part, consider the administrative or supervisory aspects
-of your role as an adult educator. Describe the means to realize these
-educational goals. In what ways will you achieve the vision? What will
-be your routine behaviours?
-
-You are encouraged to write a contextualized platform grounded in your
-experience and to consider this as a realistic rather than hypothetical
-exercise.
-
-You will write and post a draft to Moodle for peer review. Peer
-reviewers will be assigned in advance. It is important to keep the
-rubric in mind as you complete your peer review.
-
-Rubric for this assignment [here](PlatformPaper_RUBRIC.pdf).
 
 
 ### 🎵 Activity: Closing Song
@@ -226,9 +198,9 @@ This paper will be 12-15 pages long, and should include:
     scholarly sources.
 
 
-#### Platform Paper Rubric {-}
-The following grading [rubric](Platform-Paper-RUBRIC.pdf) will be used to evaluate your work.
+Please submit your assignment in the **Platform Paper - FINAL DRAFT** dropbox in Moodle.
 
+See the Assessment section for the Grading Criteria that explains how your assignment will be evaluated.
 
 ```
 

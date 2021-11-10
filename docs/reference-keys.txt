@@ -73,7 +73,6 @@ topic-1-teaching-learning-and-context
 activity-sticky-note-challenge
 activity-learning-styles-video
 topic-2-administrative-and-supervisory-aspects-of-an-adult-educator
-activity-platform-paper-30
 activity-closing-song
 assignment-platform-paper
 section
