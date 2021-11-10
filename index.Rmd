@@ -7,6 +7,9 @@ url: https://ma-lead.github.io/ldrs664
 biblio-style: apalike
 ---
 
+```{block, type='video'}
+<iframe width="560" height="315" src="https://forms.office.com/r/pwaw86GHJ1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
 
 # Course Description{-}
 
