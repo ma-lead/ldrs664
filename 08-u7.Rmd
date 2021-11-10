@@ -20,7 +20,7 @@ When you have completed this unit you should be able to:
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
-| **Activities**|
+| **Learning Activities**|
 |----|
 | Activity: Read assigned pages from Wheatley chapters 3, 5 and 7 and take notes in your journal.  |
 | Activity: View Wheatley video [Islands of Sanity](https://youtu.be/LtaYNxp56gs).   |
@@ -62,7 +62,7 @@ In this sense, adult educators are called to be warriors for the human spirit. R
 ### 📘 Activity: Wheatley Reading and Reflection
 
 ```{block, type='reflect'}
-Read Wheatley, M. (2017). *Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Wheatley chapters 3 (pages 100-139),  5 (pages 172-209 ) and 7 (pages 252-270).
+Read Wheatley, M. (2017). *Who Do We Choose to Be? Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Wheatley chapters 3 (pages 100-139),  5 (pages 172-209 ) and 7 (pages 252-270).
 
 As you read answer the following questions in your Reflective Learning Journal:
 
@@ -139,9 +139,10 @@ for this unit.
 ```{block, type='reflect'}
 Watch the video, *Ali Fett: Servant Leadership - How a jar can change the way
 you lead and serve*.
-As you view this 18 minute video, consider the following:
--   How might assumption and perceptions impact your role as an adult educator?
--   How are adult educators servant leaders?
+
+As you view this 18 minute video, consider the following:  
+-   How might assumption and perceptions impact your role as an adult educator?  
+-   How are adult educators servant leaders?  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1vIPrR_clEg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -180,7 +181,7 @@ skills-focused view of education. This can lead to a sense of fulfillment and
 flourishing built on a greater purpose.
 
 
-## Checking your Learning
+## 🎯 Checking your Learning
 ```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding before
 you move to the next unit. Can you:

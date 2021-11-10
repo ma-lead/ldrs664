@@ -82,11 +82,11 @@ studies are utilized so that the learner’s life experiences are bridged
 via the imaginary situation, challenging the learner to construct and
 integrate new meaning while being solutions-focused.
 
-Among the many examples in Brookfield’s *Discussion Book* some of the strategies that foster teaching for depth include:
-- Snowballing p. 49,
-- Critical Incident Questionnaire (CIQ) p. 59,
-- Nominating Questions p. 77 and
-- Writing Discussion p. 157.
+Among the many examples in Brookfield’s *Discussion Book* some of the strategies that foster teaching for depth include:  
+- Snowballing p. 49,  
+- Critical Incident Questionnaire (CIQ) p. 59,  
+- Nominating Questions p. 77 and  
+- Writing Discussion p. 157.  
 
 I encourage you to review these particular strategies and add to your proverbial ‘toolkit’.
 
@@ -196,24 +196,17 @@ See the Assessment section for the Grading Criteria that explains how your discu
 ## Assignment 2: Company Website Analysis (20%) {-}
 
 ```{block, type='assessment'}
-
-#### Instructions
-
 Investigate the Human Resources or Faculty Development portion of a company's
 website, a higher education institution or adult learning facility, preferably
 one with which you are familiar. Focus on the faculty or employee development
 part of the website. In this assignment, you will apply the theory of teaching
 in/for/with depth by analyzing the learning culture of an organization.
-Here are some examples to get you started:
 
-  - McDonald’s:
-    <https://www.mcdonalds.com/ca/en-ca/careers/training-and-benefits.html>
+Here are some examples to get you started:  
+  - [McDonald’s](https://www.mcdonalds.com/ca/en-ca/careers/training-and-benefits.html)  
+  - [TD Bank](https://jobs.td.com/en-CA/why-choose-us/training-development/)  
+  - [Starbucks](http://www.starbucks.com.hk/about-us/become-a-partner/learning-and-development)  
 
-  - TD Bank:
-    <https://jobs.td.com/en-CA/why-choose-us/training-development/>
-
-  - Starbucks:
-    <http://www.starbucks.com.hk/about-us/become-a-partner/learning-and-development>
 In a 4-5 page APA formatted paper, analyze the website by responding to the
 following questions in your report:
 
@@ -234,7 +227,7 @@ following questions in your report:
     (see Smith YouTube video). What specific adult learning strategies do you
     see reflected in the development/training opportunities for employees?
 
-Your paper should be 4-5 pages and should incorporate references to at least
+Your paper should incorporate references to at least
 five scholarly sources you have studied in this course, or other scholarly
 sources you have identified.
 
