@@ -31,7 +31,7 @@ Here is a checklist of learning activities you will benefit from in
 completing this unit. You may find it useful for planning your
 work.
 
-| ☑  | **Activities**                                                                       |
+| ☑  | **Learning Activities**                                                                       |
 |  | ------------------------------------------------------------------------------------ |
 |  | Activity 10.1: Add sticky notes to your textbooks.                                   |
 |  | Activity 10.2: Watch video about adult learning styles.                              |
@@ -177,14 +177,6 @@ whom you serve can thrive.
 
 ## ✏️ Assessment {-}
 ```{block, type='assessment'}
-
-### Unit 10 Discussion {-}
-
-
-Questions??
-
-
-
 
 ### Assignment 3: Platform Paper (30%)
 
