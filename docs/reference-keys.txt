@@ -3,8 +3,11 @@ fig:unnamed-chunk-9
 communication-tools
 the-heart-of-a-teacher
 authenticity-in-teaching-and-learning
+activity-reading
 identity-and-integrity-as-a-coachfacilitator
+activity-reflect-and-respond
 creating-authentic-learning-spaces
+activity-ranking
 belonging-to-ones-self
 belonging-to-myself
 activity-who-are-you
@@ -75,4 +78,3 @@ activity-learning-styles-video
 topic-2-administrative-and-supervisory-aspects-of-an-adult-educator
 activity-closing-song
 assignment-platform-paper
-section

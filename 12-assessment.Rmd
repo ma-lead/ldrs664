@@ -44,7 +44,7 @@ See the following rubric that explains how your assignment will be evaluated. Al
 
 **Exemplary:** Provides a clear, concise, and powerful statement about identity as a teacher/facilitator. Statement incorporates theory or research from course materials.
 
-###DEVELOPING A COHESIVE AND LOGICAL ACADEMIC ARGUMENT {-}
+### DEVELOPING A COHESIVE AND LOGICAL ACADEMIC ARGUMENT {-}
 **Unsatisfactory:** Does not make a focused, cohesive, or logical academic argument. Paper is confusing, and is missing an introduction, body, or conclusion. Transitions between sections and ideas are missing. 
 
 **Developing:** Makes an academic argument that is only partially focused, cohesive and logical. Paper is generally organized, but is missing an introduction, body, or conclusion. Transitions between sections and ideas are unclear.
@@ -55,16 +55,22 @@ See the following rubric that explains how your assignment will be evaluated. Al
 
 ### ANALYSIS OF IDENTITY AS A TEACHER {-} 
 **Unsatisfactory:** Does not include three important aspects of identity as a teacher/facilitator.  Does not include an analysis.
+
 **Developing:** Lists but does not discuss three important aspects of identity as a teacher/facilitator. Includes a partial analysis.
+
 **Proficient:** Includes a detailed discussion of three important aspects of identity as a teacher/facilitator. Includes thoughtful analysis of each of the three elements. 
 
 **Exemplary:** Includes a detailed discussion of three important aspects of identity as a teacher/facilitator.  Includes a thoughtful analysis, integrating scholarly literature to support analysis and furthering scholarly thinking related to teacher identity.
 
 ### SCHOLARLY INTEGRATION {-} 
 **Unsatisfactory:** Does not integrate references to support claims and assertions made in the paper.
+
 **Developing:** Integrates references to support some of the claims and assertions made in the paper.
+
 **Proficient:** Integrates references to support claims and assertions made in the paper.
+
 **Exemplary:** Integrates references to support claims and assertions made in the paper, effectively synthesizing different perspectives and research results from scholarly sources. 
+
 |**TOTAL**|**0 = 0% (F)**|**10 = 50% (C)**|**15 = 75 (B)**|**20 = 100% (A+)**|
 
 ## Assignment: Company Website Analysis {-}
