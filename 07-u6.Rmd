@@ -11,7 +11,7 @@ In this unit we will consider the impact of identity in a learning environment a
 2. The Adult Educator as Creator and Leader of a Learner Centered Learning Environment
 
 
-## 🎯 Learning Outcomes {-}
+##  Learning Outcomes {-}
 
 When you have completed this unit you should be able to:
 
@@ -128,7 +128,7 @@ Please submit your discussion posts and responses in the **Unit 6 Discussion For
 See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
 ```
 
-## 🎯 Checking your Learning {-}
+##  Checking your Learning {-}
 ```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit. Can you:

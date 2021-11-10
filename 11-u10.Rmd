@@ -13,7 +13,7 @@ Now it is time to develop a personal philosophy of Learning Communities, explori
 2.  Administrative and Supervisory Aspects of an Adult Educator
 
 
-## 🎯 Learning Outcomes: {-}
+##  Learning Outcomes: {-}
 
 When you have completed this unit you should be able to:
 
@@ -204,7 +204,7 @@ See the Assessment section for the Grading Criteria that explains how your assig
 
 ```
 
-## 🎯 Checking your Learning {-}
+##  Checking your Learning {-}
 ```{block, type='progress'}
 
 Use the learning outcomes for this unit as a checklist of understanding

@@ -23,7 +23,7 @@ Unit 1 focuses on two guiding questions:
 
 
 
-## 🎯 Learning Outcomes{-}
+##  Learning Outcomes{-}
 
 When you have completed this unit you should be able to:
 
@@ -200,7 +200,7 @@ Please submit your discussion posts and responses in the **Unit 1 Discussion For
 See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
 ```
 
-## 🎯 Checking your Learning{-}
+##  Checking your Learning{-}
 ```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 

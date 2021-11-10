@@ -19,7 +19,7 @@ In this unit, our topics explore three different models of learning communities.
 3.  Trinity Community of Inquiry (Madland, 2017)
 
 
-## 🎯 Learning Outcomes{-}
+##  Learning Outcomes{-}
 
 When you have completed this unit you should be able to:
 
@@ -150,7 +150,7 @@ See the Assessment section for the Grading Criteria that explains how your discu
 
 ```
 
-### 🎯 Checking your Learning {-}
+###  Checking your Learning {-}
 ```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 

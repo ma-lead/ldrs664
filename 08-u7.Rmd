@@ -9,7 +9,7 @@ In this unit, you will learn about the role of information and perception in gro
 1. The Adult Educator as Servant Leader
 
 
-## 🎯 Learning Outcomes{-}
+##  Learning Outcomes{-}
 
 When you have completed this unit you should be able to:
 
@@ -181,7 +181,7 @@ skills-focused view of education. This can lead to a sense of fulfillment and
 flourishing built on a greater purpose.
 
 
-## 🎯 Checking your Learning
+##  Checking your Learning
 ```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding before
 you move to the next unit. Can you:

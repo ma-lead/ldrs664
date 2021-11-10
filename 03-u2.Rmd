@@ -18,7 +18,7 @@ Unit 2 focuses on two guiding questions:
  3. Creating Connections with Learners
 
 
-## 🎯 Learning Outcomes{-}
+##  Learning Outcomes{-}
 
 When you have completed this unit you should be able to:
 
@@ -232,7 +232,7 @@ See the Assessment section for the Grading Criteria that explains how your discu
 ```
 
 
-## 🎯 Checking your Learning{-}
+##  Checking your Learning{-}
 ```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 

@@ -15,7 +15,7 @@ help you to define your role and purpose as an adult educator.
 2.  Approaches to Making a Contribution in an Intellectually Humble Way
 
 
-## 🎯 Learning Outcomes: {-}
+##  Learning Outcomes: {-}
 
 When you have completed this unit you should be able to:
 
@@ -292,7 +292,7 @@ Please submit your feedback to your peer by emailing them through Moodle or thei
 See the Assessment section for the Grading Criteria that explains how your assignment will be evaluated.
 ```
 
-## 🎯 Checking your Learning {-}
+##  Checking your Learning {-}
 ```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit.
