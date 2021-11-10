@@ -63,8 +63,7 @@ activity-wheatley-reading-and-reflection-2
 confidence-and-humility
 topic-1-learning-to-trust-ourselves-in-difficult-situations
 activity-read-and-reflect
-activity-discussion-post
-activity-9.3-did-you-know
+activity-did-you-know
 topic-2-approaches-to-making-a-contribution-in-an-intellectually-humble-way
 activity-reading-2
 activity-pinsent-videos

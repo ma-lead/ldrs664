@@ -37,7 +37,6 @@ These learning activities will engage you in considering the guiding questions 
  | Learning Activities|
  |----|
  | Activity: Read assigned pages from Wheatley chapter 8 and Coda. Consider the reflection question.  |
- | Activity: Write a discussion post about the Merton quote.   |
  | Activity: Watch [TedX talk](https://youtu.be/Xlg8zdSVjgg) by Sam Horn and practice the technique.     |
  | Activity: Read Leary et al. article and engage in self-evaluation. Jot down practices related to intellectual humility. |
  | Activity: Watch two videoclips of Andrew Pinsent and jot down some notes in your own words. |   
@@ -123,17 +122,8 @@ As you read this chapter and Coda, think about your own self perceptions
 and what you believe is worth doing as an adult educator.
 ```
 
-### Activity: Discussion Post
-```{block, type='reflect'}
-After having read the introductory notes, Wheatley chapter 8 and Coda:
 
-Write 300 words in response to the following quote by Thomas Merton,
-quoted in Wheatley p. 294:
-
-> Humans have a responsibility to find themselves where they are, in their own proper time and place, in the history to which they belong and to which they must inevitably contribute either their response or their evasions, either truth and act, or mere slogan and gesture.
-```
-
-### 🤔📺  Activity 9.3: Did You Know?
+### 🤔📺  Activity: Did You Know?
 ```{block, type='reflect'}
 We will learn to trust ourselves more and build our confidence if we are
 able to convince even ourselves of our own self-efficacy! Watch this
@@ -247,7 +237,10 @@ Write 300 words in response to the following quote by Thomas Merton,
 quoted in Wheatley p. 294:
 
 > “Humans have a responsibility to find themselves where they are, in their own proper time and place, in the history to which they belong and to which they must inevitably contribute either their response or their evasions, either truth and act, or mere slogan and gesture.”
+>
+Please submit your discussion posts and responses in the **Unit 9 Discussion Forum** in Moodle.
 
+See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
 
 ## Assignment 3: Platform Paper - Peer Review Feedback (30%) {-}
 
@@ -302,7 +295,7 @@ This paper will be 12-15 pages long, and should include:
 -   **References:** Include a reference list with references to at least 10
     scholarly sources.
 
-Please submit your feedback to your peer by emailing them through Moodle or their TWU account. 
+Please submit your feedback to your peer by emailing them through Moodle or their TWU account.
 
 See the Assessment section for the Grading Criteria that explains how your assignment will be evaluated.
 ```
