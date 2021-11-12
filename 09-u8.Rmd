@@ -102,14 +102,14 @@ analysis assignment. Reflect one or two of these principles and consider
 how you might apply them to practice, and also how they relate to your
 “Philosophy of Learning Communities” you developed in Unit 5.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v=vLJ7cRwKI-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vLJ7cRwKI-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
 ###  Activity: Reading
 
 ```{block, type='reflect'}
 Read Fenwick, T. (2010). [Workplace ‘Learning’ and Adult Education:
-Messy Objects, blurry maps and making difference.](/assets/unit8/Fenwick_2010.pdf) *European Journal for Research on the Education and Learning of Adults.* *I,* 79-95.
+Messy Objects, blurry maps and making difference.](assets/unit8/Fenwick_2010.pdf) *European Journal for Research on the Education and Learning of Adults.* *I,* 79-95.
 
 As you read this article, focus on the eight categories of workplace
 learning beginning on page 81 and only read the rest of the article if
