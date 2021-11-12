@@ -184,10 +184,10 @@ flourishing built on a greater purpose.
 ##  Checking your Learning
 ```{block, type='progress'}
 Use the learning outcomes for this unit as a checklist of understanding before
-you move to the next unit. Can you:
- - choose and/or design strategies with a critical lens for using
-    information to influence growth and development of learners?
- - explain how an adult educator can be a servant leader?
+you move to the next unit. Can you:  
+- choose and/or design strategies with a critical lens for using
+    information to influence growth and development of learners?  
+- explain how an adult educator can be a servant leader?
 ```
 
 ## Resources

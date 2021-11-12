@@ -37,7 +37,7 @@ These learning activities will engage you in considering the guiding questions 
 | Activity: Read “What IS a Learning Community?” (Brower & Dettinger, 1998) and respond in your Reflective Journal.  |
 | Activity: Read and reflect on Defining and Measuring Academic Success (York et. Al).  |
 | Activity: Read and reflect on *The Courage to Teach,*  Chapter 4 Knowing in Community (Palmer, P. (2017).    |
-| Activity: Read and reflect on Trinity Community of Inquiry (Madland, 2017) (C. Madland).             |
+| Activity: Read and reflect on Trinity Community of Inquiry (Madland, 2017).             |
 | **Assessment**: Complete your Discussion post and respond to two other peers.                    |
 
 ## Learning Community Pyramid
@@ -134,7 +134,10 @@ In your Reflective Journal, write down three strengths of this learning communit
 
 The learning community models we have considered in this unit share some similarities. In each model, there is an awareness that learners and learning is multidimensional. As we engage in teaching and learning, we must always be aware that the learning process is, fundamentally, transformative. It engages people, not only on an intellectual level, but also on a spiritual and social level. By designing curriculum, pedagogy, and learning around all aspects of learning – social, cognitive, and spiritual – we provide the foundation for transformational learning.
 
-Palmer (2017) puts it this way: “The reality we belong to, the reality we long to know, extends far beyond human beings interacting with one another… This is a community held together not only by our personal powers of thought and feeling but also by the power of ‘the grace of great things’” (p. 109). As Palmer (2017) points out, learning includes both thought (cognitive) and feeling (social), but also something beyond those – the overarching spiritual nature of life and learning.
+Palmer (2017) puts it this way:   
+>The reality we belong to, the reality we long to know, extends far beyond human beings interacting with one another… This is a community held together not only by our personal powers of thought and feeling but also by the power of ‘the grace of great things’” (p. 109).
+
+As Palmer (2017) points out, learning includes both thought (cognitive) and feeling (social), but also something beyond those – the overarching spiritual nature of life and learning.
 
 ##  Assessment {-}
 ```{block, type='assessment'}
