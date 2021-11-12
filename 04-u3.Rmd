@@ -156,7 +156,7 @@ Listen to *A Place in this World*, sung by Taylor Swift.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DscfyMJP7U4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Consider the following scenario:
+💭 Consider the following scenario:
 Imagine a student in a course you are facilitating. A young student submits a poorly written assignment and then does not complete the next week’s assignment. When you ask the student to meet with you, she shares this song with you and shares that she feels all alone, she doesn’t feel confident writing at an academic level, and she didn’t do this week’s assignment because she’s afraid she will fail. She thinks she probably shouldn’t have been admitted to this program.
 
 In your Reflective Journal, compose an email or talking points for a conversation with the student, specifically describing why she belongs in this course.
