@@ -68,7 +68,7 @@ As poet [Maya Angelou](http://billmoyers.com/content/conversation-maya-angelou/)
 > I belong to myself. -- Maya Angelou, 1973
 
 
-### 💭 Activity: Who are you?
+### Activity: Who are you?
 
 ```{block, type='reflect'}
 For this activity, you are asked to share a little more about yourself with your peers. First, find a quote about either identity or integrity. For example, you may want to perform a Google image search for “identity quote.” Find one that resonates with you, and then include a picture of something that tells us something about you. Post the quote and your image to the Unit 2 Discussion forum with a 1-2 sentence explanation. This is a non-graded activity, but may help you reflect on this topic and to prepare for the assignment in this unit.
@@ -182,7 +182,7 @@ Optional Read: Cuddy, A. (2016). [I don’t deserve to be here: Presence and th
 
 ```
 
-### 🗬 🗭 Activity: Connection Activities  & Discussion
+### Activity: Connection Activities  & Discussion
 ```{block, type='reflect'}
 
 “[Liberating Structures](https://www.liberatingstructures.com/ls-menu)” (Lipmanowicz & McCandless, 2013) are used in collaborative learning and work environments to create space for all participants to engage in collaborative inquiry and unleash innovation. One of these “Liberating Structures” is the strategy of the “Nine Whys,” which allows participants to clarify what is important in their work. You may choose to use a strategy like this in your role as a facilitator and teacher. For this learning activity, however, you will use the strategy of the “Nine Whys” to consider your own identity as a teacher/facilitator.

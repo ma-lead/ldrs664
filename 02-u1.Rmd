@@ -48,7 +48,7 @@ These learning activities will engage you in considering the guiding questions 
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><strong>Activity:</strong> Read: Goode, Joanna: If you Build Teachers, will students come?</p>
+<td><p><strong>Activity:</strong> Read: Goode, Joanna: [If you Build Teachers, will students come?](https://journals-sagepub-com.twu.idm.oclc.org/doi/pdf/10.2190/2102-5G77-QL77-5506)</p>
 </td>
 </tr>
 <tr class="odd">
@@ -87,7 +87,7 @@ In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's
 ###  Activity: Reading
 
 ```{block, type='reflect'}
-As we explore the importance of the “inner life of the teacher” as a foundation for authentic learning, read Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching in The Courage to Teach (Palmer, 2017).
+As we explore the importance of the “inner life of the teacher” as a foundation for authentic learning, read Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching in The Courage to Teach (Palmer, 2017). Alternatively, read [If you Build Teachers, will students come?](https://journals-sagepub-com.twu.idm.oclc.org/doi/pdf/10.2190/2102-5G77-QL77-5506) (Goode, 2007).   
 
 For this course, you will keep a Reflective Learning Journal, which will provide the basis for many of your blog posts. Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, organize, and integrate these new concepts with our prior understanding, as you prepare for your future teaching/coaching.
 
