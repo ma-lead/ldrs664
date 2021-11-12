@@ -38,44 +38,21 @@ When you have completed this unit you should be able to:
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th><strong>Learning Activities</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><p><strong>Activity:</strong> Read: Goode, Joanna: [If you Build Teachers, will students come?](https://journals-sagepub-com.twu.idm.oclc.org/doi/pdf/10.2190/2102-5G77-QL77-5506)</p>
-</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong>Activity:</strong> Read: Palmer, P. (2017): Introduction, Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching; Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning.</p>
-</td>
-</tr>
-<tr class="even">
-<td></td>
-<td><strong>Activity:</strong> Reflect on your values and respond in your Reflective Learning Journal. </a></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><strong>Activity: </strong>  Rank the strategies listed to create an authentic learning space that is hospitable and open. Then, read: Herrington, J. &amp; Oliver, R. (2000). [An instructional design framework for authentic learning environments.](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=edupapers) <em>Educational Technology Research and Development</em>. 48(<em>3</em>), pp 23-48. </td>
-</tr>
-<tr class="even">
-<td></td>
-<td><strong>Assessment:  Unit 1 Discussion</strong>: Incorporating the readings in this unit, you will write a 150-250 word discussion post that addresses your values related to teaching and learning and the key elements of authentic learning spaces. See the Assessment sections for full details.</td>
-</tr>
-</tbody>
-</table>
+|Learning Activities|
+|---|
+|Activity: Read: Goode, Joanna: [If you Build Teachers, will students come?](https://journals-sagepub-com.twu.idm.oclc.org/doi/pdf/10.2190/2102-5G77-QL77-5506)|
+|Activity: Read: Palmer, P. (2017): Introduction, Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching; Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning.|
+|Activity: Reflect on your values and respond in your Reflective Learning Journal.|
+|Activity:   Rank the strategies listed to create an authentic learning space that is hospitable and open. Then, read: Herrington, J. &amp; Oliver, R. (2000). [An instructional design framework for authentic learning environments.](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1031&context=eers)* Eional Technology Research and Development. 48*(3), pp 23-48. |
+|Assessment:  Unit 1 Discussion: Incorporating the readings in this unit, you will write a 150-250 word discussion post that addresses your values related to teaching and learning and the key elements of authentic learning spaces. See the Assessment sections for full details.|
+
 
 ## Authenticity in Teaching and Learning
 
 Teaching and learning are deeply personal experiences. Learning is, by definition, a transformative experience; we change as a result of learning. Teaching is also a transformative experience; we change as a result of teaching.
 
-![Authentic Learners](assets/unit1/664-authentic-learners.png)
+![Authentic Learners](assets/unit1/664-authentic-learners.png)  
+
 ![Authentic Teachers](assets/unit1/664-authentic-teachers.png)
 
 Figure 1.1: Authentic Learners and Authentic Teachers Model designed by Penfold Navarro, C. (2018)
