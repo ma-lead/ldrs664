@@ -109,7 +109,6 @@ The paper should include:
 |**TOTAL**|**0 = 0% (F)**|**10 = 50% (C)**|**15 = 75 (B)**|**20 = 100% (A+)**|
 
 
-|**EVALUATION OF INTERCONNECTEDNESS AND INTEGRITY**|Does not include an evaluation of evidence of interconnectedness and integrity on the company website.Does not integrate scholarly sources in the evaluation.|Includes a partial evaluation of evidence of interconnectedness and integrity on the company website.Evaluation includes only limited reference to scholarly sources.|Includes a detailed evaluation of evidence of interconnectedness and integrity on the company website. Evaluation integrates scholarly sources.| Includes a detailed evaluation of evidence of interconnectedness and integrity on the company website.Includes recommendations for ways in which to integrate interconnectedness and integrity into employee development.|
 
 ## Assignment: Platform Paper
 ```{block, type='assessment'}
