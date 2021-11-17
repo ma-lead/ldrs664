@@ -82,7 +82,7 @@ The paper should include:
 
 ### Company Website Analysis Rubric {-}
 See the following rubric that explains how your assignment will be evaluated. Also available as a [pdf](assets/assessment/Company-Website-Analysis-RUBRIC.pdf)
-
+<!--
 [ui-accordion independent=true open=none]
 
 [ui-accordion-item title="APA/WRITING"]
@@ -202,7 +202,7 @@ scholarly sources.
 
 [/ui-accordion-item]
 
-
+--->
 ### APA/WRITING {-}
 
 **Unsatisfactory:** Paper does not model language and conventions used in scholarly literature.
