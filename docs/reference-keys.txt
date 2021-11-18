@@ -77,4 +77,10 @@ activity-sticky-note-challenge
 activity-learning-styles-video
 administrative-and-supervisory-aspects-of-an-adult-educator
 activity-closing-song
+apa-formatting
+developing-a-cohesive-and-logical-academic-argument-1
+analysis-of-learning-culture
+evaluation-of-interconnectedness-and-integrity
+analysis-of-adult-learning-strategies
+scholarly-integration-1
 assignment-platform-paper
