@@ -356,14 +356,16 @@ Building on your learning in the first three units in this course, write a 3-4 p
 </div>
 <div id="grading-criteria" class="section level3 unnumbered">
 <h3>Grading Criteria</h3>
-<p>See the following rubric that explains how your assignment will be evaluated. Also available as a <a href="assets/assessment/Identity-as%20a%20TeacherRubric.pdf">pdf</a></p>
-<div id="apawriting" class="section level4 unnumbered">
-<h4>APA/WRITING</h4>
+<p>See the following rubric that explains how your assignment will be evaluated. Also available as a <a href="assets/assessment/Identity-as-a-Teacher-RUBRIC.pdf">pdf</a></p>
+<details>
+<summary>
+#### APA/WRITING {-}
+</summary>
 <p><strong>Unsatisfactory:</strong> Paper does not model language and conventions used in scholarly literature. Writing is not well-organized. Several errors in grammar or composition. Sources are not cited. APA citations are not appropriately formatted.</p>
 <p><strong>Developing:</strong> Paper partially models language and conventions used in scholarly literature. Writing is somewhat well organized and includes some errors in grammar or composition. Not all sources cited. APA citations are generally formatted correctly, with several errors.</p>
 <p><strong>Proficient:</strong> <em>Paper consistently models language and conventions used in scholarly literature. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited (including in-text citations and bibliography information). Few (if any) errors in APA citations.</em></p>
-<p><strong>Exemplary:</strong> Paper is an exemplar of language and conventions used in scholarly literature. Writing is well-organized and free of errors in grammar or composition. All resources are appropriately cited. No errors in APA format.</p>
-</div>
+<strong>Exemplary:</strong> Paper is an exemplar of language and conventions used in scholarly literature. Writing is well-organized and free of errors in grammar or composition. All resources are appropriately cited. No errors in APA format.
+</details>
 <div id="statement-of-teaching-identity" class="section level4 unnumbered">
 <h4>STATEMENT OF TEACHING IDENTITY</h4>
 <p><strong>Unsatisfactory:</strong> Does not provide a statement about identity as a teacher/facilitator</p>
@@ -569,7 +571,7 @@ Paper Guidelines
 <div id="platform-paper-rubric" class="section level3 unnumbered">
 <h3>Platform Paper Rubric</h3>
 <p>See the following rubric that explains how your assignment will be evaluated. Also available as a <a href="assets/assessment/Platform-Paper-RUBRIC.pdf">pdf</a></p>
-<div id="apawriting-1" class="section level4 unnumbered">
+<div id="apawriting" class="section level4 unnumbered">
 <h4>APA/WRITING</h4>
 <p><strong>Unsatisfactory:</strong> Paper does not model language and conventions used in scholarly literature. Writing is not well-organized. Several errors in grammar or composition. Sources are not cited. APA citations are not appropriately formatted.</p>
 <p><strong>Developing:</strong> Paper partially models language and conventions used in scholarly literature. Writing is somewhat well organized and includes some errors in grammar or composition. Not all sources cited. APA citations are generally formatted correctly, with several errors.</p>
@@ -604,6 +606,24 @@ Paper Guidelines
 <p><strong>Proficient:</strong> <em>Integrates a minimum of 10 scholarly sources to support arguments made in each section of the paper.</em></p>
 <p><strong>Exemplary:</strong> Integrates a minimum of 10 references to support the arguments made in each section, including several scholarly sources not included in course materials.</p>
 <p>|<strong>TOTAL</strong>|<strong>0 = 0% (F)</strong>|<strong>10 = 50% (C)</strong>|<strong>15 = 75 (B)</strong>|<strong>20 = 100% (A+)</strong>|</p>
+<script type="text/javascript">
+(function() {
+  var codes = document.querySelectorAll('pre:not([class])');
+  var code, i, d, s, p;
+  for (i = 0; i < codes.length; i++) {
+    code = codes[i];
+    p = code.parentNode;
+    d = document.createElement('details');
+    s = document.createElement('summary');
+    s.innerText = 'Details';
+    // <details><summary>Details</summary></details>
+    d.appendChild(s);
+    // move the code into <details>
+    p.replaceChild(d, code);
+    d.appendChild(code);
+  }
+})();
+</script>
 
 </div>
 </div>
