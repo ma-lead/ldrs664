@@ -29,10 +29,10 @@ These learning activities will engage you in considering the guiding questions 
 | **Activities**|
 | ----- |
 | Activity: Read: Palmer, P. (2017) *The Courage to Teach,*  Chapter 5 Teaching in Community; Chapter 6 Learning in Community, Chapter 7 Divided No More.|
-| Activity: Review the [“Principles of Appreciative Inquiry”](https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introduction/5-classic-principles-ai) (also in Whitney & Trosten-Bloom, 2010). *The power of appreciative inquiry: A practical guide to positive change.* |
-| Activity: Listen: Sarah Barreilles [Brave](https://www.youtube.com/watch?v=QUQsqBqxoR4). Watch: Kalhil KJ Adames [Identity Short Film](https://www.youtube.com/watch?v=ikGVWEvUzNM). Read: Brown, B. (2017) *Braving the Wilderness,* Chapter 7 Strong Back. Soft Front. Wild Heart.|
+| Activity: Review the [“Principles of Appreciative Inquiry”](https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introduction/5-classic-principles-ai)  |
+| Activity: Listen: Sarah Bareilles [Brave](https://www.youtube.com/watch?v=QUQsqBqxoR4). Watch: Kalhil KJ Adames [Identity Short Film](https://www.youtube.com/watch?v=ikGVWEvUzNM). Read: Brown, B. (2017) *Braving the Wilderness,* Chapter 7 Strong Back. Soft Front. Wild Heart.|
 | Activity: Read Burwell & Huyser (2013). Practicing hospitality in the classroom. Respond in your Reflective Learning Journal.|
-| AAssessment: Unit 5 Discussion - Part 1: Appreciative Inquiry & Part 2: **Peer Interview** |
+| Assessment: Unit 5 Discussion - Part 1: Appreciative Inquiry & Part 2: **Peer Interview** |
 
 
 ## Creating Collaborative Learning in an Online Environment
@@ -81,7 +81,7 @@ In your Reflective Journal, make notes on the following questions:
 ###  Activity: AI Read and Discussion
 
 ```{block, type='reflect'}
-Review the [“Principles of Appreciative Inquiry”](https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introduction/5-classic-principles-ai/) from the Appreciative Inquiry Commons at Champlain University, or in Whitney & Trosten-Bloom. (2010). *The power of appreciative inquiry: A practical guide to positive change.*
+Review the [“Principles of Appreciative Inquiry”](https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introduction/5-classic-principles-ai/) from the Appreciative Inquiry Commons at Champlain University. (Also in Whitney & Trosten-Bloom. (2010). *The power of appreciative inquiry: A practical guide to positive change.*)
 
 Select two of the Principles of Appreciative Inquiry. In a 250-word discussion post, describe a learning activity you would conduct with your class that integrates both of these principles. For example, how would you design a writing assignment that included “Positive Principle”? Or, describe an assignment through which you ask students to create a short video that incorporates the “Poetic Principle.”
 ```
@@ -115,7 +115,7 @@ For this activity, you will spend some time reflecting on your own experience as
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ikGVWEvUzNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2.  Listen to the song "Brave" sung by Sarah Barreilles.
+2.  Listen to the song "Brave" sung by Sarah Bareilles.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QUQsqBqxoR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
