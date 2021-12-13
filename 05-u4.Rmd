@@ -68,7 +68,7 @@ In your Reflective Journal, write down three strengths of this learning communit
 
 ```{block, type='reflect'}
 
-Read York et.al - [Defining and Measuring Academic Success](https://eric.ed.gov/?q=EJ1059739) (2015). Also available through the TWU library.
+Read York et.al - [Defining and Measuring Academic Success](https://eric.ed.gov/?q=EJ1059739){target="_blank"} (2015). Also available through the TWU library.
 
 In your Reflective Journal, write down three strengths of the way York et.al defines and measures academic success.  How do these measure “fit” into an authentic learning community?
 
@@ -81,7 +81,7 @@ Palmer’s learning community model (2017) incorporates both learning and commun
 ![](assets/unit4/ParkerDiscussion.jpg)
 
 
-Figure 4.1: Palmer’s Community of Truth model. From <https://uncc.instructure.com/courses/342/pages/module-3-why-discussions>
+Figure 4.1: [Palmer’s Community of Truth model.](https://uncc.instructure.com/courses/342/pages/module-3-why-discussions){target="_blank"}
 
 The learning that takes place in this model is captured in this statement: “I understand truth as the passionate and disciplined process of inquiry and dialogue itself, as the dynamic conversation of a community that keeps testing old conclusions and coming into new ones” (p. 106).
 
