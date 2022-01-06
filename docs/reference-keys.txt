@@ -26,6 +26,7 @@ belonging-to-others-1
 creating-learning-spaces-where-students-belong
 activity-brown-reading-and-reflection
 activity-palmer-reading-and-reflection
+activity-brown-reading-and-reflection-1
 activity-listen-and-reflect-1
 learning-communities
 learning-community-pyramid
