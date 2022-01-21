@@ -4,9 +4,10 @@ The following assignments are opportunities for learners to demonstrate their un
 
 Note that Assignment dropboxes are located in Moodle.  Also refer to the Course Schedule in Moodle for the specific due dates.
 
-## Community of Inquiry (Discussions)
+## Community of Inquiry (Discussions) {-}
 ```{block, type='assessment'}
-In this course, we ask you to discuss ideas with your colleagues, challenging one another and analyzing key course resources. At the end of each units you are asked to address questions in a Moodle Forum and respond to your peers.
+In this course, we ask you to discuss ideas with your colleagues, challenging one another and analyzing key course resources. At the end of each units you are asked to address questions in a Moodle Forum and respond to your peers. These discussions are worth 30% of your course grade.
+
 ```
 ### Grading Criteria {-}
 Please see the following rubric your instructor may use to measure your engagement and understanding of the course learning outcomes. [pdf](assets/assessment/LDRS664_DiscussionRubric.pdf)
@@ -201,7 +202,7 @@ scholarly sources.
 
 ---
 
-## Assignment: Platform Paper
+## Assignment: Platform Paper {-}
 ```{block, type='assessment'}
 For this assignment, you will write a contextualized Platform Paper in which you discuss your ideal learning community and your role as teacher/leader of that learning community. Select a context for your paper (i.e. facilitating in a FAR Centre in a specific country, teaching adult learners, facilitating employee development workshops, etc.).
 Your paper should be written and referenced in APA format and include references to a minimum of 10 scholarly sources (this can include literature you read in this course).
