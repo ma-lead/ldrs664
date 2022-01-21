@@ -78,4 +78,5 @@ activity-sticky-note-challenge
 activity-learning-styles-video
 administrative-and-supervisory-aspects-of-an-adult-educator
 activity-closing-song
+community-of-inquiry-discussions
 assignment-platform-paper
