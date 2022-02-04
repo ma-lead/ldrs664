@@ -52,7 +52,7 @@ As you consider the learning community you will facilitate, consider how you mig
 
 ```{block, type='reflect'}
 
-Read [“What IS a Learning Community?” (Brower & Dettinger, 1998)](assets/unit4/Learning_community.pdf).
+Read [“What IS a Learning Community?” (Brower & Dettinger, 1998)](assets/unit4/Learning_community.pdf){target="_blank"}.
 
 In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community. Do you think this model accurately reflects the type of learning community you want to create? Why or Why not? As we compare the other two models, feel free to organize your thoughts into a chart such as the following:
 
