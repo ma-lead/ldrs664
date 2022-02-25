@@ -131,7 +131,7 @@ Jot down some of your notes describing your own identity as a student. List 2-3 
 ###  Activity: Read and Strategize
 
 ```{block, type='reflect'}
-Read Burwell & Huyser (2013). Practicing hospitality in the classroom (available through the [TWU Library](https://www.twu.ca/library)){target="_blank"}. In your Reflective Learning Journal, make a note of the “stances” described by the authors. For each Stance, list one strategy you can employ to practice hospitality in your classes. Be as specific as possible.
+Read Burwell & Huyser (2013). Practicing hospitality in the classroom (available through the [TWU Library](https://www.twu.ca/library){target="_blank"}. In your Reflective Learning Journal, make a note of the “stances” described by the authors. For each Stance, list one strategy you can employ to practice hospitality in your classes. Be as specific as possible.
 ```
 
 
