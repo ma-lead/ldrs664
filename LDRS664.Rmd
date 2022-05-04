@@ -852,7 +852,7 @@ When you have completed this unit you should be able to:
 ##  Activity Checklist {-}
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
-                                                                                            
+
 | **Learning Activities**|
 |----|
 | Activity: Read “What IS a Learning Community?” (Brower & Dettinger, 1998) and respond in your Reflective Journal. Alternatively, read and reflect on Defining and Measuring Academic Success (York et. Al).  |
@@ -874,7 +874,7 @@ As you consider the learning community you will facilitate, consider how you mig
 
 ```{block, type='reflect'}
 
-Read [“What IS a Learning Community?” (Brower & Dettinger, 1998)](Learning_community.pdf).
+Read [“What IS a Learning Community?” (Brower & Dettinger, 1998)](assets/unit4/Learning_community.pdf){target="_blank"}.
 
 In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community. Do you think this model accurately reflects the type of learning community you want to create? Why or Why not? As we compare the other two models, feel free to organize your thoughts into a chart such as the following:
 
@@ -1058,6 +1058,9 @@ Appreciative Inquiry (Whitney & Trosten-Bloom, 2010) is built on eight principle
 8.  The Free-Choice Principle  
   *(Whitney & Trosten-Bloom, 2010, p. 52).*
 
+![Principles of Appreciative Inquiry](assets/unit5/Principles-of-AI-with-description.jpg)
+
+
 These principles can serve as a guide for facilitating online discussions, designing lessons, and providing formative feedback to learners. For example, the “Simultaneity Principle” is based on the premise that by its nature, asking questions not only leads to change, but the very act of engaging in inquiry is, in fact, the first step in change. According to this principle, “the moment we ask a question, we begin to create a change” (Whitney & Trosten-Bloom, 2010, p. 52).
 
 Likewise, the “Free-Choice Principle” contends that “people perform better and are more committed when they have freedom to choose how and what they contribute” (Whitney & Trosten-Bloom, 2010, p. 52). Facilitating discussions that allow learners to engage in conversation (whether face-to-face or online), determine some aspects of their assignments, select topics, etc., can have a powerful influence on student engagement with learning.
@@ -1125,7 +1128,7 @@ Jot down some of your notes describing your own identity as a student. List 2-3 
 ###  Activity: Read and Strategize
 
 ```{block, type='reflect'}
-Read Burwell & Huyser (2013). Practicing hospitality in the classroom (available through the [TWU Library](https://www.twu.ca/library)){target="_blank"}. In your Reflective Learning Journal, make a note of the “stances” described by the authors. For each Stance, list one strategy you can employ to practice hospitality in your classes. Be as specific as possible.
+Read Burwell & Huyser (2013). Practicing hospitality in the classroom (available through the [TWU Library](https://www.twu.ca/library){target="_blank"}. In your Reflective Learning Journal, make a note of the “stances” described by the authors. For each Stance, list one strategy you can employ to practice hospitality in your classes. Be as specific as possible.
 ```
 
 
@@ -2219,6 +2222,16 @@ The following assignments are opportunities for learners to demonstrate their un
 
 Note that Assignment dropboxes are located in Moodle.  Also refer to the Course Schedule in Moodle for the specific due dates.
 
+## Community of Inquiry (Discussions) {-}
+```{block, type='assessment'}
+In this course, we ask you to discuss ideas with your colleagues, challenging one another and analyzing key course resources. At the end of each units you are asked to address questions in a Moodle Forum and respond to your peers. These discussions are worth 30% of your course grade.
+
+```
+### Grading Criteria {-}
+Please see the following rubric your instructor may use to measure your engagement and understanding of the course learning outcomes. [pdf](assets/assessment/LDRS664_DiscussionRubric.pdf)
+
+---
+
 ## Assignment: Identity as a Teacher/Facilitator {-}
 ```{block, type='assessment'}
 Building on your learning in the first three units in this course, write a 3-4 page paper in which you describe your identity as a teacher/facilitator. Incorporate references to the unit resources, as well as other resources from your graduate coursework. The paper should include an introduction, a statement of your identity as a teacher/facilitator, and a discussion of three important aspects of that identity. Your conclusion should include a discussion of how you will use your identity to create authentic spaces for learning in the courses you facilitate/teach.
@@ -2226,8 +2239,7 @@ Building on your learning in the first three units in this course, write a 3-4 p
 ### Grading Criteria {-}
 See the following rubric that explains how your assignment will be evaluated. Also available as a [pdf](assets/assessment/Identity-as-a-Teacher-RUBRIC.pdf)
 
-<details>
-  <summary>#### APA/WRITING {-}</summary>
+#### APA/WRITING {-}
 
 **Unsatisfactory:** Paper does not model language and conventions used in scholarly literature. Writing is not well-organized. Several errors in grammar or composition. Sources are not cited. APA citations are not appropriately formatted.  
 
@@ -2236,7 +2248,7 @@ See the following rubric that explains how your assignment will be evaluated. Al
 **Proficient:** *Paper consistently models language and conventions used in scholarly literature. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited (including in-text citations and bibliography information). Few (if any) errors in APA citations.*
 
 **Exemplary:** Paper is an exemplar of language and conventions used in scholarly literature. Writing is well-organized and free of errors in grammar or composition. All resources are appropriately cited. No errors in APA format.
-</details>
+
 
 #### STATEMENT OF TEACHING IDENTITY {-}
 **Unsatisfactory:** Does not provide a statement about identity as a teacher/facilitator
@@ -2408,7 +2420,7 @@ scholarly sources.
 
 ---
 
-## Assignment: Platform Paper
+## Assignment: Platform Paper {-}
 ```{block, type='assessment'}
 For this assignment, you will write a contextualized Platform Paper in which you discuss your ideal learning community and your role as teacher/leader of that learning community. Select a context for your paper (i.e. facilitating in a FAR Centre in a specific country, teaching adult learners, facilitating employee development workshops, etc.).
 Your paper should be written and referenced in APA format and include references to a minimum of 10 scholarly sources (this can include literature you read in this course).
