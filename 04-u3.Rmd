@@ -43,11 +43,10 @@ These learning activities will engage you in considering the guiding questions 
 
 | **Learning Activities**|
 |---|
-| **Activity:** Read: Brown (2017). Chapters 3-4. Then, reflect on Rilke, R.M. *[Ah, Not to be Cut Off](https://gladdestthing.com/poems/ah-not-to-be-cut-off)*.|
-| **Activity:** Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 2: A Culture of Fear|
-| **Activity:** Read: Brown (2017). Chapters 5-6. Reflect on the BRAVING checklist (p.114).|   
+| **Activity:** Reflect on Rilke, R.M. *[Ah, Not to be Cut Off](https://gladdestthing.com/poems/ah-not-to-be-cut-off)*.|
+| **Activity:** Select from the three reading options (Brown, Palmer, Westheimer) to help you reflect on inclusive learning communities.|
 | **Activity:** Listen and respond to Taylor Swift's *A Place in this World*.
-| **Assessment: Unit 3 Discussion** Write a post in response to the BRAVING checklist (Brown, 2017, p. 114). Then, create a learning activity you would use in a course that incorporates elements of belonging.       |
+| **Assessment: Unit 3 Discussion** Write a post in response to your readings, including the BRAVING checklist (Brown, 2017, p. 114). Then, create a learning activity you would use in a course that incorporates elements of belonging.       |
 | **Assignment 1: Identity as a Teacher Paper (20%)**: Write a 3-4 page paper in which you describe your identity as a teacher/facilitator.    
 
 
@@ -78,12 +77,10 @@ Palmer (2017) also argues that spaces free of fear are necessary for authentic l
 Brower and Dettinger (1998) contend that diversity of thought and perspective is an essential element of a learning community. “When we define a community as a group of individuals committed to shared values and goals, who purposefully come together and work together to reach these goals, then diversity is encouraged not just for ideological reasons but also because different perspectives, experiences, and backgrounds contribute to the collaborative efforts to achieve the community’s goals” (Brower & Dettinger, 1998, p. 16).
 
 
-###  Activity: Brown Reading and Reflection
+###  Activity: Reflection
 ```{block, type='reflect'}
 
-Read: Brown (2017). Chapters 3-4.
-
-Then, find a quiet space in your home or outdoors. Make your favourite beverage. With your iced coffee or hot tea with honey next to you, settle into a comfortable position. Read the poem by Rainer Maria Rilke [“Ah, not to be cut off”](https://gladdestthing.com/poems/ah-not-to-be-cut-off){target="_blank"}. Sit for a moment with this poem. Re-read it. Consider the words and ideas expressed by Rilke. In your Reflective Journal, jot down your thoughts. Consider how you have, in your own learning experiences, experienced “the winds of homecoming” or the desire “not to be cut off.”
+Find a quiet space in your home or outdoors. Make your favourite beverage. With your iced coffee or hot tea with honey next to you, settle into a comfortable position. Read the poem by Rainer Maria Rilke [“Ah, not to be cut off”](https://gladdestthing.com/poems/ah-not-to-be-cut-off){target="_blank"}. Sit for a moment with this poem. Re-read it. Consider the words and ideas expressed by Rilke. In your Reflective Journal, jot down your thoughts. Consider how you have, in your own learning experiences, experienced “the winds of homecoming” or the desire “not to be cut off.”
 
 ![Image of cup of coffee beside a flower and a laptop](assets/unit3/coffee-2242212_1920.jpg)
 
@@ -91,23 +88,26 @@ Then, find a quiet space in your home or outdoors. Make your favourite beverage.
 ```
 
 
-###  Activity: Palmer Reading and Reflection
+###  Activity: Read and Reflect
 ```{block, type='reflect'}
-Read Palmer (2017) Chapter 2. As you read, consider these
-questions:
+There are three reading options to help you reflect on inclusive learning communities.  
 
-1.  How am I “at home in a universe that embraces both the smallness of ‘I’ and the vastness of all that is ‘not I,’”? (Palmer, 2017, p. 59).
-2.  What fears do I need to overcome as a teacher so I can create space for students to express their fears?
+1. Read: Brown (2017). Chapters 3-6.
+
+- In preparation for the discussion in this unit, reflect on the BRAVING checklist (p. 114).
+- How would you apply this concept in a course to create an inclusive, authentic learning community?
+
+
+2. Read Palmer (2017) Chapter 2. As you read, consider these questions:
+- How am I “at home in a universe that embraces both the smallness of ‘I’ and the vastness of all that is ‘not I,’”? (Palmer, 2017, p. 59).
+- What fears do I need to overcome as a teacher so I can create space for students to express their fears?
+
+
+3. Read Westheimer et. al (2004) Education Leading to Good Citizens.  
+- How would you apply what the authors are saying in a course to create an inclusive, authentic learning community?
+
 ```
 
-###  Activity: Brown Reading and Reflection
-```{block, type='reflect'}
-
-Read: Brown (2017). Chapters 5-6.
-
-In preparation for the discussion in this unit, reflect on the BRAVING checklist (p. 114). How would you apply this concept in a course to create an inclusive, authentic learning community?
-
-```
 
 ###  Activity: Listen and Reflect
 ```{block, type='video'}
@@ -135,7 +135,7 @@ In this unit, you have had the opportunity to consider concepts related to our o
 ### Unit 3 Discussion
 
 #### Part A: BRAVING
-Using the BRAVING checklist (Brown, 2017, p. 114), write a 250-word discussion post that includes a description of each element of the checklist, as well as a 2-3 sentence description of how you would apply this concept in a course to create an inclusive, authentic learning community.
+Using the readings from this unit, including the BRAVING checklist (Brown, 2017, p. 114), write a 250-word discussion post that includes a description of each element of the checklist, as well as a 2-3 sentence description of how you would apply this concept in a course to create an inclusive, authentic learning community.
 
 
 #### Part B: Belonging Learning Activity
