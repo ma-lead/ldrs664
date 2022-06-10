@@ -1,5 +1,5 @@
 ---
-title: "Welcome to LDRS 664: Creating Authentic Learning Communities!"
+title: "LDRS 664 - Creating Authentic Learning Communities"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -24,17 +24,12 @@ This course is part of the *Graduate Certificate in Adult Learning: Coaching and
 
 On successfully completing this course, students should be able to:
 
-1.  Interpret the influence of teacher authenticity on student learning.
-
-2.  Develop a personal philosophy of their role as facilitator in creating authentic learning communities.
-
-3.  Create a platform of beliefs regarding adult learning for a specific organization.
-
-4.  Evaluate strategies for developing learning connections with and between students.
-
-5.  Apply strategies for creating authentic learning communities that include indigenous ways of knowing.
-
-6.  Analyze the effectiveness of training and employee development.
+1.  Interpret the influence of teacher authenticity on student learning.  
+2.  Develop a personal philosophy of their role as facilitator in creating authentic learning communities.  
+3.  Create a platform of beliefs regarding adult learning for a specific organization.  
+4.  Evaluate strategies for developing learning connections with and between students.  
+5.  Apply strategies for creating authentic learning communities that include indigenous ways of knowing.  
+6.  Analyze the effectiveness of training and employee development.  
 
 ---
 

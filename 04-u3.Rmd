@@ -85,16 +85,15 @@ Read: Brown (2017). Chapters 3-4.
 
 Then, find a quiet space in your home or outdoors. Make your favourite beverage. With your iced coffee or hot tea with honey next to you, settle into a comfortable position. Read the poem by Rainer Maria Rilke [“Ah, not to be cut off”](https://gladdestthing.com/poems/ah-not-to-be-cut-off){target="_blank"}. Sit for a moment with this poem. Re-read it. Consider the words and ideas expressed by Rilke. In your Reflective Journal, jot down your thoughts. Consider how you have, in your own learning experiences, experienced “the winds of homecoming” or the desire “not to be cut off.”
 
+
+```
 ![Image of cup of coffee beside a flower and a laptop](assets/unit3/coffee-2242212_1920.jpg)
 
 *Image by <a href="https://pixabay.com/users/engin_akyurt-3656355/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2242212">Engin Akyurt</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2242212">Pixabay</a>*
-```
-
 
 ###  Activity: Palmer Reading and Reflection
 ```{block, type='reflect'}
-Read Palmer (2017) Chapter 2. As you read, consider these
-questions:
+Read Palmer (2017) Chapter 2. As you read, consider these questions:
 
 1.  How am I “at home in a universe that embraces both the smallness of ‘I’ and the vastness of all that is ‘not I,’”? (Palmer, 2017, p. 59).
 2.  What fears do I need to overcome as a teacher so I can create space for students to express their fears?
@@ -111,10 +110,8 @@ In preparation for the discussion in this unit, reflect on the BRAVING checklist
 
 ###  Activity: Listen and Reflect
 ```{block, type='video'}
-Listen to *A Place in this World*, sung by Taylor Swift.
+Listen to [*A Place in this World*](https://music.youtube.com/watch?v=_FNQ5qLuLjA&list=RDAMVM_FNQ5qLuLjA){target="_blank"}, sung by Taylor Swift.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DscfyMJP7U4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 💭 Consider the following scenario:
@@ -123,7 +120,6 @@ Imagine a student in a course you are facilitating. A young student submits a po
 In your Reflective Journal, compose an email or talking points for a conversation with the student, specifically describing why she belongs in this course.
 
 ```
-
 
 ## Unit 3 Summary {-}
 
