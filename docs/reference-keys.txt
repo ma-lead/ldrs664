@@ -77,7 +77,3 @@ activity-sticky-note-challenge
 activity-learning-styles-video
 administrative-and-supervisory-aspects-of-an-adult-educator
 activity-closing-song
-course-contributors
-curriculum-developer
-course-instructors
-copyright-credits
