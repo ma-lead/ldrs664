@@ -1,5 +1,7 @@
 # Belonging to Others
 
+![Guiding Questions](assets/unit3/LDRS664-BannerUnit3.jpg "How do we authentically belong to others? How do we create learning communities where students experience a sense of belonging?")
+
 ## Overview {-}
 
 Building on our discussion of “belonging to ourselves” in the previous
@@ -9,47 +11,47 @@ communities – spaces where students experience genuine connection with
 other learners, with the facilitator, and with the discipline they are
 studying.
 
-Unit 3 focuses on two guiding questions:
+**Unit 3 focuses on two guiding questions:**
 
-![Guiding Questions](assets/unit3/LDRS664-BannerUnit3.jpg)
+- How do we authentically belong to others?  
+- How do we create learning communities where students experience a sense of belonging?  
 
+### Topics{-}
 
-
-
-##  Topics{-}
 1. Belonging to Others
 2. Creating Learning Spaces Where Students Belong
 
-
-##  Learning Outcomes{-}
+### Learning Outcomes{-}
 
 When you have completed this unit you should be able to:
 
-- Discuss how we can authentically belong to others.
+- Discuss how we can authentically belong to others.  
+- Describe elements of a learning community that create a sense of belonging.  
+- Identify problems that affect learning communities.  
+- Plan a learning activity that builds community.  
 
-- Describe elements of a learning community that create a sense of
-    belonging.
-
-- Identify problems that affect learning communities.
-
-- Plan a learning activity that builds community.
-
-
-##  Activity Checklist {-}
+### Activity Checklist {-}
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*  
 
+```{block, type='reflect'}
 
+<span class="blockhead">Learning Activities</span>
 
-| **Learning Activities**|
-|---|
-| **Activity:** Reflect on Rilke, R.M. *[Ah, Not to be Cut Off](https://gladdestthing.com/poems/ah-not-to-be-cut-off)*.|
-| **Activity:** Select from the three reading options (Brown, Palmer, Westheimer) to help you reflect on inclusive learning communities.|
-| **Activity:** Listen and respond to Taylor Swift's *A Place in this World*.
-| **Assessment: Unit 3 Discussion** Write a post in response to your readings, including the BRAVING checklist (Brown, 2017, p. 114). Then, create a learning activity you would use in a course that incorporates elements of belonging.       |
-| **Assignment 1: Identity as a Teacher Paper (20%)**: Write a 3-4 page paper in which you describe your identity as a teacher/facilitator.    
+- Reflect on Rilke, R.M. [*Ah, Not to be Cut Off*](https://gladdestthing.com/poems/ah-not-to-be-cut-off){target="_blank"}.  
+- Select from the three reading options (Brown, Palmer, Westheimer) to help you reflect on inclusive learning communities.  
+- Listen and respond to Taylor Swift's *A Place in this World*.  
 
+```
 
+```{block, type='assessment'}
+
+<span class="blockhead">Assessment</span>
+
+- Unit 3 Discussion: Write a post in response to your readings, including the BRAVING checklist (Brown, 2017, p. 114). Then, create a learning activity you would use in a course that incorporates elements of belonging.  
+- Assignment 1: Identity as a Teacher Paper (20%)**: Write a 3-4 page paper in which you describe your identity as a teacher/facilitator.  
+
+```
 
 ## Belonging to Others
 
@@ -76,46 +78,47 @@ Palmer (2017) also argues that spaces free of fear are necessary for authentic l
 
 Brower and Dettinger (1998) contend that diversity of thought and perspective is an essential element of a learning community. “When we define a community as a group of individuals committed to shared values and goals, who purposefully come together and work together to reach these goals, then diversity is encouraged not just for ideological reasons but also because different perspectives, experiences, and backgrounds contribute to the collaborative efforts to achieve the community’s goals” (Brower & Dettinger, 1998, p. 16).
 
+### Activity: Reflection {-}
 
-###  Activity: Reflection
 ```{block, type='reflect'}
 
-Find a quiet space in your home or outdoors. Make your favourite beverage. With your iced coffee or hot tea with honey next to you, settle into a comfortable position. Read the poem by Rainer Maria Rilke [“Ah, not to be cut off”](https://gladdestthing.com/poems/ah-not-to-be-cut-off){target="_blank"}. Sit for a moment with this poem. Re-read it. Consider the words and ideas expressed by Rilke. In your Reflective Journal, jot down your thoughts. Consider how you have, in your own learning experiences, experienced “the winds of homecoming” or the desire “not to be cut off.”
+Find a quiet space in your home or outdoors. Make your favourite beverage. With your iced coffee or hot tea with honey next to you, settle into a comfortable position. 
 
+Read the poem by Rainer Maria Rilke [“Ah, not to be cut off”](https://gladdestthing.com/poems/ah-not-to-be-cut-off){target="_blank"}. Sit for a moment with this poem. Re-read it. Consider the words and ideas expressed by Rilke.
 
-```
-![Image of cup of coffee beside a flower and a laptop](assets/unit3/coffee-2242212_1920.jpg)
+In your Reflective Journal, jot down your thoughts. Consider how you have, in your own learning experiences, experienced “the winds of homecoming” or the desire “not to be cut off.”
+
+![](assets/unit3/coffee-2242212_1920.jpg "Image of cup of coffee beside a flower and a laptop")
 
 *Image by <a href="https://pixabay.com/users/engin_akyurt-3656355/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2242212">Engin Akyurt</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2242212">Pixabay</a>*
 
-###  Activity: Read and Reflect
+```
+
+### Activity: Read and Reflect {-}
+
 ```{block, type='reflect'}
-There are three reading options to help you reflect on inclusive learning communities.  
 
-1. Read: Brown (2017). Chapters 3-6.
+**There are three reading options to help you reflect on inclusive learning communities.**  
 
-- In preparation for the discussion in this unit, reflect on the BRAVING checklist (p. 114).
-- How would you apply this concept in a course to create an inclusive, authentic learning community?
-
-
-2. Read Palmer (2017) Chapter 2. As you read, consider these questions:
-- How am I “at home in a universe that embraces both the smallness of ‘I’ and the vastness of all that is ‘not I,’”? (Palmer, 2017, p. 59).
-- What fears do I need to overcome as a teacher so I can create space for students to express their fears?
-
-
+1. Read: Brown (2017). Chapters 3-6.  
+  - In preparation for the discussion in this unit, reflect on the BRAVING checklist (p. 114).  
+  - How would you apply this concept in a course to create an inclusive, authentic learning community?  
+2. Read Palmer (2017) Chapter 2. As you read, consider these questions:  
+  - How am I “at home in a universe that embraces both the smallness of ‘I’ and the vastness of all that is ‘not I,’”? (Palmer, 2017, p. 59).  
+  - What fears do I need to overcome as a teacher so I can create space for students to express their fears?  
 3. Read Westheimer et. al (2004) [Education Leading to Good Citizens](assets/unit3/Westheimer.pdf).  
-- How would you apply what the authors are saying in a course to create an inclusive, authentic learning community?
+  - How would you apply what the authors are saying in a course to create an inclusive, authentic learning community?  
 
 ```
 
+### Activity: Listen and Reflect {-}
 
-###  Activity: Listen and Reflect
-```{block, type='video'}
+```{block, type='reflect'}
+
 Listen to [*A Place in this World*](https://music.youtube.com/watch?v=_FNQ5qLuLjA&list=RDAMVM_FNQ5qLuLjA){target="_blank"}, sung by Taylor Swift.
 
+<span class="blockhead">Consider the following scenario:</span> 
 
-
-💭 Consider the following scenario:
 Imagine a student in a course you are facilitating. A young student submits a poorly written assignment and then does not complete the next week’s assignment. When you ask the student to meet with you, she shares this song with you and shares that she feels all alone, she doesn’t feel confident writing at an academic level, and she didn’t do this week’s assignment because she’s afraid she will fail. She thinks she probably shouldn’t have been admitted to this program.
 
 In your Reflective Journal, compose an email or talking points for a conversation with the student, specifically describing why she belongs in this course.
@@ -126,42 +129,46 @@ In your Reflective Journal, compose an email or talking points for a conversatio
 
 In this unit, you have had the opportunity to consider concepts related to our own sense of “belonging to others” and what it means to create safe learning spaces, built on trust and an awareness that learning is both vast and paradoxical. Bringing our selves to the educational experience – both as teachers/facilitators and as students/learners, we must seek to authentically engage in the learning experience – and to form connections with other learners. In the next unit, we will move from the philosophical and self-reflective to explore practical strategies for creating authentic learning communities.
 
-##  Assessment{-}
+## Assessment{-}
+
 ```{block, type='assessment'}
 
-### Unit 3 Discussion
+<span class="blockhead">Unit 3 Discussion</span>
 
-#### Part A: BRAVING
+**Part A: Braving**
+
 Using the readings from this unit, including the BRAVING checklist (Brown, 2017, p. 114), write a 250-word discussion post that includes a description of each element of the checklist, as well as a 2-3 sentence description of how you would apply this concept in a course to create an inclusive, authentic learning community.
 
 
-#### Part B: Belonging Learning Activity
+**Part B: Belonging Learning Activity**
+
 Based on the learning activities in this unit, create a learning activity you would use in a course that incorporates elements of belonging, discussed in the course readings and your blog posts. Include the learning outcome for the activity, the learning activity, and a discussion of how the different elements of the learning activity would serve to support a sense of belonging for students.
 
-Please submit your discussion posts and responses in the **Unit 3 Discussion Forum** in Moodle.
-
-See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
 ```
 
 ```{block, type='assessment'}
-### Assignment 1: Identity as a Teacher Paper (20%)
+
+<span class="blockhead">Assignment 1: Identity as a Teacher Paper (20%)</span>
 
 Building on your learning in the first three weeks of class, write a 3-4 page paper in which you describe your identity as a teacher/facilitator. Incorporate references to the Brown (2017) and Palmer (2017) texts, as well as other resources from your graduate coursework. The paper should include an introduction, a statement of your identity as a teacher/facilitator, and a discussion of three important aspects of that identity. Your conclusion should include a discussion of how you will use your identity to create authentic spaces for learning in the courses you facilitate/teach.
 
-Please submit your assignment in the **Identity as a Teacher Paper** dropbox in Moodle.
-
-See the Assessment section for the Grading Criteria that explains how your assignment will be evaluated.
 ```
 
+```{block, type='caution'}
 
+*Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
 
-##  Checking your Learning {-}
+```
+
+## Checking your Learning {-}
+
 ```{block, type='progress'}
-Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
 
- - discuss how we can authentically belong to others?
- - describe elements of a learning community that create a sense of
-        belonging?
- - identify problems that affect learning communities?
- - plan a learning activity that builds community?
+**Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
+
+- discuss how we can authentically belong to others?  
+- describe elements of a learning community that create a sense of belonging?  
+- identify problems that affect learning communities?  
+- plan a learning activity that builds community?  
+
 ```

@@ -4,35 +4,41 @@
 
 In this unit, you will explore the role of trust, confidence and intellectual humility in the practice and dispositions of the adult educator who is trying to establish an authentic learning community. You will consider your values as an individual as well as an educator and help you to define your role and purpose as an adult educator.
 
-##  Topics {-}
+### Topics {-}
 
-1.  Learning to Trust Ourselves in Difficult Situations
-2.  Approaches to Making a Contribution in an Intellectually Humble Way
+1. Learning to Trust Ourselves in Difficult Situations  
+2. Approaches to Making a Contribution in an Intellectually Humble Way  
 
-
-##  Learning Outcomes: {-}
+### Learning Outcomes: {-}
 
 When you have completed this unit you should be able to:
 
-  - Explain why self-knowledge is an important part of being an effective adult educator and leads to increased self-confidence and humility.
-  - Describe the contribution you want to make as an adult educator.
-  - Define intellectual humility in your own words.
-  - Describe strategies to foster intellectual humility in yourself and in your learning environment.
+- Explain why self-knowledge is an important part of being an effective adult educator and leads to increased self-confidence and humility.  
+- Describe the contribution you want to make as an adult educator.  
+- Define intellectual humility in your own words.  
+- Describe strategies to foster intellectual humility in yourself and in your learning environment.  
 
-##  Activity Checklist {-}
+### Activity Checklist {-}
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
- | Learning Activities|
- |----|
- | Activity: Read assigned pages from Wheatley chapter 8 and Coda. Consider the reflection question.  |
- | Activity: Watch [TedX talk](https://youtu.be/Xlg8zdSVjgg){target="_blank"} by Sam Horn and practice the technique.     |
- | Activity: Read Leary et al. article and engage in self-evaluation. Jot down practices related to intellectual humility. |
- | Activity: Watch two videoclips of Andrew Pinsent and jot down some notes in your own words. |   
- | **Assessment**: Complete your Unit 9 Discussion post.   |
-| **Assessment**: Company Platform Paper (20%).   |
+```{block, type='reflect'}
 
+<span class="blockhead">Learning Activities</span>
+- Read assigned pages from Wheatley chapter 8 and Coda. Consider the reflection question.  
+- Watch [TedX talk](https://youtu.be/Xlg8zdSVjgg){target="_blank"} by Sam Horn and practice the technique.  
+- Read Leary et al. article and engage in self-evaluation. Jot down practices related to intellectual humility.  
+- Watch two videoclips of Andrew Pinsent and jot down some notes in your own words.  
 
+```
+
+```{block, type='assessment'}
+<span class="blockhead">Assessment</span>
+
+- Complete your Unit 9 Discussion post.  
+- Company Platform Paper (20%).  
+
+```
 
 ## Learning to Trust Ourselves in Difficult Situations
 
@@ -52,31 +58,41 @@ In other words, we need to welcome the reality of whatever learners are bringing
 
 Our hope and vision must be rooted in the present (See [Daily Thoughts from JeanVanier](http://quotetab.com/quotes/by-jean-vanier){target="_blank"}). If that present is fraught with difficulties and challenges, the self-aware teacher leader embraces that reality and moves forward trusting themselves and, for the Christian, trusting God is working all things for our good. This requires courage – as Wheatley notes it is rooted in ‘coeur’ or heart (279). Courage with heart is needed to face the challenges of handling challenging situations when we ourselves might not feel equipped. Courage with heart tempered by intellectual humility is needed to transform lives through education. Effective adult educators are people with a vision for good, with confidence that they can influence positive change and help facilitate transformation in their learners because they are continually working on their own self-knowledge and will research the strategies and methods as well as the content that will be most helpful for their learners to be successful.
 
-###  Activity: Read and Reflect
+### Activity: Read and Reflect {-}
+
 ```{block, type='reflect'}
 
 Read Wheatley, M. (2017). *Who Do We Choose to Be?: Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Chapter 8 (pages 273-288 ) and Coda (pages 292-294).
 
-As you read this chapter and Coda, think about your own self perceptions and what you believe is worth doing as an adult educator.
+**As you read this chapter and Coda, think about your own self perceptions and what you believe is worth doing as an adult educator.**
+
 ```
 
+### Activity: Did You Know? {-}
 
-###   Activity: Did You Know?
 ```{block, type='reflect'}
+
 We will learn to trust ourselves more and build our confidence if we are able to convince even ourselves of our own self-efficacy! Watch this video (2014) ‘How to create interest and connect with anyone’ by Sam Horn.
+
+[Watch: Intrigue - How to Create Interest and Connect with Anyone: Sam Horn at TEDxBethesdaWomen](https://www.youtube.com/watch?v=Xlg8zdSVjgg){target="_blank"}
+
+<div class="video-container">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xlg8zdSVjgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+</div>
+
 The process described in this TedXtalk teaches the power of three ‘did you know’ questions followed by three attributes or solutions as a way to connect with others and help them understand what’s important to you and how you can help them.
 
-Practice this by asking yourself:
+**Practice this by asking yourself:**
 
-  - What is a project I care deeply about?
-  - What are three questions or three statistics I can use to help explain the significance of this project?
+- What is a project I care deeply about?  
+- What are three questions or three statistics I can use to help explain the significance of this project?  
 
 Follow Sam Horn’s suggested process to create your own intriguing pitch
 and try it out with others until it sounds natural and comes easily to
 you.
+
 ```
 
 ## Approaches to Making a Contribution in an Intellectually Humble Way
@@ -93,53 +109,72 @@ These values direct my entire teaching methodology; I espouse the goals of diffe
 
 I’ve used my own practice as a Christian educator as an example to give you some ideas and direction. Please take the time to explore the resources linked in the notes and other resources in your Brookfield and Silberman texts. The approach taken throughout this course is an intellectually humble one. In chapters five and six Brookfield (2013) particularly addresses the power dynamic in the classroom, awareness of which may foster a more intellectually humble approach. You are encouraged to use your texts as primary resources for more detailed information about specific strategies and approaches to making a contribution as an adult educator while remaining intellectually humble.
 
-###  Activity: Reading
+### Activity: Reading {-}
+
 ```{block, type='reflect'}
-Read this article: Leary, Mark & J. Diebels, Kate & K. Davisson, Erin & P. Jongman-Sereno, Katrina & Isherwood, Jennifer & Raimi, Kaitlin & Deffler, Samantha & Hoyle, Rick. (2017). Cognitive and Interpersonal Features of Intellectual Humility. *Personality and Social Psychology Bulletin. 43*. 014616721769769. 10.1177/0146167217697695.
+
+**Read this article:** Leary, Mark & J. Diebels, Kate & K. Davisson, Erin & P. Jongman-Sereno, Katrina & Isherwood, Jennifer & Raimi, Kaitlin & Deffler, Samantha & Hoyle, Rick. (2017). Cognitive and Interpersonal Features of Intellectual Humility. *Personality and Social Psychology Bulletin. 43*. 014616721769769. 10.1177/0146167217697695.
 
 The above [article](https://journals-sagepub-com.ezproxy.student.twu.ca/doi/pdf/10.1177/0146167217697695?){target="_blank"} can be accessed through the TWU
 library:
 
 As you read this article, self-evaluate your level of openness, curiosity, tolerance of ambiguity and dogmaticism.
 
-In your reflective journal, consider:
+**In your reflective journal, consider:**
 
-- What two or three actions can you incorporate into your practice as an adult educator and leader to nurture your own intellectual humility and foster it in your students?
+- What two or three actions can you incorporate into your practice as an adult educator and leader to nurture your own intellectual humility and foster it in your students?  
+
 ```
 
-###  Activity: Pinsent Videos
-```{block, type='video'}
+### Activity: Pinsent Videos {-}
+
+```{block, type='reflect'}
+
 Watch this video (2016) where Andrew Pinsent, Research Director at Oxford University answers the question: "Why is intellectual humility important for the flourishing of persons?"
+
+[Watch: Andrew Pinsent - Why is intellectual humility important for the flourishing of persons?](https://www.youtube.com/watch?v=ny5m64sjm14){target="_blank"}
+
+<div class="video-container">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ny5m64sjm14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+</div>
+
 Then watch this video (2016) where he answers the question: "What is still interesting about Aquinas’ concept of humility?"
+
+[Watch: Andrew Pinsent - What is still interesting about Aquinas concept of humility?](https://www.youtube.com/watch?v=j25KL5qw_tY){target="_blank"}
+
+<div class="video-container">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j25KL5qw_tY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-As you view the short video clips jot down some notes in your own words or any questions that you want to explore further about the topic of intellectual humility.
+</div>
+
+**As you view the short video clips jot down some notes in your own words or any questions that you want to explore further about the topic of intellectual humility.**
+
 ```
 
 ## Unit 9 Summary {-}
 
 In this unit, you have had the opportunity to learn about the role of trust, confidence and intellectual humility in the practice and dispositions of the adult educator. You have considered your values as an individual as well as an educator and further defined your role and purpose as an adult educator. As you move on to the last unit of this course, consider your values and how you view your role as an adult educator. The culminating assignment is a platform of beliefs where this will be important.
 
+## Assessment {-}
 
-##  Assessment {-}
 ```{block, type='assessment'}
-### Unit 9 Discussion {-}
 
-After having read the introductory notes, Wheatley chapter 8 and Coda:
+<span class="blockhead">Unit 9 Discussion</span>
+
+**After having read the introductory notes, Wheatley chapter 8 and Coda:**
 
 Write 300 words in response to the following quote by Thomas Merton, quoted in Wheatley p. 294:
 
 > “Humans have a responsibility to find themselves where they are, in their own proper time and place, in the history to which they belong and to which they must inevitably contribute either their response or their evasions, either truth and act, or mere slogan and gesture.”
 
-Please submit your discussion posts and responses in the **Unit 9 Discussion Forum** in Moodle.
+```
 
-See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
+```{block, type='assessment'}
 
-## Assignment 3: Platform Paper - Peer Review Feedback (30%) {-}
+<span class="blockhead">Assignment 3: Platform Paper - Peer Review Feedback (30%)</span>
 
 For this assignment, you will write a contextualized Platform Paper in which you discuss your ideal learning community and your role as teacher/leader of that learning community. Select a context for your paper (i.e. facilitating in a FAR Centre in a specific country, teaching adult learners, facilitating employee development workshops, etc.).
 
@@ -150,46 +185,50 @@ You will write a draft of the Platform Paper in Unit 8 and post for Peer Review.
 
 **PAPER OUTLINE**
 
-This paper will be 12-15 pages long, and should include:
+**This paper will be 12-15 pages long, and should include:**
 
-1.  Introduction (1-2 pages)
-2.  Section 1: Ideal Learning Environment (5-7 pages)
-3.  Section 2: Your Role as Teacher and Leader (5-7 pages)
-4.  Conclusion (1-2 pages)
+1. Introduction (1-2 pages)  
+2. Section 1: Ideal Learning Environment (5-7 pages)  
+3. Section 2: Your Role as Teacher and Leader (5-7 pages)  
+4. Conclusion (1-2 pages)  
 
 **PAPER GUIDELINES**
 
--   **Introduction:** Introduce the two sections in your paper, providing a brief description of the key points you will make in each section.
--   **Section 1:** In section one, you will describe your ideal education learning environment. This section should demonstrate your learning about authentic learning communities, incorporating scholarly sources and your own analysis to depict your ideal learning environment. Incorporate a discussion of the learning community environment, learning experiences, student learning outcomes, and personal beliefs about teaching and learning.
--   **Section 2:** In this section, describe your role as a teacher or leader within an authentic learning community. Incorporating scholarly literature, analyze your role as a facilitator/leader in planning learning experiences, facilitating student learning, and assessing student learning. Describe the actions, practices, and strategies you will engage in to achieve your vision of the learning community you described in section one.
--   **Conclusion:** Summarize the key points you made in each section.
--   **References:** Include a reference list with references to at least 10 scholarly sources.
+- **Introduction:** Introduce the two sections in your paper, providing a brief description of the key points you will make in each section.  
+- **Section 1:** In section one, you will describe your ideal education learning environment. This section should demonstrate your learning about authentic learning communities, incorporating scholarly sources and your own analysis to depict your ideal learning environment. Incorporate a discussion of the learning community environment, learning experiences, student learning outcomes, and personal beliefs about teaching and learning.  
+- **Section 2:** In this section, describe your role as a teacher or leader within an authentic learning community. Incorporating scholarly literature, analyze your role as a facilitator/leader in planning learning experiences, facilitating student learning, and assessing student learning. Describe the actions, practices, and strategies you will engage in to achieve your vision of the learning community you described in section one.  
+- **Conclusion:** Summarize the key points you made in each section.  
+- **References:** Include a reference list with references to at least 10 scholarly sources.  
 
-Please submit your feedback to your peer by emailing them through Moodle or their TWU account.
+*Please submit your feedback to your peer by emailing them through Moodle or their TWU account.*
 
-See the Assessment section for the Grading Criteria that explains how your assignment will be evaluated.
+
 ```
 
-##  Checking your Learning {-}
-```{block, type='progress'}
-Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit.
+```{block, type='caution'}
 
-  - Can you explain why self-knowledge is an important part of being an effective adult educator and leads to increased self-confidence and humility?
-  - Can you describe the contribution you want to make as an adult educator?
-  - Can you define intellectual humility in your own words?
-  - Can you describe strategies to foster intellectual humility in yourself and in your learning environment?
+*Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
+
+```
+
+## Checking your Learning {-}
+
+```{block, type='progress'}
+
+**Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit.**
+
+- Can you explain why self-knowledge is an important part of being an effective adult educator and leads to increased self-confidence and humility?  
+- Can you describe the contribution you want to make as an adult educator?  
+- Can you define intellectual humility in your own words?  
+- Can you describe strategies to foster intellectual humility in yourself and in your learning environment?  
 
 ```
 
 ## References {-}
 
-Arntz, V. 2018. Flannery O’Connor & redemption amidst the grotesque. Available at <https://catholicexchange.com/flannery-oconnor-redemption-amidst-grotesque>.
-
-Brookfield, S. (2013). *Powerful techniques for teaching adults*. San Francisco: Jossey-Bass.
-
-Brookfield, S. and Preskill, S. (2016). *The discussion book: 50 great ways to get people talking*. San Francisco: Jossey Bass.  
-
-Leary, Mark & J. Diebels, Kate & K. Davisson, Erin & P. Jongman-Sereno, Katrina & Isherwood, Jennifer & Raimi, Kaitlin & Deffler, Samantha & Hoyle, Rick. (2017). [Cognitive and interpersonal features of intellectual humility](https://journals-sagepub-com.ezproxy.student.twu.ca/doi/pdf/10.1177/0146167217697695?){target="_blank"}. *Personality and Social Psychology Bulletin. 43*. DOI:10.1177/0146167217697695.
-Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley.
-
-Wheatley, M. (2017). *Who do we choose to be? Facing reality, claiming leadership, restoring sanity. *
+- Arntz, V. 2018. Flannery O’Connor & redemption amidst the grotesque. Available at <https://catholicexchange.com/flannery-oconnor-redemption-amidst-grotesque>.  
+- Brookfield, S. (2013). *Powerful techniques for teaching adults*. San Francisco: Jossey-Bass.  
+- Brookfield, S. and Preskill, S. (2016). *The discussion book: 50 great ways to get people talking*. San Francisco: Jossey Bass.  
+- Leary, Mark & J. Diebels, Kate & K. Davisson, Erin & P. Jongman-Sereno, Katrina & Isherwood, Jennifer & Raimi, Kaitlin & Deffler, Samantha & Hoyle, Rick. (2017). [Cognitive and interpersonal features of intellectual humility](https://journals-sagepub-com.ezproxy.student.twu.ca/doi/pdf/10.1177/0146167217697695?){target="_blank"}. *Personality and Social Psychology Bulletin. 43*. DOI:10.1177/0146167217697695.  
+- Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley.
+- Wheatley, M. (2017). *Who do we choose to be? Facing reality, claiming leadership, restoring sanity.*  

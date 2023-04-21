@@ -122,7 +122,7 @@ This box will signify an assignment or discussion post you will submit in Moodle
 This box is for checking your understanding, to make sure you are ready for what follows.
  ```
 
- ```{block, type='video'}
+ ```{block, type='reflect'}
 ***Media***  
 This box is for displaying/linking to media, such as videos or songs, in order to help illustrate or communicate concepts.
  ```
