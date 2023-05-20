@@ -1,49 +1,58 @@
 # Belonging to One’s Self
 
+![Guiding Questions](assets/unit2/LDRS664-BannerUnit2-v3.jpg "What is my identity as a teacher/facilitator? What does it mean for me to be authentic as a teacher/facilitator?")
+
 ## Overview {-}
 
 As we began to explore in Unit 1, creating authentic learning communities begins with personal authenticity -- with knowing one's self. Palmer (2017) argues that "good teaching comes from the *identity* and *integrity* of the teacher" (p. 13, italics added).
 
 In this unit, we will explore the importance of identity and integrity as teachers/coaches, considering our own sense of identity as teachers, and what it means to belong to one’s self.
 
+**Unit 2 focuses on two guiding questions:**
 
-Unit 2 focuses on two guiding questions:
+- What is my identity as a teacher/facilitator?  
+- What does it mean for me to be authentic as a teacher/facilitator?  
 
-![Guiding Questions](assets/unit2/LDRS664-BannerUnit2-v3.jpg)
+### Topics{-}
 
+1. Belonging to Myself  
+2. Vulnerability in Learning Communities  
+3. Creating Connections with Learners  
 
-##  Topics{-}
- 1. Belonging to Myself
- 2. Vulnerability in Learning Communities
- 3. Creating Connections with Learners
-
-
-##  Learning Outcomes{-}
+### Learning Outcomes{-}
 
 When you have completed this unit you should be able to:
 
-* Articulate a sense of identity as a teacher/facilitator.
+- Articulate a sense of identity as a teacher/facilitator.  
+- Analyze the influence of teacher authenticity on student learning.  
 
-* Analyze the influence of teacher authenticity on student learning.
-
-
-
-##  Activity Checklist {-}
+### Activity Checklist {-}
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
-| **Learning Activities**|
-|---|
-| **Activity:** In a non-graded discussion post, share a little more about yourself with your peers.|
-| **Activity:** Read Brown, B. (2017). Chapter 1: Everywhere and Nowhere, Then, watch: Maya Angelou: [Interview with Bill Moyers ](http://billmoyers.com/content/conversation-maya-angelou/){target="_blank"} (7 minutes).     |
-| **Activity:** Watch Brene Brown: [The Power of Vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability){target="_blank"} (20 minutes)|
-| **Activity:** Read Brown, B. (2017). Chapter 2: The Quest for True Belonging.|
-| **Activity:** In your Reflective Learning Journal, consider a time when you were your “true self” in a professional or personal setting in which you wondered if you really “belonged.” What part of yourself did you share? How did this make you feel vulnerable? What were the results?|
-| **Activity:** Listen to [Brave](https://www.youtube.com/watch?v=QUQsqBqxoR4){target="_blank"} by Sara Bareilles.   |
-| **Activity:** Take the [“Clance Imposter Phenomenon”](https://paulineroseclance.com/pdf/IPscoringtest.pdf){target="_blank"} assessment from *The impostor phenomenon: When success makes you feel like a fake* (pp. 20-22), by P.R. Clance, 1985, Toronto: Bantam Books, ABPP.|
-| **Activity:** Read Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. *The Leadership Quarterly 16*, pp. 343–372. Optional Read: Cuddy, A. (2016). [I don’t deserve to be here: Presence and the imposter syndrome.](https://leanin.org/news-inspiration/overcoming-imposter-syndrome-to-reveal-your-presence){target="_blank"} |
-| **Activity:** Participate in the exercise, “Nine Why’s”  |
-| **Assessment: Unit 2 Discussion**: Write a discussion post on belonging and the “Nine Why’s” activity. See the Assessments section for more details.   |
+```{block, type='reflect'}
+
+<span class="blockhead">Learning Activities</span>
+
+- In a non-graded discussion post, share a little more about yourself with your peers.  
+- Read Brown, B. (2017). Chapter 1: Everywhere and Nowhere, Then, watch: Maya Angelou: [Interview with Bill Moyers ](http://billmoyers.com/content/conversation-maya-angelou/){target="_blank"} (7 minutes).  
+- Watch Brene Brown: [The Power of Vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability){target="_blank"} (20 minutes)  
+- Read Brown, B. (2017). Chapter 2: The Quest for True Belonging.  
+- In your Reflective Learning Journal, consider a time when you were your “true self” in a professional or personal setting in which you wondered if you really “belonged.” What part of yourself did you share? How did this make you feel vulnerable? What were the results?  
+- Listen to [Brave](https://www.youtube.com/watch?v=QUQsqBqxoR4){target="_blank"} by Sara Bareilles.  
+- Take the [“Clance Imposter Phenomenon”](https://paulineroseclance.com/pdf/IPscoringtest.pdf){target="_blank"} assessment from *The impostor phenomenon: When success makes you feel like a fake* (pp. 20-22), by P.R. Clance, 1985, Toronto: Bantam Books, ABPP.  
+- Read Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. *The Leadership Quarterly 16*, pp. 343–372. Optional Read: Cuddy, A. (2016). [I don’t deserve to be here: Presence and the imposter syndrome.](https://leanin.org/news-inspiration/overcoming-imposter-syndrome-to-reveal-your-presence){target="_blank"}  
+- Participate in the exercise, “Nine Why’s”  
+
+```
+
+```{block, type='assessment'}
+
+<span class="blockhead">Assessment</span>
+
+Unit 2 Discussion**: Write a discussion post on belonging and the “Nine Why’s” activity. See the Assessments section for more details.   
+
+```
 
 ## Belonging to Myself
 
@@ -67,28 +76,32 @@ As poet [Maya Angelou](http://billmoyers.com/content/conversation-maya-angelou/)
 
 > I belong to myself. -- Maya Angelou, 1973
 
-
-### Activity: Who are you?
+### Activity: Who are you? {-}
 
 ```{block, type='reflect'}
+
 For this activity, you are asked to share a little more about yourself with your peers. First, find a quote about either identity or integrity. For example, you may want to perform a Google image search for “identity quote.” Find one that resonates with you, and then include a picture of something that tells us something about you. Post the quote and your image to the Unit 2 Discussion forum with a 1-2 sentence explanation. This is a non-graded activity, but may help you reflect on this topic and to prepare for the assignment in this unit.
+
 ```
 
-###  Activity: View and Reflect
+### Activity: View and Reflect {-}
+
 ```{block, type='reflect'}
 
-View the following resources and reflect on your learning:  
+View the following resources and reflect on your learning:
+
 - Read. Brown, B. (2017). Chapter 1: Everywhere and Nowhere.  
-- Watch: Maya Angelou: [Interview with Bill Moyers](http://billmoyers.com/content/conversation-maya-angelou/) (7 minutes).
-```   
+- Watch: Maya Angelou: [Interview with Bill Moyers](http://billmoyers.com/content/conversation-maya-angelou/){target="_blank"} (7 minutes).  
+
+```
 
 ## Vulnerability in Learning Communities
 
 Learning to be vulnerable enough to share our authentic selves can be challenging – and knowing how much to be vulnerable (and when\!) also poses a challenge, both in teaching and leadership. Students also wrestle with similar questions – How much of myself should I share in this class? This paper? This blog? Is this a safe space to express my own feelings of vulnerability?
 
-Authenticity is built on trust
-– spaces in which you are comfortable enough to share your true self
-– your identity. Brown (2017) argues that “self-trust” provides a foundation for belonging.
+**Authenticity is built on trust**  
+  – spaces in which you are comfortable enough to share your true self  
+  – your identity. Brown (2017) argues that “self-trust” provides a foundation for belonging.  
 
 > Authenticity involves both owning one’s personal experiences (values, thoughts, emotions and beliefs) and acting in accordance with one’s true self (expressing what you really think and believe and behaving accordingly) (Harter, 2002, as cited in Gardner, Avolio, Luthans, May, and Walumbwa, 2005, pp. 344-5).
 
@@ -96,46 +109,56 @@ Gardner et al. (2005) describe authentic leadership is demonstrated when “rela
 
 If effective relationships include these characteristics, then authentic teachers and leaders must consider what it means to be transparent and open, as well as what it means to extend trust.
 
-###  Activity: Vulnerability Video
-```{block, type='video'}
+### Activity: Vulnerability Video {-}
+
+```{block, type='reflect'}
 
 Watch the TedTalk by Brene Brown: (20 minutes)
 
+[Watch:The power of vulnerability | Brené Brown (20 minutes)](https://www.youtube.com/watch?v=iCvmsMzlF7o){target="_blank"}
+
+<div class="video-container">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iCvmsMzlF7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+</div>
 
+<span class="blockhead">Questions to Consider</span>
 
-💭 As you watch, consider the following questions:
-
-1.  What elements of a learning community would create conditions for learners to be vulnerable about their fears about the course, their concerns about learning, and their questions regarding whether they are capable of achieving success in their course?
-
-2.  In what ways do you feel vulnerable as a teacher/facilitator? Are there people with whom you can share this vulnerability?
+1. What elements of a learning community would create conditions for learners to be vulnerable about their fears about the course, their concerns about learning, and their questions regarding whether they are capable of achieving success in their course?  
+2. In what ways do you feel vulnerable as a teacher/facilitator? Are there people with whom you can share this vulnerability?  
 
 You may want to answer these questions in your Reflective Learning Journal, and refer back to them as you complete the assessment for this unit.
+
 ```
 
-###  Activity: Brown Reading & Reflection
+### Activity: Brown Reading & Reflection {-}
+
 ```{block, type='reflect'}
 
 Brown (2017) argues that authenticity is essential to belonging.
 
 > You will always belong anywhere you show up as yourself and talk about yourself and your work in a real way. -- Brene Brown (2017, p. 26)
 
-As you read Brown (2017) Chapter 2, answer the following questions in your Reflective Learning Journal:
+**As you read Brown (2017) Chapter 2, answer the following questions in your Reflective Learning Journal:**
 
-- Write a summary sentence for each major idea/concept that relates to belonging.
+- Write a summary sentence for each major idea/concept that relates to belonging.  
+- Choose the concept that you would like to apply in your own learning communities, both as a student and teacher/facilitator.  
+- Formulate one question that emerged from this reading that you will explore and consider in future course readings and discussions.  
+- As you prepare your discussion post, refer to these notes.  
 
-- Choose the concept that you would like to apply in your own learning communities, both as a student and teacher/facilitator.
-
-- Formulate one question that emerged from this reading that you will explore and consider in future course readings and discussions.
-
-- As you prepare your discussion post, refer to these notes.
 ```
 
-###  Activity: Sharing your Identity
+### Activity: Sharing your Identity {-}
+
 ```{block, type='reflect'}
 
-Being vulnerable involves sharing something of our true selves, which we might not always be comfortable doing in certain environments. In your Reflective Learning Journal, consider a time when you were your “true self” in a professional or personal setting in which you wondered if you really “belonged.” Perhaps this is a time when shared your spoke up about an issue that was important to you, lead a team in a new direction, or created a process that felt more authentic to you. What part of yourself did you share? How did this make you feel vulnerable? What were the results?
+Being vulnerable involves sharing something of our true selves, which we might not always be comfortable doing in certain environments.
+
+In your Reflective Learning Journal, consider a time when you were your “true self” in a professional or personal setting in which you wondered if you really “belonged.” Perhaps this is a time when shared your spoke up about an issue that was important to you, lead a team in a new direction, or created a process that felt more authentic to you.  
+  - What part of yourself did you share?  
+  - How did this make you feel vulnerable? What were the results?  
+
 ```
 
 ## Creating Connections with Learners
@@ -149,31 +172,32 @@ Leadership, like teaching, relies not just on the relationships that teachers fo
 These relationships will form the basis for learning in the classroom. Learning is, at its heart, a personal activity. Learners often experience vulnerability as they enter into (and continue through) the learning experience, wondering if they belong, if they are up to the challenge, and if they will succeed.
 
 
-###  Activity: Listen and Reflect
-```{block, type='video'}
+### Activity: Listen and Reflect {-}
+
+```{block, type='reflect'}
 
 Listen to “Brave” sung by Sara Bareilles.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QUQsqBqxoR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch: Sara Bareilles - Brave](https://www.youtube.com/watch?v=QUQsqBqxoR4){target="_blank"}
 
+<span class="blockhead">Questions to Consider</span>
 
-💭 As you listen to this song, consider the following questions:
+1. Is there an area in my current professional work where I need to be brave and speak up?  
+2. What fears would keep me from sharing my thoughts or experience?  
+3. How will I create a learning community that allows learners to share their thoughts authentically?  
 
-1.  Is there an area in my current professional work where I need to be brave and speak up?
-
-2.  What fears would keep me from sharing my thoughts or experience?
-
-3.  How will I create a learning community that allows learners to share their thoughts authentically?
 ```
 
-###  Activity: Self-Test (non-graded)
-```{block, type='assessment'}
+### Activity: Self-Test (non-graded) {-}
+
+```{block, type='reflect'}
 
 Take the [Clance Imposter Phenomenon test](http://paulineroseclance.com/pdf/IPscoringtest.pdf). As you take the test, consider the areas in which you feel vulnerable in your work as a learner. How would you address these concerns for learners in courses you facilitate?
 
 ```
 
-###  Activity: Readings
+### Activity: Readings {-}
+
 ```{block, type='reflect'}
 
 Read: Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. The Leadership Quarterly 16, pp. 343–372.
@@ -182,42 +206,41 @@ Optional Read: Cuddy, A. (2016). [I don’t deserve to be here: Presence and th
 
 ```
 
-### Activity: Connection Activities  & Discussion
+### Activity: Connection Activities  & Discussion {-}
+
 ```{block, type='reflect'}
 
 “[Liberating Structures](https://www.liberatingstructures.com/ls-menu){target="_blank"}” (Lipmanowicz & McCandless, 2013) are used in collaborative learning and work environments to create space for all participants to engage in collaborative inquiry and unleash innovation. One of these “Liberating Structures” is the strategy of the “Nine Whys,” which allows participants to clarify what is important in their work. You may choose to use a strategy like this in your role as a facilitator and teacher. For this learning activity, however, you will use the strategy of the “Nine Whys” to consider your own identity as a teacher/facilitator.
-Identify someone in your life who knows you well, with whom you have a history of talking about your goals or dreams. Ask them to participate in this exercise with you.
 
-1.  Begin by telling them why you are taking this course, as well as why you want to engage in teaching/coaching/facilitation.
+**Identify someone in your life who knows you well, with whom you have a history of talking about your goals or dreams. Ask them to participate in this exercise with you.**
 
-2.  When you have finished talking, your “Nine Whys” partner will ask you: Why is that important to you?
+1. Begin by telling them why you are taking this course, as well as why you want to engage in teaching/coaching/facilitation.  
+2. When you have finished talking, your “Nine Whys” partner will ask you: Why is that important to you?  
+3. Your partner should continue asking that question up to nine times, or until you cannot go any deeper.  
+4. At this point, you will have uncovered something fundamental about your identity as a teacher/facilitator.  
+As you complete this exercise, take detailed notes in your Reflective Learning Journal. You will be asked to create a discussion post about this experience in the Unit 2 Assessment.  
 
-3.  Your partner should continue asking that question up to nine times, or until you cannot go any deeper.
-
-4.  At this point, you will have uncovered something fundamental about your identity as a teacher/facilitator.
-
-As you complete this exercise, take detailed notes in your Reflective Learning Journal. You will be asked to create a discussion post about this experience in the Unit 2 Assessment.
 ```
 
-## Unit 2 Summary{-}
+## Unit 2 Summary {-}
 
 In this unit, we have explored the importance of identity, authenticity, and vulnerability in creating authentic learning communities. Our own identity as a teacher will go with us into the classroom, and we will be able to build on our own abilities to create connections as we share our authentic selves with students. In the next unit, we will focus on strategies to create a sense of belonging among students, building on our own understanding of vulnerability to create spaces where students, too, can bring their authentic selves to the learning experience.
 
-##  Assessment{-}
+## Assessment{-}
+
 ```{block, type='assessment'}
 
-### Unit 2 Discussion{-}
+<span class="blockhead">Unit 2 Discussion</span>
 
-**Part 1: Belonging**   
+**Part 1: Belonging**
+
 After completing this unit, including the learning activities, you are asked to write a discussion post on the following:
 
 Referring to Brown (2017) Chapter 2, answer the following questions:
 
-- Write a summary sentence for each major idea/concept that relates to belonging.
-
-- Choose the concept that you would like to apply in your own learning communities, both as a student and teacher/facilitator.
-
-- Formulate one question that emerged from this reading that you will explore and consider in future course readings and discussions.
+- Write a summary sentence for each major idea/concept that relates to belonging.  
+- Choose the concept that you would like to apply in your own learning communities, both as a student and teacher/facilitator.  
+- Formulate one question that emerged from this reading that you will explore and consider in future course readings and discussions.  
 
 
 **Part 2: Liberating Structure Activity**
@@ -226,15 +249,19 @@ In this unit, you were asked to use the strategy of the “Nine Whys” to consi
 
 Write 250 word discussion post on this process, including your “why” for teaching/facilitating.
 
-Please submit your discussion posts and responses in the **Unit 2 Discussion Forum** in Moodle.
-
-See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
 ```
 
+```{block, type='caution'}
 
-##  Checking your Learning{-}
+*Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
+
+```
+
+## Checking your Learning{-}
+
 ```{block, type='progress'}
-Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
+
+**Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
 
 - articulate a sense of identity as a teacher/facilitator?
 - analyze the influence of teacher authenticity on student learning?
@@ -243,9 +270,5 @@ Use the learning outcomes for this unit as a checklist of understanding before y
 
 ## References:{-}
 
-Gardner, W.L., Avolio, B.J., Luthans, F., May, D.R., & Walumbwa, F. (2005). *“Can you see the real me?” A self-based model of authentic leader and follower development.* The Leadership Quarterly, (16), pp. 343-372.
-
-Lipmanowicz, H. & McCandless, K. (2013). *The surprising power of liberating structures: Simple rules to unleash a culture of innovation.* Liberating Structures Press.
-
-
- 
+- Gardner, W.L., Avolio, B.J., Luthans, F., May, D.R., & Walumbwa, F. (2005). *“Can you see the real me?” A self-based model of authentic leader and follower development.* The Leadership Quarterly, (16), pp. 343-372.  
+- Lipmanowicz, H. & McCandless, K. (2013). *The surprising power of liberating structures: Simple rules to unleash a culture of innovation.* Liberating Structures Press.  

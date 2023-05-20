@@ -1,42 +1,54 @@
 # Learning Communities
 
+![Guiding Questions](assets/unit4/LDRS664-BannerUnit4.jpg "What is a learning community? What key elements are essential to learning communities?")
+
 ## Overview {-}
+
 In this unit, we will review several models of “learning communities” that provide visual representations of educational learning environments. A learning community can be created within a specific course, academic program, or professional context. Learning communities can be found across university campuses and often include a set of interdisciplinary, paired-courses that students take as a cohort. They can be grounded in residence halls with an integration of living and learning. Or, they can be developed in formal educational environments with a focus on students learning together as a cohort. Professional learning communities have also emerged as an important force in education and other fields, as colleagues gather around a shared interest, a focus on continuous quality improvement, and a shared discipline.
 
 Learning communities are authentic, emotionally-safe and inclusive spaces (whether physical or virtual) where learners and teachers come together to engage in deep learning. By definition, a learning community includes both LEARNING and COMMUNITY.
 
-Unit 4 focuses on 2 guiding questions:
+**Unit 4 focuses on 2 guiding questions:**
 
-![Guiding Questions](assets/unit4/LDRS664-BannerUnit4.jpg)
+- What is a learning community?  
+- What key elements are essential to learning communities?  
 
-
-##  Topics{-}
+### Topics{-}
 
 In this unit, our topics explore three different models of learning communities.
 
-1.  Pyramid Model of Learning Communities (Brower & Dettinger, 1998)
-2.  The Community of Truth (Palmer, 2017)
-3.  Trinity Community of Inquiry (Madland, 2017)
+1. Pyramid Model of Learning Communities (Brower & Dettinger, 1998)  
+2. The Community of Truth (Palmer, 2017)  
+3. Trinity Community of Inquiry (Madland, 2017)  
 
-
-##  Learning Outcomes{-}
+### Learning Outcomes{-}
 
 When you have completed this unit you should be able to:
 
-- Describe elements of an authentic learning community.
-- Compare learning community models.
+- Describe elements of an authentic learning community.  
+- Compare learning community models.  
 
-
-##  Activity Checklist {-}
+### Activity Checklist {-}
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
-| **Learning Activities**|
-|----|
-| Activity: Read “What IS a Learning Community?” (Brower & Dettinger, 1998) and respond in your Reflective Journal. Alternatively, read and reflect on Defining and Measuring Academic Success (York et. Al).  |
-| Activity: Read and reflect on *The Courage to Teach,*  Chapter 4 Knowing in Community (Palmer, P. (2017).    |
-| Activity: Read and reflect on Trinity Community of Inquiry (Madland, 2017).             |
-| **Assessment**: Complete your Discussion post and respond to two other peers.                    |
+```{block, type='reflect'}
+
+<span class="blockhead">Learning Activities</span>
+
+- Read “What IS a Learning Community?” (Brower & Dettinger, 1998) and respond in your Reflective Journal. Alternatively, read and reflect on Defining and Measuring Academic Success (York et. Al).  
+- Read and reflect on *The Courage to Teach,*  Chapter 4 Knowing in Community (Palmer, P. (2017).    
+- Read and reflect on Trinity Community of Inquiry (Madland, 2017).  
+
+```
+
+```{block, type='assessment'}
+
+<span class="blockhead">Assessment</span>
+
+- Complete your Discussion post and respond to two other peers.  
+
+```
 
 ## Learning Community Pyramid
 
@@ -48,23 +60,29 @@ According to Brower & Dettinger (1998), “Learning communities, to be considere
 
 As you consider the learning community you will facilitate, consider how you might develop or model professional, ethical, and civic responsibility within that community. Do you think leaders should develop these same areas of responsibility with the organizations or companies they lead?
 
-###  Activity: Compare Community Models
+### Activity: Compare Community Models {-}
 
 ```{block, type='reflect'}
 
 Read [“What IS a Learning Community?” (Brower & Dettinger, 1998)](assets/unit4/Learning_community.pdf){target="_blank"}.
 
-In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community. Do you think this model accurately reflects the type of learning community you want to create? Why or Why not? As we compare the other two models, feel free to organize your thoughts into a chart such as the following:
+**In your Reflective Journal:**  
+  - Write down three strengths of this learning community model.  
+  - Write 2-3 questions you have about this learning community.  
+  - Do you think this model accurately reflects the type of learning community you want to create?  
+  - Why or Why not?  
+  
+**As we compare the other two models, feel free to organize your thoughts into a chart such as the following:**
 
+| Strengths of model | Aspects Unique to this Model | Questions |
+| ------------------ | ---------------------------- | --------- |
+| Learning Community Pyramid (Brower & Dettinger, 1998)   |  |  |
+| Community of Truth model (Palmer, 2017)                 |  |  |
+| Trinity Community of Inquiry (Madland, 2017)            |  |  |
 
-|                                                      | Strengths of model | Aspects Unique to this Model | Questions |
-| ---------------------------------------------------- | ------------------ | ---------------------------- | --------- |
-| Learning Community Pyramid (Brower & Dettinger, 1998) |                    |                              |           |
-| Community of Truth model (Palmer, 2017)              |                    |                              |           |
-| Trinity Community of Inquiry (Madland, 2017)         |                    |                              |           |
 ```
 
-### Activity:  York Reading and Reflection
+### Activity: York Reading and Reflection {-}
 
 ```{block, type='reflect'}
 
@@ -93,21 +111,26 @@ Instead of solely focusing on what we must teach (and what students must learn),
 
 Palmer’s (2017) model highlights the relational knowledge of learning communities, underscoring not just the relationship of the people involved, but also the relationships between people and subject. As you consider facilitating learning communities, give some thought to your own relationship to the subject to be taught and learned. Consider whether you “know” this subject objectively or subjectively.
 
-### Activity:  Palmer Reading and Reflection
+### Activity:  Palmer Reading and Reflection {-}
 
 ```{block, type='reflect'}
 Read *The Courage to Teach,* Chapter 4 “Knowing in Community” (Palmer, 2017).
 
-In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community. Do you think this model accurately reflects the type of learning community you want to create? Why or Why not?
+**In your Reflective Journal:**  
+  - Write down three strengths of this learning community model.  
+  - Write 2-3 questions you have about this learning community.  
+  - Do you think this model accurately reflects the type of learning community you want to create?  
+  - Why or Why not?  
+
 ```
 
 ## The TWU Community of Inquiry (Madland, 2017)
 
 In our online courses, Trinity Western University seeks to create learning communities that engage student learning on a cognitive, social, and spiritual level. The TWU Community of Inquiry model is a visual representation of these three aspects of learning (Social, Cognitive, and Spiritual), and how they interact with each other. At the intersections of these elements, you find:
 
-1.  Community of Inquiry
-2.  Community of Faith
-3.  Integration of Faith and Reason
+1. Community of Inquiry  
+2. Community of Faith  
+3. Integration of Faith and Reason  
 
 Combined, these three elements can lead to transformational learning – an aspiration we hold in this course and program – and a fundamental goal of higher education in a broader sense.
 
@@ -119,54 +142,63 @@ Combined, these three elements can lead to transformational learning – an aspi
 Figure 1. Transformational Learning Model from Madland, C. (2017). The TWU Community of Inquiry. Creative Commons
 License.
 
-### Activity:  Madland Reading and Reflection
+### Activity:  Madland Reading and Reflection {-}
 
 ```{block, type='reflect'}
 
-Review the [The Trinity Community of Inquiry](assets/unit4/Madland-transformational-learning.pdf)(Madland, 2017).
-In your Reflective Journal, write down three strengths of this learning community model. Write 2-3 questions you have about this learning community? Do you think this model accurately reflects the type of learning community you want to create? Why or Why not?
-```
+Review the [The Trinity Community of Inquiry](assets/unit4/Madland-transformational-learning.pdf) (Madland, 2017).
 
+**In your Reflective Journal:**  
+  - Write down three strengths of this learning community model.  
+  - Write 2-3 questions you have about this learning community.  
+  - Do you think this model accurately reflects the type of learning community you want to create?  
+  - Why or Why not?  
+
+```
 
 ## Unit 4 Summary {-}
 
 The learning community models we have considered in this unit share some similarities. In each model, there is an awareness that learners and learning is multidimensional. As we engage in teaching and learning, we must always be aware that the learning process is, fundamentally, transformative. It engages people, not only on an intellectual level, but also on a spiritual and social level. By designing curriculum, pedagogy, and learning around all aspects of learning – social, cognitive, and spiritual – we provide the foundation for transformational learning.
 
-Palmer (2017) puts it this way:   
+Palmer (2017) puts it this way:  
+
 >The reality we belong to, the reality we long to know, extends far beyond human beings interacting with one another… This is a community held together not only by our personal powers of thought and feeling but also by the power of ‘the grace of great things’” (p. 109).
 
 As Palmer (2017) points out, learning includes both thought (cognitive) and feeling (social), but also something beyond those – the overarching spiritual nature of life and learning.
 
-##  Assessment {-}
+## Assessment {-}
+
 ```{block, type='assessment'}
-### Unit 4 Discussion
+
+<span class="blockhead">Unit 4 Discussion</span>
 
 After completing this unit, including the learning activities, you are asked to write a 250-word discussion post on the following:
 
 Provide a brief description of each of the three models (with citations as appropriate). Select the learning community model that most closely aligns with your identity and values as a teacher/facilitator. In your post, tell your readers the strengths you see in this model, explaining why it resonates with your concepts of teaching and learning.
 
-Please submit your discussion posts and responses in the **Unit 4 Discussion Forum** in Moodle.
+```
 
-See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
+```{block, type='caution'}
+
+*Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
 
 ```
 
-###  Checking your Learning {-}
-```{block, type='progress'}
-Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
+### Checking your Learning {-}
 
-  - describe elements of an authentic learning community?
-  - compare learning community models?
+```{block, type='progress'}
+
+**Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
+
+- describe elements of an authentic learning community?  
+- compare learning community models?  
+
 ```
 
 ## References {-}
 
-Athabasca University. (n.d.) Community of Inquiry Model. Retrieved from: https://coi.athabascau.ca/coi-model
-
-Brower, A., Carlson-Dakes, C.G., Barger, S.S. (2007). A learning community model of graduate student professional teaching excellence. *Wisconsin Center for the Advancement of Postsecondary Education*. Retrieved from: https://minds.wisconsin.edu/bitstream/handle/1793/43615/WP010.pdf?sequence=1&isAllowed=y
-
-Brower, A. & Dettinger, K. (1998). What is a learning community?: Toward a comprehensive model. *About Campus: Enriching the Student Experience. 3*(5), 15-21*. *
-
-Madland, C. (2017). The Trinity Community of Inquiry. Creative Commons License.
-
-Palmer, P. (2017). *The courage to teach: Exploring the inner landscape of a teacher’s life.* San Francisco: Wiley.
+- Athabasca University. (n.d.) Community of Inquiry Model. Retrieved from: https://coi.athabascau.ca/coi-model  
+- Brower, A., Carlson-Dakes, C.G., Barger, S.S. (2007). A learning community model of graduate student professional teaching excellence. *Wisconsin Center for the Advancement of Postsecondary Education*. Retrieved from: https://minds.wisconsin.edu/bitstream/handle/1793/43615/WP010.pdf?sequence=1&isAllowed=y  
+- Brower, A. & Dettinger, K. (1998). What is a learning community?: Toward a comprehensive model. *About Campus: Enriching the Student Experience. 3*(5), 15-21*.  
+- Madland, C. (2017). The Trinity Community of Inquiry. Creative Commons License.  
+- Palmer, P. (2017). *The courage to teach: Exploring the inner landscape of a teacher’s life.* San Francisco: Wiley.  

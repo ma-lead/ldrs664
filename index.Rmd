@@ -1,6 +1,6 @@
 ---
 title: "LDRS 664 - Creating Authentic Learning Communities"
-date: "`r Sys.Date()`"
+date: <!--"`r Sys.Date()`"-->
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -81,8 +81,6 @@ Learners explore theoretical foundations of learning communities, evaluate strat
 
 This course is part of the *Graduate Certificate in Adult Learning: Coaching and Facilitation* and qualifies as an elective in the MA Leadership program.
 
----
-
 ## Course Learning Outcomes{-}
 
 On successfully completing this course, students should be able to:
@@ -93,8 +91,6 @@ On successfully completing this course, students should be able to:
 4.  Evaluate strategies for developing learning connections with and between students.  
 5.  Apply strategies for creating authentic learning communities that include indigenous ways of knowing.  
 6.  Analyze the effectiveness of training and employee development.  
-
----
 
 ## Course Activities/Requirements{-}
 
@@ -110,11 +106,8 @@ Activities include participation in discussions, assignments, and various ungrad
 | Assignment 2: Company Website Analysis | 20%       | 2,3,4,5 |
 | Assignment 3: Platform Paper           | 30%       | 4-5 |
 
-
 See **Assessments** section in Moodle for specific assignment details, including
 grading rubrics.
-
----
 
 ## Course Topics{-}
 
@@ -138,8 +131,6 @@ grading rubrics.
 
  Unit 10: Conclusions  
 
----
-
 ## Course Resources{-}
  The following are key resources used in LDRS 664.  
 
@@ -160,7 +151,6 @@ grading rubrics.
 ```{block, type='caution'}
 Note that not all sections of LDRS 664 use all of the above resources. Please confirm which of the following texts are required by ***checking your course syllabus.***
 ```
----
 
 ## Course Navigation{-}
 
@@ -194,7 +184,7 @@ This box will signify an assignment or discussion post you will submit in Moodle
 This box is for checking your understanding, to make sure you are ready for what follows.
  ```
 
- ```{block, type='video'}
+ ```{block, type='reflect'}
 ***Media***  
 This box is for displaying/linking to media, such as videos or songs, in order to help illustrate or communicate concepts.
  ```
@@ -203,7 +193,6 @@ This box is for displaying/linking to media, such as videos or songs, in order t
 ***Note***  
 This box signifies key notes, such as where to submit assignments.  It may also warn you of possible problems or pitfalls you may encounter!
  ```
-
 
 ### How To Navigate This Book{-}
  To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, change font settings, download a pdf or ebook copy of this book, or get hints on various sections of the book.
@@ -216,8 +205,6 @@ This box signifies key notes, such as where to submit assignments.  It may also 
  knitr::include_graphics("assets/course-intro/left_arrow.png")
  knitr::include_graphics("assets/course-intro/right_arrow.png")
  ```
-
- ---
 
 ## Graduate Level Writing Standards{-}
 
