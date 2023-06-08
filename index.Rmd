@@ -17,7 +17,7 @@ On the next page you will find a summary of the course syllabus, as well as how 
 I hope you enjoy the course.
 
 
-# Course Notes {-}
+## Course Notes {-}
 
 ### How To Navigate This Book {-}
 
@@ -72,7 +72,7 @@ This box is for checking your understanding, to make sure you are ready for what
 ***Note***  
 This box signifies key notes, such as where to submit assignments.  It may also warn you of possible problems or pitfalls you may encounter!
  ```
-# Course Description{-}
+## Course Description {-}
 
 Learners explore theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.   Learners explore teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment. Learners explore themes such as identity, perception, interconnectedness and learning organizations. Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment. 
 
@@ -85,17 +85,16 @@ This course is part of the *Graduate Certificate in Adult Learning: Coaching and
 
 On successfully completing this course, students should be able to:
 
-1.  Interpret the influence of teacher authenticity on student learning.  
-2.  Develop a personal philosophy of their role as facilitator in creating authentic learning communities.  
-3.  Create a platform of beliefs regarding adult learning for a specific organization.  
-4.  Evaluate strategies for developing learning connections with and between students.  
-5.  Apply strategies for creating authentic learning communities that include indigenous ways of knowing.  
-6.  Analyze the effectiveness of training and employee development.  
+1. Interpret the influence of teacher authenticity on student learning.  
+2. Develop a personal philosophy of their role as facilitator in creating authentic learning communities.  
+3. Create a platform of beliefs regarding adult learning for a specific organization.  
+4. Evaluate strategies for developing learning connections with and between students.  
+5. Apply strategies for creating authentic learning communities that include indigenous ways of knowing.  
+6. Analyze the effectiveness of training and employee development.  
 
 ## Course Activities/Requirements{-}
 
 Activities include participation in discussions, assignments, and various ungraded learning activities designed to prepare students for assessments.  See course outline below for details on activities and assignments.
-
 
 ## Determination Of Final Grade{-}
 

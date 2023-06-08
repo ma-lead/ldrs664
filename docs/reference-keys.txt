@@ -2,7 +2,6 @@ fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 fig:unnamed-chunk-15
 fig:unnamed-chunk-16
-communication-tools
 the-heart-of-a-teacher
 authenticity-in-teaching-and-learning
 identity-and-integrity-as-a-coachfacilitator

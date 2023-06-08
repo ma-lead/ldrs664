@@ -5,16 +5,19 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -127,7 +130,7 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
+\urlstyle{same}
 \hypersetup{
   pdftitle={LDRS 664 - Creating Authentic Learning Communities},
   hidelinks,
@@ -155,8 +158,8 @@ On the next page you will find a summary of the course syllabus, as well as how 
 I hope you enjoy the course.
 
 \hypertarget{course-notes}{%
-\chapter*{Course Notes}\label{course-notes}}
-\addcontentsline{toc}{chapter}{Course Notes}
+\section*{Course Notes}\label{course-notes}}
+\addcontentsline{toc}{section}{Course Notes}
 
 \hypertarget{how-to-navigate-this-book}{%
 \subsection*{How To Navigate This Book}\label{how-to-navigate-this-book}}
@@ -235,8 +238,8 @@ Below is some key information on features you will see throughout the course.
   \end{caution}
 
 \hypertarget{course-description}{%
-\chapter*{Course Description}\label{course-description}}
-\addcontentsline{toc}{chapter}{Course Description}
+\section*{Course Description}\label{course-description}}
+\addcontentsline{toc}{section}{Course Description}
 
 Learners explore theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.~~ Learners explore teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment. Learners explore themes such as identity, perception, interconnectedness and learning organizations. Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment.~
 
@@ -280,15 +283,16 @@ Activities include participation in discussions, assignments, and various ungrad
 \addcontentsline{toc}{section}{Determination Of Final Grade}
 
 \begin{longtable}[]{@{}lll@{}}
-\toprule()
+\toprule\noalign{}
 \textbf{Assessment} & \textbf{Grade} & Learning Outcome \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Community of Inquiry (Discussions) & 30\% & 1-7 \\
 Assignment 1: Identity as a Teacher~ & 20\% & 2,4,5,6 \\
 Assignment 2: Company Website Analysis & 20\% & 2,3,4,5 \\
 Assignment 3: Platform Paper & 30\% & 4-5 \\
-\bottomrule()
 \end{longtable}
 
 See~\textbf{Assessments}~section in Moodle for specific assignment details, including
@@ -439,41 +443,6 @@ agree to the information provided at the
 Dishonesty Policy website}. If you have any questions at all please
 contact your instructor.}}
 \end{caution}
-
-\hypertarget{ldrs-664-communities}{%
-\chapter*{LDRS 664 Communities}\label{ldrs-664-communities}}
-\addcontentsline{toc}{chapter}{LDRS 664 Communities}
-
-As this course focuses on building community with your learners, how will you build community with your colleagues?
-
-In this course, we have the following tools available to help foster community in your course, including other students who have previously taken LDRS 664. Some of these tools will be prescribed and graded (e.g.~Moodle Discussion Forums), others will be up to you to take advantage of.
-
-Check with your course syllabus for which community tools will be used, and consider building your own Community of Practice with your classmates and external colleagues.
-
-\hypertarget{communication-tools}{%
-\section{Communication Tools}\label{communication-tools}}
-
-\textbf{Moodle Discussion Forums}: In this course, we ask you to discuss ideas with your colleagues, challenging one another and analyzing key course resources. Refer to the course syllabus for assessment details, as well as the unit Assessment section for discussion questions. Submit your responses in Moodle.
-
-\textbf{Video Conferencing}: We will have scheduled online meetings (Zoom or Teams). Take advantage of these face-to-face conferences! Come prepared with your questions and assigned activities. Refer to the course syllabus and unit activity instructions for details.
-
-\emph{Optional:}
-
-Your cohort may want to engage in other informal discussions to build community and support each other. Consider using the following:
-
-\textbf{Learning Cafe:} This discussion forum in Moodle is a place for you to interact about things going on, share resources, and generally get to know one another. Your posts don't have to be course related. Take this opportunity to connect with fellow learners and learn from one another!
-
-\textbf{Teams:} Every TWU course has a Teams channel, mostly to manage videos. Feel free to use the messaging feature to connect with peers.
-
-\textbf{Twitter hashtag \#LDRS664:} You can tweet about this course using \#LDRS664.
-
-\textbf{What's App:} Feel free to use a platform that works for you!! What's App is a popular chat forum that learners use for discussions, class projects, etc.
-
-A key takeaway\ldots make these forums work for you! Interact with your peers, learn from each other, and make connections that will stay with you beyond this course.
-
-With that, let's begin the journey together!
-
-\includegraphics{assets/community/luke-porter-NEqEC7qa9FM-unsplash.jpg}
 
 \hypertarget{the-heart-of-a-teacher}{%
 \chapter{The Heart of a Teacher}\label{the-heart-of-a-teacher}}
@@ -950,8 +919,12 @@ These~learning activities will engage you in considering the guiding questions f
 \begin{assessment}
 {Assessment}
 
-Unit 2 Discussion**: Write a discussion post~on belonging and the ``Nine
-Why's'' activity. See the Assessments section for more details.
+\begin{itemize}
+\tightlist
+\item
+  Unit 2 Discussion: Write a discussion post~on belonging and the ``Nine
+  Why's'' activity. See the Assessments section for more details.
+\end{itemize}
 \end{assessment}
 
 \hypertarget{belonging-to-myself}{%
@@ -1725,14 +1698,15 @@ community you want to create?\\
 thoughts into a chart such as the following:}
 
 \begin{longtable}[]{@{}lll@{}}
-\toprule()
+\toprule\noalign{}
 Strengths of model & Aspects Unique to this Model & Questions \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Learning Community Pyramid (Brower \& Dettinger, 1998) & & \\
 Community of Truth model (Palmer, 2017) & & \\
 Trinity Community of Inquiry (Madland, 2017) & & \\
-\bottomrule()
 \end{longtable}
 \end{reflect}
 
@@ -1805,7 +1779,7 @@ In our online courses, Trinity Western University seeks to create learning commu
 
 Combined, these three elements can lead to transformational learning -- an aspiration we hold in this course and program -- and a fundamental goal of higher education in a broader sense.
 
-\includegraphics{assets/unit4/community-of-transformational-learning.png}
+\includegraphics{assets/unit4/community-of-transformational-learning.jpg}
 
 {Community of Transformational Learning} by Colin Madland is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
@@ -4080,20 +4054,21 @@ grade.
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0336}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.9664}}@{}}
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 Mark
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Details
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 \textbf{9-10}\emph{Exemplary} & • Identifies information from the assigned reading and viewing that resonates or is striking and clearly explains the reason for their choices.• The responses show superior depth of knowledge on the topic, clear synthesis and analysis of the content, and provide depth, breath, or new insight to the topic.• Demonstrates an accurate understanding of this chosen information.• Uses information from the text to interpret chosen concepts or make connections to other situations or contexts logically through analysis, evaluation, inference, or comparison/contrast.• Defines uncommon or challenging words and shows evidence of doing the intellectual work necessary to understand challenging text.• Identifies points of view and implications in the text and critically analyses own response to these.• No errors in grammar or composition. Word limit and format followed. Posted on time. \\
 \textbf{6-8}\emph{Proficient} & • Identifies information from the assigned reading and viewing that resonates or is striking but the reason for their choices is not completely or clearly explained.• The responses show adequate depth of knowledge on the topic, a good synthesis but may lack in evaluation of the content read, and providing new insight to the topic.• Demonstrates a partial understanding of this chosen information in the text or viewing.• Uses information from the text/viewing to interpret chosen concepts but does not makeconnections to other situations or contexts.• Partially integrates interpretation of the text with text-based support.• Does not define uncommon or challenging words necessary to understanding the text.• Does not identify points of view and implications in the text or critically analyze their ownresponse to these.• Fewer than 3 errors in grammar or composition. Word limit and format not followed. Notposted on time. \\
 \textbf{3-5}\emph{Developing} & • Demonstrates insufficient understanding of the chosen concepts.• Responses show inadequate depth of knowledge on the topic, a synthesis that misses key concepts, and is not a critical analysis.• Uses information from the text to make simplistic interpretations of the text without using significant concepts or by making only limited connections to other situations or contexts.• Does not integrate interpretation of the text with text-based support.• Does not define uncommon or challenging words necessary to understanding the text.• Does not identify points of view and implications in the text or critically analyze their own response to these.• More than 3 errors in grammar or composition. Word limit and format followed. Not postedon time. \\
 \textbf{1-2}Unsatisfactory & • Demonstrates little or no understanding of the text; may be inaccurate. Responses are superficial and do not include critical analysis.• Little or no interpretation of the text.• Response is insufficient to show that criteria are met.• More than 5 errors in grammar or composition. Word limit and format followed. Not posted on time. \\
 \textbf{0}\emph{Incomplete} & • Response is absent or does not address the task.• Response is insufficient to show that criteria are met. \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{assignment-identity-as-a-teacherfacilitator}{%
@@ -4126,7 +4101,7 @@ you facilitate/teach.
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2396}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2812}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2266}}@{}}
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Unsatisfactory
@@ -4137,15 +4112,16 @@ Proficient
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Exemplary
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 \textbf{APA/Writing} & Paper does not model language and conventions used in scholarly literature. Writing is not well-organized. Several errors in grammar or composition. Sources are not cited. APA citations are not appropriately formatted. & Paper partially models language and conventions used in scholarly literature. Writing is somewhat well organized and includes some errors in grammar or composition. Not all sources cited. APA citations are generally formatted correctly, with several errors. & Paper consistently models language and conventions used in scholarly literature. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited (including in-text citations and bibliography information). Few (if any) errors in APA citations. & Paper is an exemplar of language and conventions used in scholarly literature. Writing is well-organized and free of errors in grammar or composition. All resources are appropriately cited. No errors in APA format. \\
 \textbf{Statement of Teaching Identity} & Does not provide a statement about identity as a teacher/facilitator & Provides an unclear statement about identity as a teacher/facilitator. & Provides a clear, concise, and powerful statement about identity as a teacher/facilitator. & Provides a clear, concise, and powerful statement about identity as a teacher/facilitator. Statement incorporates theory or research from course materials. \\
 \textbf{Developing a Cohesive and Logical Academic Argument} & Does not make a focused, cohesive, or logical academic argument. Paper is confusing, and is missing an introduction, body, or conclusion. Transitions between sections and ideas are missing. & Makes an academic argument that is only partially focused, cohesive and logical. Paper is generally organized, but is missing an introduction, body, or conclusion. Transitions between sections and ideas are unclear. & Makes a focused, cohesive, logical academic argument. Paper is effectively organized and includes an introduction, body, and conclusion. Transitions between sections and ideas are clear. & Makes a focused, cohesive, logical and compelling academic argument. Paper is effectively organized and includes an introduction, body, and conclusion. Transitions between sections and ideas are clear, and build on each other. \\
 \textbf{Analysis of Identity as a Teacher} & Does not include three important aspects of identity as a teacher/facilitator. Does not include an analysis. & Lists but does not discuss three important aspects of identity as a teacher/facilitator. Includes a partial analysis. & Includes a detailed discussion of three important aspects of identity as a teacher/facilitator. Includes thoughtful analysis of each of the three elements. & Includes a detailed discussion of three important aspects of identity as a teacher/facilitator. Includes a thoughtful analysis, integrating scholarly literature to support analysis and furthering scholarly thinking related to teacher identity. \\
 \textbf{Scholarly Integration} & Does not integrate references to support claims and assertions made in the paper. & Integrates references to support some of the claims and assertions made in the paper. & Integrates references to support claims and assertions made in the paper. & Integrates references to support claims and assertions made in the paper, effectively synthesizing different perspectives and research results from scholarly sources. \\
 \textbf{Total} & 0 = 0\% (F) & 10 = 50\% (C) & 15 = 75 (B) & 20 = 100\% (A+) \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{assignment-company-website-analysis}{%
@@ -4220,7 +4196,7 @@ scholarly sources you have identified.
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2034}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2034}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1864}}@{}}
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Unsatisfactory
@@ -4231,8 +4207,10 @@ Proficient
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Exemplary
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 \textbf{APA Formatting} & Paper does not model language and conventions used in scholarly literature. Writing is not well-organized. Several errors in grammar or composition. Sources are not cited. APA citations are not appropriately formatted. & Paper partially models language and conventions used in scholarly literature. Writing is somewhat well organized and includes some errors in grammar or composition. Not all sources cited. APA citations are generally formatted correctly, with several errors. & Paper consistently models language and conventions used in scholarly literature. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited (including in-text citations and bibliography information). Few (if any) errors in APA citations. & Paper is an exemplar of language and conventions used in scholarly literature. Writing is well-organized and free of errors in grammar or composition. All resources are appropriately cited. No errors in APA format. \\
 \textbf{Developing a Cohesive and Logical Academic Argument} & Does not make a focused, cohesive, or logical academic argument. Paper is confusing, and is missing an introduction, body, or conclusion. Transitions between sections and ideas are missing. & Makes an academic argument that is only partially focused, cohesive and logical. Paper is generally organized, but is missing an introduction, body, or conclusion. Transitions between sections and ideas are unclear. & Makes a focused, cohesive, logical academic argument. Paper is effectively organized and includes an introduction, body, and conclusion. Transitions between sections and ideas are clear. & Makes a focused, cohesive, logical and compelling academic argument. Paper is effectively organized and includes an introduction, body, and conclusion. Transitions between sections and ideas are clear and build on each other. \\
 \textbf{Analysis of Learning Culture} & Does not include an analysis of the company learning culture, and no evaluation of the authenticity of the learning community. & Includes a partial analysis of the company learning culture, including a limited evaluation of the authenticity of the learning community. & Includes a detailed analysis of the company learning culture, including an evaluation of the authenticity of the learning community. & Includes a detailed analysis of the company learning culture, including an evaluation of the authenticity of the learning community. Includes a thoughtful analysis, integrating scholarly literature to support analysis and furthering scholarly thinking related to teacher identity. \\
@@ -4240,7 +4218,6 @@ Exemplary
 \textbf{Analysis of Adult Learning Strategies} & Does not include a detailed analysis of valued skills and evidence of adult learning theory in employee development. Does not integrate scholarly sources. & Includes a partial analysis of valued skills and evidence of adult learning theory in employee development. Analysis integrates few, if any, scholarly sources. & Includes a detailed analysis of valued skills and evidence of adult learning theory in employee development. Analysis integrates scholarly sources. & Includes a detailed analysis of valued skills and evidence of adult learning theory in employee development. Includes recommendations for ways in which to integrate adult learning theory into employee development. \\
 \textbf{Scholarly Integration} & Does not integrate scholarly references to support claims and assertions made in the paper. & Integrates scholarly references to support some of the claims and assertions made in the paper. & Integrates scholarly references to support claims and assertions made in the paper. & Integrates scholarly references to support claims and assertions made in the paper, effectively synthesizing different perspectives and research results from scholarly sources. \\
 \textbf{Total} & 0 = 0\% (F) & 10 = 50\% (C) & 15 = 75 (B) & 20 = 100\% (A+) \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{assignment-platform-paper}{%
@@ -4325,7 +4302,7 @@ final Platform Paper. Peer reviewers will be assigned in advance.
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2318}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2362}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2687}}@{}}
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Unsatisfactory
@@ -4336,15 +4313,16 @@ Proficient
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Exemplary
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 \textbf{APA/Writing} & Paper does not model language and conventions used in scholarly literature. Writing is not well-organized. Several errors in grammar or composition. Sources are not cited. APA citations are not appropriately formatted. & Paper partially models language and conventions used in scholarly literature. Writing is somewhat well organized and includes some errors in grammar or composition. Not all sources cited. APA citations are generally formatted correctly, with several errors. & Paper consistently models language and conventions used in scholarly literature. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited (including in-text citations and bibliography information). Few (if any) errors in APA citations. & Paper is an exemplar of language and conventions used in scholarly literature. Writing is well-organized and free of errors in grammar or composition. All resources are appropriately cited. No errors in APA format. \\
 \textbf{Developing a Cohesive and Logical Academic Argument} & Does not make a focused, cohesive, or logical academic argument. Paper is confusing, and is missing an introduction, body, or conclusion. Transitions between sections and ideas are missing. & Makes an academic argument that is only partially focused, cohesive and logical. Paper is generally organized, but is missing an introduction, body, or conclusion. Transitions between sections and ideas are unclear. & Makes a focused, cohesive, logical academic argument. Paper is effectively organized and includes an introduction, body, and conclusion. Transitions between sections and ideas are clear. & Makes a focused, cohesive, logical and compelling academic argument. Paper is effectively organized and includes an introduction, body, and conclusion. Transitions between sections and ideas are clear and build on each other. \\
 \textbf{Ideal Learning Environment} & Does not include a description of your ideal learning environment. Does not reference scholarly sources. Does note analyze key elements of an authentic learning community. Does not mention or describe the learning community environment, student learning outcomes, learning outcomes and personal beliefs about teaching and learning. & Includes a partial description of your ideal learning environment, referencing few scholarly sources and including a partial analysis of key elements of an authentic learning community. Mentions some elements, but does not fully describe the learning community environment, student learning outcomes, learning outcomes and personal beliefs about teaching and learning. & Includes a detailed description of your ideal learning environment, referencing scholarly sources and analyzing key elements of an authentic learning community. Describes the learning community environment, student learning outcomes, learning outcomes and personal beliefs about teaching and learning. & Includes a detailed description of your ideal learning environment, referencing scholarly sources and analyzing key elements of authentic learning communities. Provides a rationale for key elements of the learning community environment, student learning outcomes, learning outcomes and personal beliefs about teaching and learning. Advances scholarly thinking about authentic learning communities. \\
 \textbf{Your Role as Teacher and Leader} & Does not include a description of your role as a teacher or leader within an authentic learning community, incorporating scholarly literature. Does not include an analysis of your role as a facilitator/leader in planning learning experiences, facilitating student learning, and assessing student learning. Does not include a description of the actions, practices, and strategies you will engage in to achieve your vision of the learning community you described in section one. & Includes a partial description of your role as a teacher or leader within an authentic learning community, incorporating scholarly literature. Describes but does not analyze your role as a facilitator/leader in planning learning experiences, facilitating student learning, and assessing student learning. Lists but does not describe the actions, practices, and strategies you will engage in to achieve your vision of the learning community you described in section one. & Includes a detailed description of your role as a teacher or leader within an authentic learning community, incorporating scholarly literature. Includes a detailed analysis of your role as a facilitator/leader in planning learning experiences, facilitating student learning, and assessing student learning. Includes a detailed description of the actions, practices, and strategies you will engage in to achieve your vision of the learning community you described in section one. & Includes a detailed analysis of your role as a teacher or leader within an authentic learning community, incorporating scholarly literature. Includes a detailed analysis of your role as a facilitator/leader in planning learning experiences, facilitating student learning, and assessing student learning. Includes a detailed description of the actions, practices, and strategies you will engage in to achieve your vision of the learning community you described in section one. Synthesizes scholarly thinking about the role of the teacher/leader. \\
 \textbf{Scholarly Integration} & Does not integrate scholarly references to support claims and assertions made in the paper. & ntegrates fewer than 10 scholarly sources to support arguments made in the paper. & Integrates a minimum of 10 scholarly sources to support arguments made in each section of the paper. & Integrates a minimum of 10 references to support the arguments made in each section, including several scholarly sources not included in course materials. \\
 \textbf{Total} & 0 = 0\% (F) & 10 = 50\% (C) & 15 = 75 (B) & 20 = 100\% (A+) \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{course-credits}{%
