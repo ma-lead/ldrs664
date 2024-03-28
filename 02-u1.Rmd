@@ -35,7 +35,7 @@ When you have completed this unit you should be able to:
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 <span class="blockhead">Learning Activities</span>
 
@@ -45,7 +45,7 @@ These learning activities will engage you in considering the guiding questions 
 
 ```
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Assessment</span>
 
@@ -67,7 +67,7 @@ In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's
 
 ### Activity: Reading {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 As we explore the importance of the “inner life of the teacher” as a foundation for authentic learning, read Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching in The Courage to Teach (Palmer, 2017). Alternatively, read [If you Build Teachers, will students come?](https://journals-sagepub-com.twu.idm.oclc.org/doi/pdf/10.2190/2102-5G77-QL77-5506) (Goode, 2007).   
 
@@ -92,7 +92,7 @@ In order to have integrity, we must know our own values and strengths, our own b
 
 ### Activity: Reflect and Respond {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 As teachers, it’s important to identify and reflect on your own values. Take some time to answer the questions below in your Reflective Learning journal.
 
@@ -128,7 +128,7 @@ In “*To Know As We Are Known,*” Palmer (1993) suggests that learning spaces 
 
 ### Activity: Ranking {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Rank the following strategies according to your comfort level. For each strategy, list one practical action you can take in an online learning environment (as facilitator or learner) to create an authentic learning space that is hospitable and open.*
 
@@ -159,7 +159,7 @@ In this first unit, you have had the opportunity to think and learn about your i
 
 ## Assessment{-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Unit 1 Discussion</span>
 
@@ -183,7 +183,7 @@ For the second part of your discussion, write a 150-250 response to the followin
 
 ```
 
-```{block, type='caution'}
+```{block2, type='caution'}
 
 *Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
 
@@ -191,7 +191,7 @@ For the second part of your discussion, write a 150-250 response to the followin
 
 ## Checking your Learning{-}
 
-```{block, type='progress'}
+```{block2, type='progress'}
 
 **Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
 

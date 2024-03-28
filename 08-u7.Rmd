@@ -27,7 +27,7 @@ When you have completed this unit you should be able to:
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 <span class="blockhead">Learning Activities</span>
 
@@ -38,7 +38,7 @@ These learning activities will engage you in considering the guiding questions 
 
 ```
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Assessment</span>
 
@@ -78,7 +78,7 @@ In this sense, adult educators are called to be warriors for the human spirit. R
 
 ### Activity: Wheatley Reading and Reflection {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 Read Wheatley, M. (2017). *Who Do We Choose to Be? Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Wheatley chapters 3 (pages 100-139),  5 (pages 172-209 ) and 7 (pages 252-270).
 
 **As you read answer the following questions in your Reflective Learning Journal:**
@@ -90,7 +90,7 @@ Read Wheatley, M. (2017). *Who Do We Choose to Be? Facing Reality, Claiming Lea
 
 ### Activity: Wheatley Video {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 [Watch: Margaret Wheatley's *Islands of Sanity* (42 minutes)](https://www.youtube.com/watch?v=LtaYNxp56gs){target="_blank"}
 
@@ -109,7 +109,7 @@ Read Wheatley, M. (2017). *Who Do We Choose to Be? Facing Reality, Claiming Lea
 
 ### Activity: Strategies for Critical Thinking {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 Browse the following two resources and choose strategies that could be used to encourage critical thinking about information. Think about how you might adapt these strategies for your context. Jot down your ideas in your reflective journal.
 
 - Brookfield, Stephen and Preskill, S. (2016). *The discussion book: 50 great ways to get people talking*. San Francisco: Jossey Bass.  
@@ -131,7 +131,7 @@ For more information about servant leadership, please see the resource section f
 
 ### Activity: Servant Leadership Video {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Watch the video, *Ali Fett: Servant Leadership - How a jar can change the way
 you lead and serve*.
@@ -153,7 +153,7 @@ you lead and serve*.
 
 ## Assessment {-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Unit 7 Discussion</span>
 
@@ -166,7 +166,7 @@ following:**
 
 ```
 
-```{block, type='caution'}
+```{block2, type='caution'}
 
 *Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
 
@@ -180,7 +180,7 @@ You also explored the concept of the adult educator as servant leader and the im
 
 ## Checking your Learning {-}
 
-```{block, type='progress'}
+```{block2, type='progress'}
 
 **Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**  
 

@@ -6,7 +6,7 @@ Note that Assignment dropboxes are located in Moodle.  Also refer to the Course 
 
 ## Community of Inquiry (Discussions) {-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 In this course, we ask you to discuss ideas with your colleagues, challenging one another and analyzing key course resources. At the end of each units you are asked to address questions in a Moodle Forum and respond to your peers. These discussions are worth 30% of your course grade.
 
 ```
@@ -19,7 +19,7 @@ Please see the following rubric your instructor may use to measure your engageme
 
 ## Assignment: Identity as a Teacher/Facilitator {-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 Building on your learning in the first three units in this course, write a 3-4 page paper in which you describe your identity as a teacher/facilitator. Incorporate references to the unit resources, as well as other resources from your graduate coursework. The paper should include an introduction, a statement of your identity as a teacher/facilitator, and a discussion of three important aspects of that identity. Your conclusion should include a discussion of how you will use your identity to create authentic spaces for learning in the courses you facilitate/teach.
 ```
 
@@ -83,7 +83,7 @@ See the following rubric that explains how your assignment will be evaluated. Al
 
 ## Assignment: Company Website Analysis {-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 Investigate the Human Resources or Faculty Development portion of a company's website, a higher education institution or adult learning facility, preferably one with which you are familiar. Focus on the faculty or employee development part of the website. In this assignment, you will apply the theory of teaching in/for/with depth by analyzing the learning culture of an organization.
 
 In a 4-5 page APA formatted paper, analyze the website by responding to the following questions in your report:
@@ -216,7 +216,7 @@ scholarly sources.
 
 ## Assignment: Platform Paper {-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 For this assignment, you will write a contextualized Platform Paper in which you discuss your ideal learning community and your role as teacher/leader of that learning community. Select a context for your paper (i.e. facilitating in a FAR Centre in a specific country, teaching adult learners, facilitating employee development workshops, etc.).
 Your paper should be written and referenced in APA format and include references to a minimum of 10 scholarly sources (this can include literature you read in this course).
 You will write a draft of the Platform Paper in Unit 8 and post for Peer Review. In Unit 9, you will provide feedback to another learner on their paper. You will make revisions based on the Peer Review and, in Unit 10, you will submit the final Platform Paper. Peer reviewers will be assigned in advance.

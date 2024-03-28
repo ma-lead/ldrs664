@@ -30,7 +30,7 @@ When you have completed this unit you should be able to:
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 <span class="blockhead">Learning Activities</span>
 - Read assigned pages from Wheatley chapter 8 and Coda. Consider the reflection question.  
@@ -40,7 +40,7 @@ These learning activities will engage you in considering the guiding questions 
 
 ```
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 <span class="blockhead">Assessment</span>
 
 - Complete your Unit 9 Discussion post.  
@@ -68,7 +68,7 @@ Our hope and vision must be rooted in the present (See [Daily Thoughts from Jean
 
 ### Activity: Read and Reflect {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Read Wheatley, M. (2017). *Who Do We Choose to Be?: Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Chapter 8 (pages 273-288 ) and Coda (pages 292-294).
 
@@ -78,7 +78,7 @@ Read Wheatley, M. (2017). *Who Do We Choose to Be?: Facing Reality, Claiming Le
 
 ### Activity: Did You Know? {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 We will learn to trust ourselves more and build our confidence if we are able to convince even ourselves of our own self-efficacy! Watch this video (2014) ‘How to create interest and connect with anyone’ by Sam Horn.
 
@@ -119,7 +119,7 @@ I’ve used my own practice as a Christian educator as an example to give you so
 
 ### Activity: Reading {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 **Read this article:** Leary, Mark & J. Diebels, Kate & K. Davisson, Erin & P. Jongman-Sereno, Katrina & Isherwood, Jennifer & Raimi, Kaitlin & Deffler, Samantha & Hoyle, Rick. (2017). Cognitive and Interpersonal Features of Intellectual Humility. *Personality and Social Psychology Bulletin. 43*. 014616721769769. 10.1177/0146167217697695.
 
@@ -136,7 +136,7 @@ As you read this article, self-evaluate your level of openness, curiosity, toler
 
 ### Activity: Pinsent Videos {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Watch this video (2016) where Andrew Pinsent, Research Director at Oxford University answers the question: "Why is intellectual humility important for the flourishing of persons?"
 
@@ -168,7 +168,7 @@ In this unit, you have had the opportunity to learn about the role of trust, con
 
 ## Assessment {-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Unit 9 Discussion</span>
 
@@ -180,7 +180,7 @@ Write 300 words in response to the following quote by Thomas Merton, quoted in W
 
 ```
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Assignment 3: Platform Paper - Peer Review Feedback (30%)</span>
 
@@ -213,7 +213,7 @@ You will write a draft of the Platform Paper in Unit 8 and post for Peer Review.
 
 ```
 
-```{block, type='caution'}
+```{block2, type='caution'}
 
 *Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
 
@@ -221,7 +221,7 @@ You will write a draft of the Platform Paper in Unit 8 and post for Peer Review.
 
 ## Checking your Learning {-}
 
-```{block, type='progress'}
+```{block2, type='progress'}
 
 **Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit.**
 

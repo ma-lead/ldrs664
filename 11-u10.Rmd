@@ -31,7 +31,7 @@ When you have completed this unit you should be able to:
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 <span class="blockhead">Learning Activities</span>
 
@@ -41,7 +41,7 @@ These learning activities will engage you in considering the guiding questions 
 
 ```
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Assessment</span>
 
@@ -58,7 +58,7 @@ It is important to keep in mind that your personal likes and style will not be t
 
 ### Activity: Sticky Note Challenge! {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Go through the Silberman and Brookfield texts and put a ‘sticky note’ on the pages of strategies that you like and plan to use. Think about why you like these facilitation techniques and what they say about your teaching and learning style.
 
@@ -66,7 +66,7 @@ Go through the Silberman and Brookfield texts and put a ‘sticky note’ on the
 
 ### Activity: Learning Styles Video {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Watch this 5 minute video about the 4 Adult Learning Styles explained with JC Melvin.
 
@@ -96,7 +96,7 @@ Palmer (2017) suggests that change begins when we, as individual teachers and fa
 
 ### Activity: Closing Song {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 As a closing activity, enjoy listening to this song. The whole effort of taking this certificate program, of wanting to be involved in transforming others through education and indeed of all our efforts in life, is in anticipation of something more - something ‘fresh and green’. And here is a song to inspire your continued efforts: ["Fresh and Green"](https://www.youtube.com/watch?v=uKjVQ5VSaXc){target="_blank"} by Steve Bell.
 
@@ -147,7 +147,7 @@ In the role of adult educator, you have the opportunity to change lives and cult
 
 ## Assessment {-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Assignment 3: Platform Paper (30%)</span>
 
@@ -178,7 +178,7 @@ You will write a draft of the Platform Paper in Unit 8 and post for Peer Review.
 
 ```
 
-```{block, type='caution'}
+```{block2, type='caution'}
 
 *Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
 
@@ -186,7 +186,7 @@ You will write a draft of the Platform Paper in Unit 8 and post for Peer Review.
 
 ## Checking your Learning {-}
 
-```{block, type='progress'}
+```{block2, type='progress'}
 
 **Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
 

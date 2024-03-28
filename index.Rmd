@@ -23,16 +23,16 @@ I hope you enjoy the course.
 
  Take a moment to experiment with the controls in the toolbar at the top of the page. You can search this book for a word or phrase (for example, to look up a definition).To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, change font settings, download a pdf or ebook copy of this book, or get hints on various sections of the book.
 
- ```{r, echo=F, fig.cap="Top menu bar", fig.show="hold", results='asis'}
+```{r, echo=F, fig.cap="Top menu bar", fig.show="hold", results='asis'}
  knitr::include_graphics("assets/course-intro/menu.png")
- ```
+```
 
  The faint left and right arrows at the sides of each page (or bottom of the page if it’s narrow enough) allow you to step to the next/previous section. Here’s what they look like:
 
- ```{r, echo=F, fig.cap="Left and right navigation arrows", fig.show="hold", results='asis'}
+```{r, echo=F, fig.cap="Left and right navigation arrows", fig.show="hold", results='asis'}
  knitr::include_graphics("assets/course-intro/left_arrow.png")
  knitr::include_graphics("assets/course-intro/right_arrow.png")
- ```
+```
 
 You can also download an offline copy of this books in various formats, such as pdf or an ebook. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at elearning@twu.ca
 
@@ -45,33 +45,33 @@ You can also download an offline copy of this books in various formats, such as 
 - Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.
 - The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.
 
- ```{block, type='caution'}
+```{block2, type='caution'}
  Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for the assignment dropboxes.
- ```
+```
 
 ## Course Activities {-}
 
 Below is some key information on features you will see throughout the course.
 
- ```{block, type='reflect'}
+```{block2, type='reflect'}
 ***Learning Activity***  
 This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
- ```
+```
 
- ```{block, type='assessment'}
+```{block2, type='assessment'}
 ***Assessment***  
 This box will signify an assignment or discussion post you will submit in Moodle.  Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
- ```
+```
 
- ```{block, type='progress'}
+```{block2, type='progress'}
 ***Checking Your Learning***  
 This box is for checking your understanding, to make sure you are ready for what follows.
- ```
+```
 
-  ```{block, type='caution'}
+```{block2, type='caution'}
 ***Note***  
 This box signifies key notes, such as where to submit assignments.  It may also warn you of possible problems or pitfalls you may encounter!
- ```
+```
 ## Course Description {-}
 
 Learners explore theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.   Learners explore teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment. Learners explore themes such as identity, perception, interconnectedness and learning organizations. Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment. 
@@ -147,7 +147,7 @@ grading rubrics.
 
  1.  All other resources will be provided online.
 
-```{block, type='caution'}
+```{block2, type='caution'}
 Note that not all sections of LDRS 664 use all of the above resources. Please confirm which of the following texts are required by ***checking your course syllabus.***
 ```
 
@@ -161,54 +161,54 @@ Note that not all sections of LDRS 664 use all of the above resources. Please co
  - Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.
  - The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.
 
- ```{block, type='caution'}
+```{block2, type='caution'}
  Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for the assignment dropboxes.
- ```
+```
 
 ### Course Activities{-}
  Below is some key information on features you will see throughout the course. 
 
- ```{block, type='reflect'}
+```{block2, type='reflect'}
 ***Learning Activity***  
 This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
- ```
+```
 
- ```{block, type='assessment'}
+```{block2, type='assessment'}
 ***Assessment***  
 This box will signify an assignment or discussion post you will submit in Moodle.  Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
- ```
+```
 
- ```{block, type='progress'}
+```{block2, type='progress'}
 ***Checking Your Learning***  
 This box is for checking your understanding, to make sure you are ready for what follows.
- ```
+```
 
- ```{block, type='reflect'}
+```{block2, type='reflect'}
 ***Media***  
 This box is for displaying/linking to media, such as videos or songs, in order to help illustrate or communicate concepts.
- ```
+```
 
- ```{block, type='caution'}
+```{block2, type='caution'}
 ***Note***  
 This box signifies key notes, such as where to submit assignments.  It may also warn you of possible problems or pitfalls you may encounter!
- ```
+```
 
 ### How To Navigate This Book{-}
  To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, change font settings, download a pdf or ebook copy of this book, or get hints on various sections of the book.
- ```{r, echo=F, fig.cap="Top menu bar", fig.show="hold", results='asis'}
+```{r, echo=F, fig.cap="Top menu bar", fig.show="hold", results='asis'}
  knitr::include_graphics("assets/course-intro/menu.png")
- ```
+```
 
  The faint left and right arrows at the sides of each page (or bottom of the page if it’s narrow enough) allow you to step to the next/previous section. Here’s what they look like:
- ```{r, echo=F, fig.cap="Left and right navigation arrows", fig.show="hold", results='asis'}
+```{r, echo=F, fig.cap="Left and right navigation arrows", fig.show="hold", results='asis'}
  knitr::include_graphics("assets/course-intro/left_arrow.png")
  knitr::include_graphics("assets/course-intro/right_arrow.png")
- ```
+```
 
 ## Graduate Level Writing Standards{-}
 
 For students in LDRS 664, graduate level writing standards following APA 7 are expected. Please consult the [OWL Purdue website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html){target="_blank"} for guidance and seek assistance from the TWU Writing Center and writing coaches as needed. Assignments have rubrics that attribute some marks to APA formatting and cannot be graded as fully meeting expectations if there are APA errors. That said, your conceptual understanding remains of primary importance. It is your responsibility to ensure polished work to the highest standard of which you are capable. This demands meticulous attention to detail, which will become more 'natural' with practice. Please seek any necessary clarification from your instructor.
 
-```{block, type='caution'}
+```{block2, type='caution'}
 ***It will be assumed that you have read, understand, and agree to the information provided at the [Academic Dishonesty Policy website](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"}. If you have any questions at all please contact your instructor.***
 ```

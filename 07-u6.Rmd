@@ -30,7 +30,7 @@ When you have completed this unit you should be able to:
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 <span class="blockhead">Learning Activities</span>
 
@@ -39,7 +39,7 @@ These learning activities will engage you in considering the guiding questions 
 
 ```
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Assessment</span>
 
@@ -70,7 +70,7 @@ Figuring out how our identity impacts the learning environment involves discerni
 
 ### Activity: Wheatley Reading and Reflection {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 Read Wheatley, M. (2017). *Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Opening pages 2-25; Chapters 1 (pages 28-61 and 2 (pages 63-97). As you read these pages think about a teacher, instructor or professor who is/was a leader in your eyes - someone you’ve most admired. What were their behaviours? How did you feel in their classroom? What kind of student were you, including the quality of what you produced? How do you feel about them now?
 
 
@@ -102,7 +102,7 @@ By incorporating liberating structures or those suggested by Brookfield and Silb
 
 ### Activity: Strategies for Supporting Learners {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 > The belief in technology to fix the messes we’ve made and to save us from decline has been labeled by Ronald Wright, ‘The Progress Trap’ (Wheatley, p. 41).
 
 **Wheatley’s point is that an over-reliance on technology is not helpful in the creation of an adult learning environment. What is then?**
@@ -118,7 +118,7 @@ In this unit, you have had the opportunity to learn about the adult educator as 
 
 ## Assessment {-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Unit 6 Discussion</span>
 
@@ -136,7 +136,7 @@ Have you ever tried to hide your home language, religion or any other
 
 ```
 
-```{block, type='caution'}
+```{block2, type='caution'}
 
 *Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
 
@@ -144,7 +144,7 @@ Have you ever tried to hide your home language, religion or any other
 
 ## Checking your Learning {-}
 
-```{block, type='progress'}
+```{block2, type='progress'}
 
 **Use the learning outcomes for this unit as a checklist of understanding
 before you move to the next unit. Can you:**

@@ -28,7 +28,7 @@ When you have completed this unit you should be able to:
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 <span class="blockhead">Learning Activities</span>
 
@@ -39,7 +39,7 @@ These learning activities will engage you in considering the guiding questions 
 
 ```
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Assessment</span>
 
@@ -82,7 +82,7 @@ Likewise, the “Free-Choice Principle” contends that “people perform better
 
 ### Activity: Palmer Reading and Reflection {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 5 Teaching in Community; Chapter 6 Learning in Community, Chapter 7 Divided No More.
 
@@ -90,11 +90,13 @@ Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 5 Teaching in Community;
 
 1.  What specific actions could you take to invite students in to the “community of truth”?
 2.  What questions can I ask to invite students to engage in collaborative, inquiry-based learning?
+
 ```
 
 ### Activity: AI Read and Discussion {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
+
 Review the [“Principles of Appreciative Inquiry”](https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introduction/5-classic-principles-ai/){target="_blank"} from the Appreciative Inquiry Commons at Champlain University. (Also in Whitney & Trosten-Bloom. (2010). *The power of appreciative inquiry: A practical guide to positive change.*)
 
 - Select two of the Principles of Appreciative Inquiry. In a 250-word discussion post, describe a learning activity you would conduct with your class that integrates both of these principles. For example, how would you design a writing assignment that included “Positive Principle”?  
@@ -124,7 +126,7 @@ Donohoo and Velasco (2016), in their work on Collaborative Inquiry, also undersc
 
 ### Activity: View and Reflect {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 For this activity, you will spend some time reflecting on your own experience as a learner, in order to consider the needs of the students you lead in online and face-to-face learning environments. So pick up your Reflective Learning Journal, grab your laptop, and settle down into a comfy chair (or sit among some trees).
 
@@ -142,7 +144,7 @@ For this activity, you will spend some time reflecting on your own experience as
 
 ### Activity: Read and Strategize {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Read Burwell & Huyser (2013). Practicing hospitality in the classroom (available through the [TWU Library](https://www.twu.ca/library){target="_blank"}.
 
@@ -156,7 +158,7 @@ In this unit, we have considered how we can create learning environments where s
 
 ## Assessment {-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Unit 5 Discussion</span>
 
@@ -182,7 +184,7 @@ After you have completed the interview, prepare a 250-word discussion post, iden
 
 ```
 
-```{block, type='caution'}
+```{block2, type='caution'}
 
 *Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
 
@@ -190,7 +192,7 @@ After you have completed the interview, prepare a 250-word discussion post, iden
 
 ## Checking your Learning {-}
 
-```{block, type='progress'}
+```{block2, type='progress'}
 
 **Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
 

@@ -34,7 +34,7 @@ When you have completed this unit you should be able to:
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*  
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 <span class="blockhead">Learning Activities</span>
 
@@ -44,7 +44,7 @@ These learning activities will engage you in considering the guiding questions 
 
 ```
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Assessment</span>
 
@@ -56,6 +56,7 @@ These learning activities will engage you in considering the guiding questions 
 ## Belonging to Others
 
 In *Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone,* Brene Brown (2017) discusses the universal human need for belonging -- and the importance of belonging authentically. She contrasts a true sense of "belonging" to "fitting in" which she describes as a sense of being accepted, but not as one's true self.
+
 > We want to be part of something, but we need it to be real -- not conditional or fake or constantly up for negotiation. We need true belonging. -- Brene Brown (2017, p. 31)
 
 According to Brown (2017), belonging involves a certain level of vulnerability, because it means we are must show up as our true selves – and those selves often include some level of doubt or weakness or insecurity.
@@ -80,7 +81,7 @@ Brower and Dettinger (1998) contend that diversity of thought and perspective is
 
 ### Activity: Reflection {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Find a quiet space in your home or outdoors. Make your favourite beverage. With your iced coffee or hot tea with honey next to you, settle into a comfortable position. 
 
@@ -96,7 +97,7 @@ In your Reflective Journal, jot down your thoughts. Consider how you have, in yo
 
 ### Activity: Read and Reflect {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 **There are three reading options to help you reflect on inclusive learning communities.**  
 
@@ -113,7 +114,7 @@ In your Reflective Journal, jot down your thoughts. Consider how you have, in yo
 
 ### Activity: Listen and Reflect {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Listen to [*A Place in this World*](https://music.youtube.com/watch?v=_FNQ5qLuLjA&list=RDAMVM_FNQ5qLuLjA){target="_blank"}, sung by Taylor Swift.
 
@@ -131,7 +132,7 @@ In this unit, you have had the opportunity to consider concepts related to our o
 
 ## Assessment{-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Unit 3 Discussion</span>
 
@@ -146,7 +147,7 @@ Based on the learning activities in this unit, create a learning activity you wo
 
 ```
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Assignment 1: Identity as a Teacher Paper (20%)</span>
 
@@ -154,7 +155,7 @@ Building on your learning in the first three weeks of class, write a 3-4 page pa
 
 ```
 
-```{block, type='caution'}
+```{block2, type='caution'}
 
 *Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
 
@@ -162,7 +163,7 @@ Building on your learning in the first three weeks of class, write a 3-4 page pa
 
 ## Checking your Learning {-}
 
-```{block, type='progress'}
+```{block2, type='progress'}
 
 **Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
 

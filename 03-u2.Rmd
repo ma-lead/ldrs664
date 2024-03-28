@@ -30,7 +30,7 @@ When you have completed this unit you should be able to:
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 <span class="blockhead">Learning Activities</span>
 
@@ -46,7 +46,7 @@ These learning activities will engage you in considering the guiding questions 
 
 ```
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Assessment</span>
 
@@ -78,7 +78,7 @@ As poet [Maya Angelou](http://billmoyers.com/content/conversation-maya-angelou/)
 
 ### Activity: Who are you? {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 For this activity, you are asked to share a little more about yourself with your peers. First, find a quote about either identity or integrity. For example, you may want to perform a Google image search for “identity quote.” Find one that resonates with you, and then include a picture of something that tells us something about you. Post the quote and your image to the Unit 2 Discussion forum with a 1-2 sentence explanation. This is a non-graded activity, but may help you reflect on this topic and to prepare for the assignment in this unit.
 
@@ -86,7 +86,7 @@ For this activity, you are asked to share a little more about yourself with your
 
 ### Activity: View and Reflect {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 View the following resources and reflect on your learning:
 
@@ -111,7 +111,7 @@ If effective relationships include these characteristics, then authentic teacher
 
 ### Activity: Vulnerability Video {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Watch the TedTalk by Brene Brown: (20 minutes)
 
@@ -134,7 +134,7 @@ You may want to answer these questions in your Reflective Learning Journal, and 
 
 ### Activity: Brown Reading & Reflection {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Brown (2017) argues that authenticity is essential to belonging.
 
@@ -151,7 +151,7 @@ Brown (2017) argues that authenticity is essential to belonging.
 
 ### Activity: Sharing your Identity {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Being vulnerable involves sharing something of our true selves, which we might not always be comfortable doing in certain environments.
 
@@ -174,7 +174,7 @@ These relationships will form the basis for learning in the classroom. Learning 
 
 ### Activity: Listen and Reflect {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Listen to “Brave” sung by Sara Bareilles.
 
@@ -190,7 +190,7 @@ Listen to “Brave” sung by Sara Bareilles.
 
 ### Activity: Self-Test (non-graded) {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Take the [Clance Imposter Phenomenon test](http://paulineroseclance.com/pdf/IPscoringtest.pdf). As you take the test, consider the areas in which you feel vulnerable in your work as a learner. How would you address these concerns for learners in courses you facilitate?
 
@@ -198,7 +198,7 @@ Take the [Clance Imposter Phenomenon test](http://paulineroseclance.com/pdf/IPsc
 
 ### Activity: Readings {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Read: Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. The Leadership Quarterly 16, pp. 343–372.
 
@@ -208,7 +208,7 @@ Optional Read: Cuddy, A. (2016). [I don’t deserve to be here: Presence and th
 
 ### Activity: Connection Activities  & Discussion {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 “[Liberating Structures](https://www.liberatingstructures.com/ls-menu){target="_blank"}” (Lipmanowicz & McCandless, 2013) are used in collaborative learning and work environments to create space for all participants to engage in collaborative inquiry and unleash innovation. One of these “Liberating Structures” is the strategy of the “Nine Whys,” which allows participants to clarify what is important in their work. You may choose to use a strategy like this in your role as a facilitator and teacher. For this learning activity, however, you will use the strategy of the “Nine Whys” to consider your own identity as a teacher/facilitator.
 
@@ -228,7 +228,7 @@ In this unit, we have explored the importance of identity, authenticity, and vul
 
 ## Assessment{-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Unit 2 Discussion</span>
 
@@ -251,7 +251,7 @@ Write 250 word discussion post on this process, including your “why” for tea
 
 ```
 
-```{block, type='caution'}
+```{block2, type='caution'}
 
 *Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
 
@@ -259,7 +259,7 @@ Write 250 word discussion post on this process, including your “why” for tea
 
 ## Checking your Learning{-}
 
-```{block, type='progress'}
+```{block2, type='progress'}
 
 **Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
 

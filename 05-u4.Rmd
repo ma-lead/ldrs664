@@ -32,7 +32,7 @@ When you have completed this unit you should be able to:
 
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 <span class="blockhead">Learning Activities</span>
 
@@ -42,7 +42,7 @@ These learning activities will engage you in considering the guiding questions 
 
 ```
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Assessment</span>
 
@@ -62,7 +62,7 @@ As you consider the learning community you will facilitate, consider how you mig
 
 ### Activity: Compare Community Models {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Read [“What IS a Learning Community?” (Brower & Dettinger, 1998)](assets/unit4/Learning_community.pdf){target="_blank"}.
 
@@ -84,7 +84,7 @@ Read [“What IS a Learning Community?” (Brower & Dettinger, 1998)](assets/uni
 
 ### Activity: York Reading and Reflection {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Read York et.al - [Defining and Measuring Academic Success](https://eric.ed.gov/?q=EJ1059739){target="_blank"} (2015). Also available through the TWU library.
 
@@ -113,7 +113,7 @@ Palmer’s (2017) model highlights the relational knowledge of learning communit
 
 ### Activity:  Palmer Reading and Reflection {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 Read *The Courage to Teach,* Chapter 4 “Knowing in Community” (Palmer, 2017).
 
 **In your Reflective Journal:**  
@@ -144,7 +144,7 @@ License.
 
 ### Activity:  Madland Reading and Reflection {-}
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 
 Review the [The Trinity Community of Inquiry](assets/unit4/Madland-transformational-learning.pdf) (Madland, 2017).
 
@@ -168,7 +168,7 @@ As Palmer (2017) points out, learning includes both thought (cognitive) and feel
 
 ## Assessment {-}
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 
 <span class="blockhead">Unit 4 Discussion</span>
 
@@ -178,7 +178,7 @@ Provide a brief description of each of the three models (with citations as appro
 
 ```
 
-```{block, type='caution'}
+```{block2, type='caution'}
 
 *Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
 
@@ -186,7 +186,7 @@ Provide a brief description of each of the three models (with citations as appro
 
 ### Checking your Learning {-}
 
-```{block, type='progress'}
+```{block2, type='progress'}
 
 **Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
 
